@@ -1,0 +1,5 @@
+baseURL = "http://bangbangcon.com/west"
+languageCode = "en-us"
+publishDir = "docs"
+title = "!!Con West : Joy, Surprise, and Excitement of Computing!"
+theme = "bangbangcon"

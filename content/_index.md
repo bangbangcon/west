@@ -1,10 +1,9 @@
 ---
-layout: default-west
 title: "!!Con West"
 ---
 
 <div style="text-align: center;">
-<img src="logo.png" width="300" alt="!!Con West" />
+<img src="images/logo.png" width="300" alt="!!Con West" />
 </div>
 
 # Frequently asked questions
@@ -44,3 +43,4 @@ The [Baskin School of Engineering](https://www.soe.ucsc.edu/) at UC Santa Cruz h
 ## I have a question that isn't covered in this FAQ.  Who can I ask?
 
 Contact [Lindsey Kuper](mailto:lindsey@composition.al)!
+
