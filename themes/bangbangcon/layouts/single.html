@@ -31,14 +31,12 @@
         </div>
       </div>
       <div class="inner">
-        <div class="permalinks">
         <nav>
           Links :
             {{ range .Pages }}
-            <a href="{{.Permalink}}">{{ .Title }}</a> &middot;
+            <a href="{{.Permalink}}">{{ .Title }}</a>
             {{ end }}
         </nav>
-        </div>
         <section id="main_content">
 
         {{ .Content}}

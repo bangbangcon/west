@@ -6,9 +6,37 @@
     <description>Recent content in !!Con West on !!Con West : Joy, Surprise, and Excitement of Computing!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 13:46:46 -0700</lastBuildDate>
     
 	<atom:link href="http://bangbangcon.com/west/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sponsors</title>
+      <link>http://bangbangcon.com/west/sponsors/</link>
+      <pubDate>Thu, 01 Nov 2018 13:46:46 -0700</pubDate>
+      
+      <guid>http://bangbangcon.com/west/sponsors/</guid>
+      <description>Sponsorship details!</description>
+    </item>
+    
+    <item>
+      <title>Call For Proposals!</title>
+      <link>http://bangbangcon.com/west/_cfp/</link>
+      <pubDate>Thu, 01 Nov 2018 13:06:41 -0700</pubDate>
+      
+      <guid>http://bangbangcon.com/west/_cfp/</guid>
+      <description>Information</description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>http://bangbangcon.com/west/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bangbangcon.com/west/faq/</guid>
+      <description>Frequently asked questions What&amp;rsquo;s all this, then? !!Con (pronounced &amp;ldquo;bang bang con&amp;rdquo;) is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing that&amp;rsquo;s been held annually in New York since 2014. Due to massive demand, in 2019 we&amp;rsquo;re expanding !!Con to the west coast of the US. !!Con West will be held in Santa Cruz, California, on the campus of UC Santa Cruz, in early 2019, most likely in February/March.</description>
+    </item>
     
   </channel>
 </rss>

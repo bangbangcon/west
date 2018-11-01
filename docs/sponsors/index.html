@@ -4,18 +4,14 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="favicon.ico" type="images/x-icon" />
+    <link rel="icon" href="../favicon.ico" type="images/x-icon" />
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Pontano+Sans:400,700,900" />
-    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="../stylesheet.css" media="screen" />
+    
      <title>
-      {{ with .Params.Title }}
-      {{ . }}
-      {{ else }}
-      !!Con West
-      {{ end }}
+      
+      Sponsors
+      
     </title>
   </head>
 
@@ -24,24 +20,18 @@
     <div id="container">
       <div class="header">
         <div class="header-inner">
-          <a href="index.html"><img src="images/logo.svg" alt="!!Con West logo"/></a>
-          <h1><a href="index.html"><span style="white-space: nowrap; display: inline-block;"><span style="letter-spacing:-8px; display: inline-block; padding-right:4px;">!!</span>Con West</span> 2019</a></h1>
+          <a href="../index.html"><img src="../images/logo.svg" alt="!!Con West logo"/></a>
+          <h1><a href="../index.html"><span style="white-space: nowrap; display: inline-block;"><span style="letter-spacing:-8px; display: inline-block; padding-right:4px;">!!</span>Con West</span> 2019</a></h1>
           <h2>Feb 23-24, 2019 in Santa Cruz, CA</h2>
           <p><span>The joy, excitement, and</span> <span>surprise of computing<span></p>
         </div>
       </div>
       <div class="inner">
-        <div class="permalinks">
-        <nav>
-          Links :
-            {{ range .Pages }}
-            <a href="{{.Permalink}}">{{ .Title }}</a> &middot;
-            {{ end }}
-        </nav>
-        </div>
+
         <section id="main_content">
 
-        {{ .Content}}
+        <p>Sponsorship details!</p>
+
 
         </section>
 

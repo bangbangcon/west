@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bangbangcon.com/west/sponsors/</loc>
+    <lastmod>2018-11-01T13:46:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bangbangcon.com/west/_cfp/</loc>
+    <lastmod>2018-11-01T13:06:41-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bangbangcon.com/west/</loc>
+    <lastmod>2018-11-01T13:46:46-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://bangbangcon.com/west/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bangbangcon.com/west/faq/</loc>
   </url>
   
   <url>
