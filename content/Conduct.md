@@ -23,6 +23,7 @@ All communication should be appropriate for a professional audience including pe
 Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for !!Con West.
 
 Attendees violating these rules may be asked to leave the conference at the sole discretion of the conference organizers.
+
 Thank you for helping make this a welcoming, friendly event for all.
 
 ## The longer version
@@ -30,6 +31,7 @@ Thank you for helping make this a welcoming, friendly event for all.
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, derisive comments regarding technical background, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
+
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for !!Con West.
 
 If a participant engages in behavior that violates the anti-harassment policy, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference.
@@ -52,14 +54,12 @@ Conference staff will be happy to do whatever we can to help those experiencing 
 
 ## Report a violation (with or without your name)
 <form action="https://formspree.io/sara.chicazul@gmail.com" method="POST">
-
-<label for="code of conduct violation">Code of Conduct violation </label>
-<textarea type="text" name="code of conduct violation" rows="5" cols="80"></textarea>
-<label for="_replyto">Your email (optional) </label>
-<input type="email" name="_replyto">
-
-<input type="submit" value="Send">
-</form> 
+  <p><label for="cocreport">Code of Conduct violation </label></p>
+  <textarea id="cocreport" name="cocreport" rows="5" cols="80"></textarea>
+  <p><label for="replyto">Your email (optional) </label>
+  <input type="email" id="replyto" name="_replyto" /></p>
+  <p><input type="submit" value="Send" /></p>
+</form>
 
 ## License
 
