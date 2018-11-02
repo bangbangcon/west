@@ -2,11 +2,6 @@
 title: "!!Con West"
 ---
 
-<div style="text-align: center;">
-<img src="images/logo.png" width="300" alt="!!Con West" />
-</div>
-
-
 **!!Con** (pronounced "bang bang con") **West** is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  Join us in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
 
 ## Who's speaking?
