@@ -13,20 +13,21 @@ Since its launch five years ago, !!Con talks have featured everything from [glow
 What’s an idea that delights you? Did you learn something surprising recently? Is there a tool you love that you’ve been telling everyone about? Did you do something with computers that seems impossible or amazing or just really fun? Please take this call for talk proposals as an [invitation to meditate](https://twitter.com/akaptur/status/583115830621184000) on what you find exciting and surprising and delightful about programming and computing, and then submit a talk about one of those things!
 The only requirements are that your talk:
 
-* be computing-related!
-* be about something you think is interesting and cool!
-* **have at least one exclamation mark in the title!**
+  * be computing-related!
+  * be about something you think is interesting and cool!
+  * **have at least one exclamation mark in the title!**
 
 We would **especially** like to hear from you if:
-* you submitted a talk proposal to a previous !!Con that was rejected (we’ve had to reject **so many** talk proposals we loved).
-* you’ve never spoken at a tech conference. Some of our favorite !!Con talks have been from first-time speakers.
-* you find that people like you are underrepresented at programming conferences. We’re committed to doing work to make !!Con a good experience for you. See our [code of conduct]().
+
+  * you submitted a talk proposal to a previous !!Con that was rejected (we’ve had to reject **so many** talk proposals we loved).
+  * you’ve never spoken at a tech conference. Some of our favorite !!Con talks have been from first-time speakers.
+  * you find that people like you are underrepresented at programming conferences. We’re committed to doing work to make !!Con a good experience for you. See our [code of conduct](/conduct/).
 
 **All talks will be ten minutes long**. Ten minutes isn’t much time, so think carefully about the scope of your talk and be clear in the [timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/) about how you plan to spend the time. A single, focused idea is best – go for “here’s my favorite assembly instruction” rather than “here’s an overview of how assembly works”.
 
 The submission deadline is **Friday, November 30**. We’ll accept as many of your amazing talks as we can. You can submit more than one talk proposal.
 
-**Proposals will be anonymized to avoid bias**. Although we ask for your name, email address, and so on in the [proposal submission form](https://goo.gl/forms/mLdrFQeCHFVDl1S32), only one or two organizers who serve as anonymizers will actually see this information, and they won’t review your proposal. The rest of the [organizing team]() will review your proposal without knowing who you are.
+**Proposals will be anonymized to avoid bias**. Although we ask for your name, email address, and so on in the [proposal submission form](https://goo.gl/forms/mLdrFQeCHFVDl1S32), only one or two organizers who serve as anonymizers will actually see this information, and they won’t review your proposal. The rest of the [organizing team](/index.html#who-s-organizing) will review your proposal without knowing who you are.
 
 [Submit your proposal today!](https://goo.gl/forms/mLdrFQeCHFVDl1S32)
 
