@@ -2,6 +2,11 @@
 title: "Conduct"
 date: 2018-11-01T13:39:05-07:00
 draft: false
+menu:
+  main:
+    title: "Code of Conduct"
+    weight: 80
+
 ---
 
 # Code of conduct

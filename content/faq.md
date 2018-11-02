@@ -1,5 +1,9 @@
 ---
 title: "FAQs"
+menu:
+  main:
+    title: "FAQ"
+    weight: 100
 ---
 
 # Frequently asked questions
