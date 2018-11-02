@@ -23,6 +23,24 @@ year's **!!Con West**, in addition to our speakers and organizers.
 
 **!!Con West** is an **alcohol-free event**.  All ages are welcome.
 
+## Gender-neutral restrooms
+
+The venue will have two single-occupancy gender-neutral restrooms in the
+same building as the auditorium; additionally, there are gender-labeled
+restrooms in adjacent buildings.
+
+## Lactation room
+
+A secure, private space will be made available for anybody who needs a
+lactation room.  Please ask a conference organizer, and we'll be happy to
+get you access.
+
+## CART captioning
+
+**!!Con West** will have CART ("Communication Access Realtime
+Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
+live transcription in English.
+
 ## Getting to UCSC
 
 ### By car
