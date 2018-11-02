@@ -35,7 +35,7 @@ hr {
     font-family: "Pontano Sans", serif;
     font-weight: 900;
     line-height: 1;
-    height: 250px;
+    height: 200px;
 }
 
 #container {
@@ -51,7 +51,7 @@ hr {
 }
 
 .header h1 {
-    font-size: 555%;
+    font-size: 500%;
     font-weight: 900;
     text-align: right;
     letter-spacing: 0px;

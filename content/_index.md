@@ -6,7 +6,7 @@ title: "!!Con West"
 
 ## Who's speaking?
 
-Our amazing keynote speakers, and maybe [you](/cfp/)!
+Our amazing keynote speakers, and maybe [you](http://bangbangcon.com/west/cfp/)!
 
 ## How do I get updates?
 
