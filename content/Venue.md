@@ -8,9 +8,9 @@ menu:
     weight: 60
 ---
 
-# Where is !!Con West 2018?
+# Where is !!Con West 2019?
 
-We're excited to bring **!!Con West 2018** to scenic Santa Cruz, California,
+We're excited to bring **!!Con West 2019** to scenic Santa Cruz, California,
 on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on February 23rd
 and 24th.  Santa Cruz is a joy of coastal California redwoods, about an
 hour's drive from the bustle of Silicon Valley.  We'll be holding **!!Con
