@@ -2,6 +2,10 @@
 title: "Sponsor !!Con West!"
 date: 2018-11-01T13:46:46-07:00
 draft: false
+menu:
+  main:
+    title: "Sponsors"
+    weight: 30
 ---
 
 # Sponsor !!Con West!

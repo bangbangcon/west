@@ -2,6 +2,10 @@
 title: "Call for Proposals!"
 date: 2018-11-01T13:06:41-07:00
 draft: false
+menu:
+  main:
+    title: "CFP"
+    weight: 70
 ---
 
 # Give a talk at !!Con West!

@@ -2,11 +2,15 @@
 title: "Venue"
 date: 2018-11-01T13:38:57-07:00
 draft: false
+menu:
+  main:
+    title: "Venue"
+    weight: 60
 ---
 
-# Where is !!Con West 2018?
+# Where is !!Con West 2019?
 
-We're excited to bring **!!Con West 2018** to scenic Santa Cruz, California,
+We're excited to bring **!!Con West 2019** to scenic Santa Cruz, California,
 on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on February 23rd
 and 24th.  Santa Cruz is a joy of coastal California redwoods, about an
 hour's drive from the bustle of Silicon Valley.  We'll be holding **!!Con
@@ -22,6 +26,24 @@ year's **!!Con West**, in addition to our speakers and organizers.
 ## Alcohol-free and all-ages
 
 **!!Con West** is an **alcohol-free event**.  All ages are welcome.
+
+## Gender-neutral restrooms
+
+The venue will have two single-occupancy gender-neutral restrooms in the
+same building as the auditorium; additionally, there are gender-labeled
+restrooms in adjacent buildings.
+
+## Lactation room
+
+A secure, private space will be made available for anybody who needs a
+lactation room.  Please ask a conference organizer, and we'll be happy to
+get you access.
+
+## CART captioning
+
+**!!Con West** will have CART ("Communication Access Realtime
+Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
+live transcription in English.
 
 ## Getting to UCSC
 
