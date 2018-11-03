@@ -92,6 +92,7 @@ hr {
     text-align: center;
     list-style: none;
     flex-direction: row;
+    padding-left: inherit;
 }
 
 .header nav ul li {
