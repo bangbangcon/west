@@ -93,6 +93,7 @@ hr {
     list-style: none;
     flex-direction: row;
     padding-left: inherit;
+    padding-top: 1.5em;
 }
 
 .header nav ul li {
