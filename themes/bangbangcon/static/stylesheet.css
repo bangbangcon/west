@@ -336,6 +336,11 @@ footer a:hover {
         padding-left: 35%;
         padding-top: 1em;
     }
+    .header nav ul {
+        padding-top: 1em;
+        line-height: 2;
+        font-size: 150%;
+    }
 }
 
 table, caption, tbody, tfoot, thead, tr, th, td {
