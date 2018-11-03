@@ -35,7 +35,7 @@ hr {
     font-family: "Pontano Sans", serif;
     font-weight: 900;
     line-height: 1;
-    height: 200px;
+    height: 20em;
 }
 
 #container {
@@ -51,12 +51,12 @@ hr {
 }
 
 .header h1 {
-    font-size: 500%;
+    font-size: 450%;
     font-weight: 900;
     text-align: center;
     letter-spacing: 0px;
     margin: 0 auto;
-    padding: 0 0 0 0;
+    padding: 1em 0 0 0;
 }
 
 .header h2 {
@@ -92,6 +92,8 @@ hr {
     text-align: center;
     list-style: none;
     flex-direction: row;
+    padding-left: inherit;
+    padding-top: 1.5em;
 }
 
 .header nav ul li {
@@ -113,7 +115,7 @@ hr {
     background: #f5f5dc;
     max-width: 850px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 3em;
 }
 
 #blurb {
@@ -121,7 +123,7 @@ hr {
 }
 
 h1 {
-    margin-top: 0;
+    margin-top: 0.5em;
     font-family: "Pontano Sans", serif;
     font-weight: 900;
     font-size: 280%;
@@ -325,7 +327,20 @@ footer a:hover {
     .speaker-img {
         text-align: center;
         float: none;
-        margin: 0 auto ;
+        margin: 0 auto;
+    }
+    .header {
+        font-size: 80%;
+    }
+    .header img {
+        width: 30%;
+        padding-left: 35%;
+        padding-top: 1em;
+    }
+    .header nav ul {
+        padding-top: 1em;
+        line-height: 2;
+        font-size: 150%;
     }
 }
 
