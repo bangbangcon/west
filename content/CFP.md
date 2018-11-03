@@ -25,7 +25,7 @@ We would **especially** like to hear from you if:
 
   * you submitted a talk proposal to a previous !!Con that was rejected (we’ve had to reject **so many** talk proposals we loved).
   * you’ve never spoken at a tech conference. Some of our favorite !!Con talks have been from first-time speakers.
-  * you find that people like you are underrepresented at programming conferences. We’re committed to doing work to make !!Con a good experience for you. See our [code of conduct](/conduct/).
+  * you find that people like you are underrepresented at programming conferences. We’re committed to doing work to make !!Con West a good experience for you. See our [code of conduct](/conduct/).
 
 **All talks will be ten minutes long**. Ten minutes isn’t much time, so think carefully about the scope of your talk and be clear in the [timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/) about how you plan to spend the time. A single, focused idea is best – go for “here’s my favorite assembly instruction” rather than “here’s an overview of how assembly works”.
 
@@ -44,7 +44,7 @@ The submission deadline is **Friday, November 30**. We’ll accept as many of yo
 * **TBD**: Conference registration opens.
 * **TBD**: Public announcement of full speaker list.
 * **TBD**: Public announcement of detailed schedule.
-* **February 23-24**: !!Con!
+* **February 23-24**: !!Con West!
 
 ## Speaker travel funding
 
