@@ -326,7 +326,12 @@ footer a:hover {
     .speaker-img {
         text-align: center;
         float: none;
-        margin: 0 auto ;
+        margin: 0 auto;
+    }
+    .header img {
+        width: 30%;
+        padding-left: 35%;
+        padding-top: 1em;
     }
 }
 
