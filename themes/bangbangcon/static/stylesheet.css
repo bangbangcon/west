@@ -326,6 +326,13 @@ footer a:hover {
     }
 }
 
+@media (max-width: 623px) {
+    .header img {
+        width: 30%;
+        padding: 2em 0 1em 35%;
+    }
+}
+
 @media (max-width: 500px) {
     body {
         font-size: 95%;
@@ -340,11 +347,6 @@ footer a:hover {
     }
     .header {
         font-size: 80%;
-    }
-    .header img {
-        width: 30%;
-        padding-left: 35%;
-        padding-top: 1em;
     }
     .header nav ul {
         padding-top: 1em;
