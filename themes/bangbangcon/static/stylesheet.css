@@ -304,6 +304,11 @@ footer a:hover {
     color: #222222;
 }
 
+@media (max-width: 740px) {
+    .inner {
+        margin: 5em auto;
+     }
+}
 
 @media (max-width: 650px) {
     .header span {
@@ -314,6 +319,10 @@ footer a:hover {
     .header {
         height: auto;
         padding: 0px 25px 25px 25px;
+    }
+
+    .inner {
+        margin: 0 auto;
     }
 }
 
