@@ -304,6 +304,11 @@ footer a:hover {
     color: #222222;
 }
 
+@media (max-width: 740px) {
+    .inner {
+        margin: 5em auto;
+     }
+}
 
 @media (max-width: 650px) {
     .header span {
@@ -314,6 +319,17 @@ footer a:hover {
     .header {
         height: auto;
         padding: 0px 25px 25px 25px;
+    }
+
+    .inner {
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 623px) {
+    .header img {
+        width: 30%;
+        padding: 2em 0 1em 35%;
     }
 }
 
@@ -331,11 +347,6 @@ footer a:hover {
     }
     .header {
         font-size: 80%;
-    }
-    .header img {
-        width: 30%;
-        padding-left: 35%;
-        padding-top: 1em;
     }
     .header nav ul {
         padding-top: 1em;
