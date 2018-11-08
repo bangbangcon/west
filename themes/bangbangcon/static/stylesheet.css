@@ -158,10 +158,10 @@ p, ul {
 }
 
 .speaker-img {
-    width: 100px;
-    height: 100px;
     border: 1px solid #222222;
     background-color: #222222;
+    width: 120px;
+    height: 120px;
     float: right;
     margin-left: 1em;
     margin-bottom: 1em;
