@@ -10,7 +10,7 @@ menu:
 
 ## Who's speaking?
 
-Two amazing keynote speakers (soon to be announced), and maybe [you](/cfp/)! 
+Two amazing keynote speakers (<a href='/speakers#vj-um-amel'>VJ Um Amel</a> and <a href='/speakers#lynn-cyrin'>Lynn Cyrin</a>), and maybe [you](/cfp/)!
 If you'd like to be a part of !!Con West 2019, [submit a talk proposal by
 November 30th](/cfp/).
 
@@ -20,7 +20,7 @@ Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
 
 ## Who's organizing?
 
-The !!Con West 2019 organizing team: Alicja Raszkowska, Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge. 
+The !!Con West 2019 organizing team: Alicja Raszkowska, Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge.
 [Send us an e-mail](mailto:bangbangcon.west@gmail.com) if you'd like to get
 in touch.
 
