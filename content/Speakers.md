@@ -13,7 +13,7 @@ menu:
 <h3 id='vj-um-amel'>VJ Um Amel</h3>
 <p>
   <img class='speaker-img' src="../images/vj_um_amel.jpeg" alt="Profile Photo of VJ Um Amel">
-  <a href="http://vjumamel.com">**VJ Um Amel**</a> is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also the Assistant Professor of Media Theory & Practice at the University of California, Santa Barbara.
+  <a href="http://vjumamel.com">**VJ Um Amel**</a> is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also Assistant Professor of Media Theory & Practice at the University of California, Santa Barbara.
 </p>
 
 ---
