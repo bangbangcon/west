@@ -10,18 +10,18 @@ menu:
 
 # Who's speaking at !!Con West?
 ## Keynote Speakers
-<h3 id='vj-um-amel'>VJ Um Amel</h3>
-<p>
-  <img class='speaker-img' src="../images/vj_um_amel.jpeg" alt="Profile Photo of VJ Um Amel">
-  <a href="http://vjumamel.com">**VJ Um Amel**</a> is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also Assistant Professor of Media Theory & Practice at the University of California, Santa Barbara.
-</p>
-
----
-
 <h3 id='lynn-cyrin'>Lynn Cyrin</h3>
 <p>
   <img class='speaker-img' src="../images/lynn_cyrin.jpeg" alt="Profile Photo of Lynn Cyrin"/>
   <a href="https://lynncyrin.me">**Lynn Cyrin**</a> is a software engineer and programming zealot. They live in tech culture most of the time, and care a lot about making sure our code children are well taken care of.<br><br><br>
+</p>
+
+---
+
+<h3 id='vj-um-amel'>VJ Um Amel</h3>
+<p>
+  <img class='speaker-img' src="../images/vj_um_amel.jpeg" alt="Profile Photo of VJ Um Amel">
+  <a href="http://vjumamel.com">**VJ Um Amel**</a> is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also Assistant Professor of Media Theory & Practice at the University of California, Santa Barbara.
 </p>
 
 ---
