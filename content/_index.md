@@ -18,7 +18,7 @@ November 30th](/cfp/).
 
 Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
 
-You can also subscribe to our mailing list!
+You can also subscribe to our mailing list!  We send roughly five emails a year, and we'll never share your email address with anyone else.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
