@@ -48,12 +48,12 @@ us.](mailto:bangbangcon.west@gmail.com)
 
 ---
 
-## In-Kind Sponsorship
+## In-Kind Sponsorship Ideas (benefits and costs are variable--talk to us!)
 * Accommodation near UCSC
-  * We provide accommodation for our speakers
+  * We aim to provide accommodation for all of our speakers. You could help to sponsor accommodation for our speakers this year!
 * Live Captioning
-  * In order to make !!Con West as accessible as possible, we have live captioning by a professional stenographer who is familiar with the computing world
+  * In order to make !!Con West as accessible as possible, we hope to continue our tradition of having live captioning by a professional stenographer who is familiar with the computing world
 * Child Care
-  * In order to make !!Con West as accessible as possible, we would like to provide child care for our attendees
+  * You could help us sponsor child care for our attendees, making !!Con West accessible and inclusive to more people.
 
 Is there anything we missed that you think your company would be able to help with? Do [contact us](mailto:bangbangcon.west@gmail.com) - we would love to hear from you!
