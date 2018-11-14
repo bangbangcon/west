@@ -46,6 +46,9 @@ us.](mailto:bangbangcon.west@gmail.com)
 * Verbal thanks during the conference
 * Logo on welcome slide
 
+#### A note about employee tickets
+Space at !!Con West is limited, so we humbly request that these tickets go to employees of your company who will really enjoy the subject matter of the talks. What that means will depend on the company, but it’s likely to mean programmer/engineer employees or programming enthusiasts.
+
 ---
 
 ## In-Kind Sponsorship Ideas (benefits and costs are variable--talk to us!)
