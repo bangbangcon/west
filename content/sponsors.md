@@ -24,7 +24,7 @@ us.](mailto:bangbangcon.west@gmail.com)
 ---
 
 ## Sponsorship Tiers
-### PHENOMENAL Sponsor!!! (USD 8,000)
+### PHENOMENAL Sponsor!!! (8,000 USD)
 * A staffable booth with space for swag, company information
 * 3 reserved tickets for employees*
 * Roll-up poster or other signage
@@ -32,7 +32,7 @@ us.](mailto:bangbangcon.west@gmail.com)
 * Logo on welcome slide
 * Logo on website
 
-### EXCELLENT Sponsor!! (USD 5,000)
+### EXCELLENT Sponsor!! (5,000 USD)
 * Space on a shared table for freebies/swag
 * 1 reserved ticket for employees*
 * Roll-up poster or other signage
@@ -40,7 +40,7 @@ us.](mailto:bangbangcon.west@gmail.com)
 * Logo on welcome slide
 * Logo on website
 
-### AWESOME Sponsor! (USD 2,000)
+### AWESOME Sponsor! (2,000 USD)
 * Space on a shared table for freebies/swag
 * Roll-up poster or other signage
 * Verbal thanks during the conference
