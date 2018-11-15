@@ -10,7 +10,7 @@ menu:
 
 ## Who's speaking?
 
-Two amazing keynote speakers (soon to be announced), and maybe [you](/cfp/)!
+Two amazing keynote speakers (<a href='/speakers#lynn-cyrin'>Lynn Cyrin</a> and <a href='/speakers#vj-um-amel'>VJ Um Amel</a>), and maybe [you](/cfp/)!
 If you'd like to be a part of !!Con West 2019, [submit a talk proposal by
 November 30th](/cfp/).
 
