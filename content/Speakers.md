@@ -27,7 +27,8 @@ menu:
 ---
 
 ## Speakers
-Who else is speaking at !!Con West? We're so excited that it could be **you**! If you're interested in giving a talk at !!Con West 2019, [submit a talk proposal by Friday, November 30th](/cfp/)!
+
+Who else is speaking at !!Con West? Maybe **you**!  We're currently reviewing over 200 talk proposals, and we'll announce our speaker lineup as soon as we can.
 
 To whet your appetite, you might want to have a look at some of our
 **amazing** speakers from
