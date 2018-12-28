@@ -432,3 +432,17 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     font-family: "Pontano Sans", sans-serif;
     padding: 20px;
 }
+
+.talk-title {
+  font-weight: 800;
+  font-style: italic;
+}
+
+abbr {
+  -moz-text-decoration-line: underline;
+  -moz-text-decoration-style: dotted;
+  -webkit-text-decoration-line: underline;
+  -webkit-text-decoration-style: dotted;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
