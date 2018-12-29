@@ -49,6 +49,42 @@ popular addons.
 
 ---
 
+### Pranshu Bajpai
+
+<span class="talk-title">The Conjuring: ransomware edition!!</span>
+
+Ransomware is malevolent software that possesses host, holds files hostage,
+and allows its dark masters to perform extortion.  This form of malware
+seeks to infect weak hosts, acquires a unique encryption secret, encrypts
+user data using this secret incantation (key), locks away the key so the
+victim cannot obtain it, and finally exhibits signs of possession (ransom
+notes).  Once the possession takes hold, no exorcist or security expert can
+help.
+
+But how does ransomware really function?  What does it take to successfully
+carry out the biggest financially motivated cybercrime operation?  How does
+ransomware infiltrate hosts?  Where does it acquire the unique encryption
+key needed to encrypt each victim?  How does it hide this key from victims? 
+Why is data recovery infeasible without the key?
+
+In this talk, we discuss the intricacies of a ransomware infection.  We
+follow the process of host infiltration, communication with malware's
+command and control server, key management on host, file encryption, and
+finally the underground market of buying, selling, developing and
+distributing ransomware.  We dissect real-world ransomware and show
+demonstrations of the most successful ransomware variants in action!
+
+<b>Pranshu Bajpai</b> (<a href="https://twitter.com/amirootyet">@amirootyet</a>) is a security
+researcher working towards his PhD in Computer Science and Engineering at
+Michigan State University.  His research interests lie in computer and
+network security, malware analysis, digital forensics, and cyber crimes.  In
+the past, he worked as a penetration tester.  He has been an active speaker
+at conferences and spoken at DEFCON, IEEE APWG eCrime conference, GrrCon,
+BSides and others.  He holds an MS in Information Security and an MBA in
+Marketing.
+
+---
+
 ### Misty De M&eacute;o
 
 <span class="talk-title">Let's translate old video games!  How do they even
