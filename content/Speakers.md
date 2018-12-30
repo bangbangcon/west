@@ -191,7 +191,7 @@ Jerk parent.
 ### Mike Lazer-Walker
 
 <img class='speaker-img' src="../images/speakers/mike-lazer-walker.png" alt="Profile Photo of
-Mike Lazer-Walker Arntzenius"/>
+Mike Lazer-Walker"/>
 <span class="talk-title">Computers are fast!  But how come they sometimes
 feel slow?</span>
 
@@ -320,7 +320,7 @@ there?" and "how could I build this?".
 Michael Arntzenius"/>
 <span class="talk-title">Software patterns... from the 9th century?!!</span>
 
-In 9th century Europe, agriculture underwent a major refactoring ?  all to
+In 9th century Europe, agriculture underwent a major refactoring &mdash; all to
 change a single magic constant.  Traditionally, farmers left half their land
 uncultivated, to let it recover depleted nutrients; now they started leaving
 only a third fallow.  This generates 33% more food on the same land!  Sounds
