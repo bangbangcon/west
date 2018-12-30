@@ -316,7 +316,7 @@ there?" and "how could I build this?".
 
 ### Michael Arntzenius
 
-<img class='speaker-img' src="../images/speakers/michael-arntzenius.png" alt="Profile Photo of
+<img class='speaker-img' src="../images/speakers/michael-arntzenius.jpg" alt="Profile Photo of
 Michael Arntzenius"/>
 <span class="talk-title">Software patterns... from the 9th century?!!</span>
 
