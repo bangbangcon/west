@@ -33,18 +33,18 @@ menu:
 ### Tobias Bieniek
 
 <span class="talk-title">Help!  How do you let others know what's going on
-when you're 8000ft up in the air in a plane without an engine?!</span>
+when you're 8000 feet up in the air in a plane without an engine?!</span>
 
-First of all: Keep calm and carry on!  Chances are that you are on board of
-a glider, which is flying perfectly fine without an engine.  In this talk
+First of all: Keep calm and carry on!  Chances are that you are on board
+a glider, which is flying perfectly well without an engine.  In this talk
 you'll learn how glider pilots can travel hundreds of miles with just the
 power of the sun, and how you can watch them do their thing with your feet
 on the ground.  We'll discuss how modern technology makes this sport
 spectator-friendly, and how all of this can be achieved with very low cost.
 
-<b>Tobias Bieniek</b> is software developer by day, a open source developer
+**Tobias Bieniek** is a software developer by day, an open source developer
 by night, and a glider pilot on the weekends.  He is a member of the Ember
-CLI team and active member of the Ember.js community working on a number of
+CLI team and an active member of the Ember.js community working on a number of
 popular addons.
 
 ---
@@ -53,7 +53,7 @@ popular addons.
 
 <span class="talk-title">The Conjuring: ransomware edition!!</span>
 
-Ransomware is malevolent software that possesses host, holds files hostage,
+Ransomware is malevolent software that possesses hosts, holds files hostage,
 and allows its dark masters to perform extortion.  This form of malware
 seeks to infect weak hosts, acquires a unique encryption secret, encrypts
 user data using this secret incantation (key), locks away the key so the
@@ -62,9 +62,9 @@ notes).  Once the possession takes hold, no exorcist or security expert can
 help.
 
 But how does ransomware really function?  What does it take to successfully
-carry out the biggest financially motivated cybercrime operation?  How does
+carry out the biggest financially motivated cybercrime operations?  How does
 ransomware infiltrate hosts?  Where does it acquire the unique encryption
-key needed to encrypt each victim?  How does it hide this key from victims? 
+key needed to encrypt each victim's data?  How does it hide this key from victims? 
 Why is data recovery infeasible without the key?
 
 In this talk, we discuss the intricacies of a ransomware infection.  We
@@ -74,7 +74,7 @@ finally the underground market of buying, selling, developing and
 distributing ransomware.  We dissect real-world ransomware and show
 demonstrations of the most successful ransomware variants in action!
 
-<b>Pranshu Bajpai</b> (<a href="https://twitter.com/amirootyet">@amirootyet</a>) is a security
+**Pranshu Bajpai* ([@amirootyet](https://twitter.com/amirootyet)) is a security
 researcher working towards his PhD in Computer Science and Engineering at
 Michigan State University.  His research interests lie in computer and
 network security, malware analysis, digital forensics, and cyber crimes.  In
@@ -93,12 +93,12 @@ work?!</span>
 Old video games were made under incredible technical pressures that are
 almost unimaginable to programmers today &mdash; so why don't we imagine them?  I
 will share my experience translating a series of Japanese role-playing games
-from the 1990s.  We'll learn how text was represented in the 90s, how we can
+from the 1990s.  We'll learn how text was represented in the '90s, how we can
 find text hidden in binary file formats, and how we can replace it.  Along
 the way, we'll learn about the kinds of techniques programmers used when
 faced with tight limitations.
 
-<b>Misty De M&eacute;o</b> works on internal tools at GitHub and is a member
+**Misty De M&eacute;o** works on internal tools at GitHub and is a member
 of the Homebrew package manager development team.  She also likes old video
 games a bit too much, and uses her degree in archival studies to dabble in
 digital preservation.
@@ -112,12 +112,12 @@ system!</span>
 
 EarthBound, a role-playing game released for the Super Nintendo in 1994, is
 one of the most universally revered games of all time.  At the core of
-EarthBound is a super complex scripting language that controls text,
+EarthBound is a super-complex scripting language that controls text,
 scripted cutscenes, music, sound effects, window management, and more.  In
 this talk, we'll explore some of the language's more interesting or charming
 features.
 
-<b>Alex</b> does data engineering consulting as Bits on Disk.  He likes
+**Alex** does data engineering consulting as Bits on Disk.  He likes
 making music, reading good books, and playing old video games.
 
 ---
@@ -134,7 +134,7 @@ why they seemed reasonable at the time, and exactly how it took three years
 from the time one app shipped to the App Store before the calendar was even
 arguably correct.
 
-<b>Andr&eacute;</b> aspires to one day make computers do his bidding,
+**Andr&eacute;** aspires to one day make computers do his bidding,
 consults at Cloud City in San Francisco, and founded Ruby Together, a
 non-profit that funds open source development work.
 
@@ -156,7 +156,7 @@ order to tell us the size and shape of MU69.  These techniques show the
 power of combining modern numerical probability estimates with a strong
 forward model to pull the best possible prediction out of poor-quality data.
 
-<b>Dr. Simon Porter</b> is a co-investigator on NASA's New Horizons Kuiper
+**Dr. Simon Porter** is a co-investigator on NASA's New Horizons Kuiper
 Belt Extended Mission, and works at the Southwest Research Institute in
 Boulder, Colorado.  He grew up in three countries, and is a quad citizen. 
 He started programming orbital mechanics in high school, and hasn't really
@@ -169,9 +169,9 @@ stopped since.
 <span class="talk-title">Hacking Lego!  Computer generated Lego
 instructions!</span>
 
-I like Lego but the idea of making large sculptures without some sort of
+I like Lego, but the idea of making large sculptures without some sort of
 blueprint was intimidating.  Instead of going to art school, I wrote a tool
-that uses a 3d object or scan and converts it into a sort of Lego
+that uses a 3D object or scan and converts it into a sort of Lego
 instructions that I could use as a guide.  Easy giant Lego sculptures! 
 Well, easy to that step.  Actually getting the parts and putting it together
 is a different talk.  Easy giant Lego sculpture ... instructions!
@@ -179,7 +179,7 @@ is a different talk.  Easy giant Lego sculpture ... instructions!
 This talk will cover what was learned in the process of making this tool,
 including some general thoughts about leveraging libraries in your code.
 
-<b>Michael</b> is an award winning Lego sculptor who is banned from ever
+**Michael** is an award-winning Lego sculptor who is banned from ever
 becoming one of those fancy "Lego Certified Professionals" that get all the
 press.  After years of being slightly ashamed of his hobby, he finally gave
 up on caring and keeps way too many pieces at work.  His kid is occasionally
@@ -210,8 +210,8 @@ interesting edge cases from games, such as extreme networking latency and
 competitive-level players demanding frame-perfect input, and discuss how we
 can carry lessons learned from those over to non-game software development.
 
-<b>Mike</b> makes interactive art, experimental games, and software tools. 
-Above all, they makes things that spark intellectual curiosity and inspire
+**Mike** makes interactive art, experimental games, and software tools. 
+Above all, they make things that spark intellectual curiosity and inspire
 people to become self-motivated learners.
 
 ---
@@ -225,7 +225,7 @@ Every computer, Windows, Mac, and *nix alike, includes some variation of the
 `/etc/services` file, the rare file that is both machine-usable and
 human-readable, so that applications and people alike can know what ports
 are meant to be used for what purposes.  But the further you go into this
-13,000-line file, the more traces of humanity you see - names, email
+13,000-line file, the more traces of humanity you see &mdash; names, email
 addresses, and dates paired with information about ports and the apps that
 claim them.  Who are these folks?  How did their names get in the file that
 came with your OS?  Why does "`chipper`" get port 17219 and "`octopus`"
@@ -233,7 +233,7 @@ claim port 10080?  Who oversees this vital file that puts the "`ssh`" with
 port 22 when you `netstat`?  And how could you get your own piece of
 port-assignment glory?
 
-<b>Breanne</b> is an SRE and a writer.  She loves travel, cats, and vinho verde
+**Breanne** is an SRE and a writer.  She loves travel, cats, and vinho verde
 (though the order of importance changes, depending on the day).
 
 ---
@@ -243,14 +243,9 @@ port-assignment glory?
 <span class="talk-title">Observability in the kitchen: improving your
 breadmaking skills with open-source monitoring!!</span>
 
-How can you leverage sensors, open-source software, and Go to improve your
-kitchen skills?  This lightning talk explores the relationship between
-bread-making, humidity, and temperature, and how one can use monitoring
-tools to gain insight into the lively world of sourdough cultures.
-
 I love to bake.  A few months ago, I became quite interested in the art of
-making one's own sourdough, a type of bread that due to its fermentation
-process, is a much healthier alternative to the type of bread that is
+making one's own sourdough, a type of bread that, due to its fermentation
+process, is a much healthier alternative to most bread that is
 readily available today.  The sourdough bread-making process is a
 fascinating combination of biology and physics, but working with natural
 starters can be difficult because they are very sensitive to variations in
@@ -268,7 +263,7 @@ I am going to share my delicious and metric-filled bread-making process,
 hopefully inspiring attendees to see how modern-day tooling written in Go
 can be used to enhance traditional fields.
 
-<b>Daisy</b> is a software developer and writer based in Berlin (Germany)
+**Daisy** is a software developer and writer based in Berlin (Germany)
 who is originally from Toronto (Canada).  She loves learning about new
 technologies, and is particularly interested in the open source space.  Her
 non-technical interests include knitting, baking, and learning new natural
@@ -288,10 +283,10 @@ to carve into a pumpkin?  Yes!  Can we redesign the IBM PC hardware from the
 CPU up?  Yes!  Will we get it right this time?  Probably not.
 
 In this talk, I'll show how hypervisors and operating systems can work
-together to make really tiny OSs possible.  We'll also lie to programs about
+together to make really tiny OSes possible.  We'll also lie to programs about
 the nature of time, space and CPU registers.
 
-<b>Marc Brooker</b> is a software engineer at Amazon Web Services.  He
+**Marc Brooker** is a software engineer at Amazon Web Services.  He
 thinks computers are unreasonably difficult to use, even for experts, and
 wants to change that.  Marc likes computing, statistics, remote sensing and
 pretty much every other topic.
@@ -308,7 +303,7 @@ lead a brief tour of the history behind the terminal windows we use each
 day, from paper teletypes and serial links to `gnome-terminal`, `ssh`, and
 `screen`.
 
-<b>Tabitha</b> loves cats, weird machines, and learning how things got to be
+**Tabitha** loves cats, weird machines, and learning how things got to be
 this way.  You'll often hear her asking questions like "what's inside
 there?" and "how could I build this?".
 
@@ -318,9 +313,9 @@ there?" and "how could I build this?".
 
 <img class='speaker-img' src="../images/speakers/michael-arntzenius.jpg" alt="Profile Photo of
 Michael Arntzenius"/>
-<span class="talk-title">Software patterns... from the 9th century?!!</span>
+<span class="talk-title">Software patterns ... from the 9th century?!!</span>
 
-In 9th century Europe, agriculture underwent a major refactoring &mdash; all to
+In 9th-century Europe, agriculture underwent a major refactoring &mdash; all to
 change a single magic constant.  Traditionally, farmers left half their land
 uncultivated, to let it recover depleted nutrients; now they started leaving
 only a third fallow.  This generates 33% more food on the same land!  Sounds
@@ -334,10 +329,10 @@ Sound familiar?  It should!  We sometimes convince ourselves programming is
 an exceptional discipline, with new and unique challenges.  But many of our
 craft's deepest problems are more general than we realize.  Backward
 compatibility; systematic trade-offs; pipelines and bottlenecks; the
-importance of good tooling; all of these had their part to play in the long
+importance of good tooling &mdash; all of these had their part to play in the long
 and difficult transition from two- to three-field agriculture.
 
-<b>Michael Arntzenius</b> studies programming languages, in theory and
+**Michael Arntzenius** studies programming languages, in theory and
 practice.
 
 ---
@@ -350,11 +345,11 @@ computers draw!</span>
 Even though you often can't see them, almost everything a computer draws is
 a triangle!  Even curves and spheres!  We will discuss why triangles are
 unique and cool, and how they unlock much of the 'magic' behind 3D computer
-graphics and rendering.  But its not really magic!  and you don't need a
+graphics and rendering.  But it's not really magic!  And you don't need a
 fancy degree to understand how the images on your computer screen or in your
 favorite video game get drawn.
 
-<b>Molly</b> is a software engineer who learned about computer graphics
+**Molly** is a software engineer who learned about computer graphics
 while working on OpenGL map rendering libraries.  She's also a cartography
 stan and former economic policy researcher.
 
@@ -380,7 +375,7 @@ then I'll take us on a whirlwind tour through the history of heraldry before
 showing how rules that originated on the tournament ground inform our best
 practices here in the 21st century.
 
-<b>Nick Piesco</b> is a front-end developer at Xero.  Before playing with
+**Nick Piesco** is a front-end developer at Xero.  Before playing with
 things on a computer screen for a living, he spent more than a decade on TV
 screens as a meteorologist.  When he's not nerding out about design and
 type, exploring other cultures through their junk food, or finding a new
@@ -395,15 +390,15 @@ recognition!</span>
 
 An inertial measurement unit (IMU) is a device that can sense motion and
 orientation.  If you combine IMUs with machine learning, you can detect
-gestures!  During this past year's Halloween, I built a magic wand that
+gestures!  For last Halloween, I built a magic wand that
 combines IMUs, machine learning, and DIY electronics to detect different
 gestures when waving the wand.  In this talk, we'll go over the steps I took
 to build the wand and how you can do it too!  Hardware prototyping is
 becoming more accessible than ever for people without a traditional hardware
-engineering background and there are lots of exciting things you can do when
+engineering background, and there are lots of exciting things you can do when
 computing meets the physical world.
 
-<b>Jennifer Wang</b> is an engineer who has built sensor algorithms used by 1+
+**Jennifer Wang** is an engineer who has built sensor algorithms used by 1+
 billion people worldwide.  Jennifer loves sensors and human-computer
 interaction &mdash; especially when it comes to designing for empathy, emotion
 recognition, health, and building for humans!  Her work has been featured in
@@ -428,7 +423,7 @@ I ended up transforming my blackout poetry generator into a mixed-initiative
 blackout poetry composition tool that brings a human poet back into the
 loop!
 
-<b>Max Kreminski</b> is a Computational Media PhD student at UC Santa Cruz,
+**Max Kreminski** is a Computational Media PhD student at UC Santa Cruz,
 using AI, HCI and generative methods to augment human creativity.  Ask them
 about gardening games!
 
@@ -442,14 +437,14 @@ minutes!</span>
 Control theory is a branch of science and engineering dedicated to
 understanding  and analyzing systems, how they respond to input, and how to
 control them.  Learning about control theory has changed the way I view the
-world - having the tools to think about the stability of systems and the
+world &mdash; having the tools to think about the stability of systems and the
 mechanics of closed-loop feedback has been far more widely applicable than
 I'd thought.  Control theory is also a fun way to see the practical
 applications of math that is normally abstract (It turns out that imaginary
 numbers can actually reflect properties of systems that we intuitively think
 of!).  Plus, it's lots of fun to watch robots move around!
 
-<b>Wesley</b> likes asking surprising questions, ranting about computers,
+**Wesley** likes asking surprising questions, ranting about computers,
 and attempting to think about systems far too large to fit in their brain.
 
 ---
@@ -464,7 +459,7 @@ your perception tricked you into not noticing!  In this talk, I will
 describe how to throw out most of the pixels in virtual reality videos
 without impacting perception, through a technique called foveated rendering!
 
-<b>Amrita</b> is a PhD student at the University of Washington, conducting
+**Amrita** is a PhD student at the University of Washington, conducting
 research at the intersection of computer architecture and virtual reality.
 
 ---
@@ -485,11 +480,11 @@ In this talk I will illustrate how I used run-time code generation,
 elimination of conditional branches, and some dangerous assumptions to beat
 an already blazing fast solution to the finish.
 
-<b>Jerry</b> was educated in the Netherlands, lives in Australia, and now
+**Jerry** was educated in the Netherlands, lives in Australia, and now
 works for a Californian company.  He loves challenges that seem
 insurmountable and often forgets to define the boundaries of the box, which
-can lead him to look for solutions in many improbable places.  To make this
-submission more challenging, he left it till the last day, ... probably
+can lead him to look for solutions in many improbable places.  To make this talk proposal
+submission more challenging, he left it till the last day ... probably
 unintentionally, but who knows?
 
 ---
@@ -506,14 +501,14 @@ rendering.  And FPGAs are chips with programmable gates that can be used to
 implement all kinds of hardware accelerators, from telecommunications to
 real-time image processing.
 
-In this talk, I show how you can bring this three pieces together and
+In this talk, I show how you can bring these three pieces together and
 create, on hardware that can be purchased on eBay for just a couple of
 dollars, a demo in the style of the late eighties and nineties, where the
 main goal was simply to show a neat visual effect on an underpowered
 machine.
 
-After spending his day-time hours working on fun electronics projects,
-<b>Tom</b> goes home for dinner, and then retreats to his garage for some
+After spending his daytime hours working on fun electronics projects,
+**Tom** goes home for dinner, and then retreats to his garage for some
 more hours of working on fun electronics projects.
 
 ---
@@ -531,7 +526,7 @@ like Lua & JavaScript!  In this talk we'll look at how NaNs are represented,
 the juicy details of JavaScriptCore's NaN-boxing implementation and the
 advantages / disadvantages of this technique!
 
-<b>Annie</b> is both a lover & a fighter.  She loves bugs, and isn't afraid
+**Annie** is both a lover and a fighter.  She loves bugs, and isn't afraid
 of error messages.
 
 ---
@@ -547,7 +542,7 @@ that clunky RPG-based gameplay with an exciting SQL-based UI?  Join me on an
 exciting journey with emulator internals, Z80 assembly, and extremely
 overpowered Magikarp!
 
-<b>Liz</b> is either a trans, queer, and either a software engineer or
+**Liz** is trans, queer, and either a software engineer or
 colourful pony depending on who you ask.  She lives with her family and very
 fluffy dog in Brooklyn.
 
@@ -555,17 +550,17 @@ fluffy dog in Brooklyn.
 
 ### Arshia Mufti
 
-<span class="talk-title">How DNS doesn't work?!</span>
+<span class="talk-title">How DNS doesn't work!</span>
 
-It's time to answer that age-old question: how does my laptop always **know**
+It's time to answer that age-old question: how does my laptop always *know*
 how to load that Harry Potter slashfic on Tumblr?
 
-Featuring some old photos, a lot of hand drawn diagrams, and <abbr
+Featuring some old photos, a lot of hand-drawn diagrams, and <abbr
 title="Parks & Recreation!">my favourite sitcom</abbr>, this talk will dig
 into how the world's largest, most redundant, and most distributed phonebook
 **looks** like it's working, but actually secretly fails a lot of the time.
 
-<b>Arshia</b> is a wary engineer, an excited conference organizer, a tired student,
+**Arshia** is a wary engineer, an excited conference organizer, a tired student,
 an enthusiastic Rust community leader, a cautious baker, an avid reader, an
 erstwhile writer, and a frequent tweeter.
 
@@ -573,7 +568,7 @@ erstwhile writer, and a frequent tweeter.
 
 ### Michael Malis
 
-<span class="talk-title">Generating fractals... with SQL queries!!!</span>
+<span class="talk-title">Generating fractals ... with SQL queries!!!</span>
 
 SQL databases can do a lot.  They are fantastic at making it easy to work
 with large amounts of data.  One of the lesser know capabilities of SQL
@@ -584,8 +579,8 @@ by Postgres to generate fractals.  Through the clever use of these features,
 you can generate a wide range of fractals including Sierpinski's triangle,
 the Mandelbrot set, and Hilbert curves.
 
-<b>Michael Malis</b> leads the database team at Heap.  For his day job he
-works on optimizing a Petabyte scale Postgres cluster.  His hobbies include
+**Michael Malis** leads the database team at Heap.  For his day job he
+works on optimizing a petabyte-scale Postgres cluster.  His hobbies include
 bouldering and meditating.
 
 ---
@@ -599,9 +594,7 @@ Tic-Tac-Toe, or indeed, any two-player, zero-sum, perfect information game
 &mdash; and its surprising philosophical implications for cognitive science,
 free will, and ourselves.
 
-<b>Zack M. Davis</b> (GitHub: <a
-href="https://github.com/zackmdavis">zackmdavis</a>, Twitter: <a
-href="https://twitter.com/zackmdavis">@zackmdavis</a>) is a programmer and
+**Zack M. Davis** (GitHub: [zackmdavis](https://github.com/zackmdavis), Twitter: [@zackmdavis](https://twitter.com/zackmdavis) is a programmer and
 epistemology enthusiast residing in Berkeley, CA.
 
 ---
@@ -611,7 +604,7 @@ epistemology enthusiast residing in Berkeley, CA.
 <span class="talk-title">Keeping abandoned watches ticking!</span>
 
 These days, it's hard to find anything that doesn't need The Cloud.  This
-has revolutionised the world!  It has also lead us to a world where you can
+has revolutionised the world!  It has also led us to a world where you can
 buy a perfectly good device and it will suddenly stop working the next day. 
 What happens next?
 
@@ -620,10 +613,10 @@ worked to keep them ticking.  Featuring: clouds, reverse engineering,
 sustainable services, and a plentiful supply of "interesting" solutions to
 unexpected problems.
 
-<b>Katharine</b> spent several years trying to make smartwatches at Pebble
+**Katharine** spent several years trying to make smartwatches at Pebble
 (which failed) and trying to make smartglasses at Intel (which also failed). 
 She's currently hoping Google will not suffer the same fate.  Some say
-<b>Katharine</b> owns more little ponies than really necessary, which is of
+Katharine owns more little ponies than really necessary, which is of
 course impossible.
 
 ---
@@ -639,8 +632,8 @@ temperatures.  How does this work?  Linear algebra, heuristics, and some
 clever hardware.  Join me as I give an introduction to the magic that makes
 this work!
 
-<b>Ori</b> is made of meat.  He spends much of his day wiggling his fingers
-over keyboards to imbue computers with new capabilities.  <b>Ori</b> also
+**Ori** is made of meat.  He spends much of his day wiggling his fingers
+over keyboards to imbue computers with new capabilities.  Ori also
 enjoys cooking.
 
 ---
@@ -667,7 +660,7 @@ Emulation can help communicate through space and time!
 I'll go over some of my favorite layers from that emulation stack and talk
 about aspects of each, and lessons learned along the way.
 
-<b>Mike</b> has been messing with tech (mostly telecom and video games)
+**Mike** has been messing with tech (mostly telecom and video games)
 since transistors overtook tubes in computers.  He is interested in the
 history of technology to better understand the human context of its
 development, "how we got here", and the roads not taken.
@@ -691,9 +684,8 @@ execution that existed before Algol, the alternatives that were considered,
 the final form that was chosen, and how it shaped our thoughts going
 forward.
 
-<b>Eric Fischer</b> is a software engineer and data artist at Mapbox, and was
+**Eric Fischer** is a software engineer and data artist at Mapbox, and was
 previously an artist in residence at the Exploratorium and on the Android
 team at Google.  His work has been shown at the Museum of Modern Art and
 published in many print and online publications.  He has a bachelor's degree
 in Linguistics from the University of Chicago and lives in Oakland, CA.
-
