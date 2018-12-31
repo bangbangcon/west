@@ -32,6 +32,7 @@ menu:
 
 ### Tobias Bieniek
 
+<img class='speaker-img' src="../images/speakers/tobias-bieniek.jpg" alt="Profile Photo of Tobias Bieniek"/>
 <span class="talk-title">Help!  How do you let others know what's going on
 when you're 8000 feet up in the air in a plane without an engine?!</span>
 
