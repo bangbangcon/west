@@ -75,7 +75,7 @@ finally the underground market of buying, selling, developing and
 distributing ransomware.  We dissect real-world ransomware and show
 demonstrations of the most successful ransomware variants in action!
 
-**Pranshu Bajpai* ([@amirootyet](https://twitter.com/amirootyet)) is a security
+**Pranshu Bajpai** ([@amirootyet](https://twitter.com/amirootyet)) is a security
 researcher working towards his PhD in Computer Science and Engineering at
 Michigan State University.  His research interests lie in computer and
 network security, malware analysis, digital forensics, and cyber crimes.  In
@@ -441,7 +441,7 @@ control them.  Learning about control theory has changed the way I view the
 world &mdash; having the tools to think about the stability of systems and the
 mechanics of closed-loop feedback has been far more widely applicable than
 I'd thought.  Control theory is also a fun way to see the practical
-applications of math that is normally abstract (It turns out that imaginary
+applications of math that is normally abstract (it turns out that imaginary
 numbers can actually reflect properties of systems that we intuitively think
 of!).  Plus, it's lots of fun to watch robots move around!
 
@@ -524,8 +524,8 @@ that aren't numbers!  Double precision NaNs come with a payload of 51 bits
 that language implementers can use for whatever they want &mdash; one especially
 neat use is representing type information in dynamically typed languages
 like Lua & JavaScript!  In this talk we'll look at how NaNs are represented,
-the juicy details of JavaScriptCore's NaN-boxing implementation and the
-advantages / disadvantages of this technique!
+the juicy details of JavaScriptCore's NaN-boxing implementation, and the
+advantages and disadvantages of this technique!
 
 **Annie** is both a lover and a fighter.  She loves bugs, and isn't afraid
 of error messages.
@@ -572,7 +572,7 @@ erstwhile writer, and a frequent tweeter.
 <span class="talk-title">Generating fractals ... with SQL queries!!!</span>
 
 SQL databases can do a lot.  They are fantastic at making it easy to work
-with large amounts of data.  One of the lesser know capabilities of SQL
+with large amounts of data.  One of the lesser-known capabilities of SQL
 databases is that they can be used to generate fractals!
 
 In this talk, we'll take a look at how you can use the SQL features provided
@@ -627,7 +627,7 @@ course impossible.
 <span class="talk-title">That's hot!</span>
 
 I work on smart microwaves.  Not the "let's put it on the internet and text
-you images of your food" kind of smart -- &mdash; we can actually move heat
+you images of your food" kind of smart &mdash; we can actually move heat
 around inside the device, cooking two different foods to two different
 temperatures.  How does this work?  Linear algebra, heuristics, and some
 clever hardware.  Join me as I give an introduction to the magic that makes
@@ -654,7 +654,7 @@ This started me thinking about emulation, the whys and ways of its uses:
 
 - A practical way to extend the life of mature software
 - A tool for conservation, to help understand the design[er]s of past machines
-- An aid communication with possibly remote co-designers on future machines
+- An aid for communication with possibly remote co-designers on future machines
 
 Emulation can help communicate through space and time!
 
