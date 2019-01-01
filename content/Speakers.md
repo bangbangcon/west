@@ -145,7 +145,7 @@ non-profit that funds open source development work.
 
 <span class="talk-title">Guiding a starship with noise! And blinking!</span>
 
-The January 1, 2019 flyby of 2014 MU69 "Ultima Thule" by NASA's New Horizons
+The January 1, 2019 flyby of [2014 MU69](https://en.wikipedia.org/wiki/(486958)_2014_MU69) by NASA's New Horizons
 spacecraft made MU69 the most distant object ever visited by humanity. 
 However, MU69 is extremely faint, and only barely detectable with the Hubble
 Space Telescope.  I will discuss how we made kernel density estimators for
