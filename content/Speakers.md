@@ -125,11 +125,12 @@ making music, reading good books, and playing old video games.
 
 ### Andr&eacute; Arko
 
+<img class='speaker-img' src="../images/speakers/andre-arko.jpg" width="100" height="100" alt="Profile Photo of André Arko"/>
 <span class="talk-title">How to calculate the phase of the moon very, very
 badly!</span>
 
 This talk is about how, despite "common knowledge", lunar cycles are not 28
-days long, and in fact lunar cycles don't have a single numerical length! 
+days long, and in fact lunar cycles don't have a single numerical length!
 You'll hear about several very bad ways to calculate the phases of the moon,
 why they seemed reasonable at the time, and exactly how it took three years
 from the time one app shipped to the App Store before the calendar was even
