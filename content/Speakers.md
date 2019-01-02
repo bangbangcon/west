@@ -670,6 +670,7 @@ development, "how we got here", and the roads not taken.
 
 ### Eric Fischer
 
+<img class='speaker-img' src="../images/speakers/eric-fischer.jpg" alt="Profile Photo of Eric Fischer"/>
 <span class="talk-title">`if` ... `then` ... `else` had to be
 invented!</span>
 
