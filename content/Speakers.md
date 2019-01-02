@@ -676,17 +676,17 @@ invented!</span>
 60 years ago, several of the world's foremost computer scientists came
 together to create the first international programming language standard. 
 The language they created, Algol, is remembered for introducing block
-structure and for raising key questions about what it means to pass a
+structure and for sparking controversy over exactly what it means to pass a
 parameter to a function.  But Algol's creators also wrestled for years with
 the core question of how to communicate that in one circumstance a computer
-should do a certain thing, and that in different circumstances it should do
+should do a certain thing, and in different circumstances it should do
 something different.  I will describe the paradigm of conditional program
-execution that existed before Algol, the alternatives that were considered,
-the final form that was chosen, and how it shaped our thoughts going
-forward.
+execution that existed before Algol, the alternatives that the language's
+creators considered, the final form they chose, and how it shaped our
+thoughts going forward.
 
 **Eric Fischer** is a software engineer and data artist at Mapbox, and was
 previously an artist in residence at the Exploratorium and on the Android
-team at Google.  His work has been shown at the Museum of Modern Art and
-published in many print and online publications.  He has a bachelor's degree
-in Linguistics from the University of Chicago and lives in Oakland, CA.
+team at Google. Eric's favorite library catalog classifications include
+Library of Congress HE, HF, HT, QA, TD, TE, TF, TG, and TK, and
+Dewey Decimal 352, 388, 711, 782, and 786.
