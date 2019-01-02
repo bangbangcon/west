@@ -196,24 +196,22 @@ Mike Lazer-Walker"/>
 <span class="talk-title">Computers are fast!  But how come they sometimes
 feel slow?</span>
 
-As computers have gotten faster over the years, it often doesn't feel like
-they're more responsive in moment-to-moment tasks.  While many product
-managers can cite hard numbers about how quickly user engagement drops off
-as apps or websites are slower, human factors researchers similarly shout
-from the rooftops that low input latency is essential to letting users feel
-like a system is responsive.  What's the deal with that?  Why is latency so
-hard to minimize, and what tools do we even have for measuring it?  How can
-we make things better for users, either by making things speedier or just
-making it feel like they are?
+It's super-important for computers to feel responsive.  Everyone from 
+academic HCI researchers to revenue-focused product managers have been 
+telling us this for years.  And yet, even as computers have gotten faster 
+and faster, it often feels like the software we use daily has gotten slower! 
 
-This talk will cover all of that and more.  It'll particularly focus on
-interesting edge cases from games, such as extreme networking latency and
-competitive-level players demanding frame-perfect input, and discuss how we
-can carry lessons learned from those over to non-game software development.
+What's the deal with that?  Why is latency so hard to minimize, and how can we
+even measure or detect that?  How can we make things better for users, either 
+by making things speedier or just making it feel like they are?
 
-**Mike** makes interactive art, experimental games, and software tools. 
-Above all, they make things that spark intellectual curiosity and inspire
-people to become self-motivated learners.
+This talk will cover all of that and more.  We'll focus largely on games,
+as competitive-level gamers demanding frame-perfect input over severe
+network constraints are a particularly extreme (and interesting!) edge case.
+
+**Mike** is a Berlin-based artist and engineer. They make interactive art, 
+experimental games, and software tools designed to spark intellectual curiosity
+and inspire people to become self-motivated learners.
 
 ---
 
