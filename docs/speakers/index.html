@@ -559,19 +559,24 @@ more hours of working on fun electronics projects.</p>
 
 <h3 id="annie-cherkaev">Annie Cherkaev</h3>
 
-<p><span class="talk-title">The secret life of Not-a-Number!</span></p>
+<p><img class='speaker-img' src="../images/speakers/annie-cherkaev.png" alt="Profile Photo of Annie Cherkaev"/>
+<span class="talk-title">The secret life of Not-a-Number!</span></p>
 
-<p>Let&rsquo;s talk about NaN-boxing!  The floating point standard defines a special
-value called Not-a-Number (NaN) which is used to represent, well, things
-that aren&rsquo;t numbers!  Double precision NaNs come with a payload of 51 bits
-that language implementers can use for whatever they want &mdash; one especially
-neat use is representing type information in dynamically typed languages
-like Lua &amp; JavaScript!  In this talk we&rsquo;ll look at how NaNs are represented,
-the juicy details of JavaScriptCore&rsquo;s NaN-boxing implementation, and the
-advantages and disadvantages of this technique!</p>
+<p>In this talk we&rsquo;ll talk about NaN-boxing, an especially beautiful bit-level
+hack that might be running on your computer right now!</p>
 
-<p><strong>Annie</strong> is both a lover and a fighter.  She loves bugs, and isn&rsquo;t afraid
-of error messages.</p>
+<p>The floating point standard defines a special value called Not-a-Number
+(NaN) which is used to represent, well, things that aren&rsquo;t numbers.  Double
+precision NaNs come with a payload of 51 bits which can be used for whatever
+you want &mdash; including using the payload to represent <em>all other</em>
+non-floating point values and their types at runtime in dynamically typed
+languages.</p>
+
+<p>We&rsquo;ll look at some juicy details of JavaScriptCore, Safari&rsquo;s javascript
+interpreter, where everything is a float!</p>
+
+<p><strong>Annie</strong> loves bit-patterns, though she does not execute raw binary
+herself.  She could, but she doesn&rsquo;t.</p>
 
 <hr />
 
