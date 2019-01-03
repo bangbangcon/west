@@ -593,14 +593,16 @@ bouldering and meditating.
 
 ### Zack M. Davis
 
+<img class='speaker-img' src="../images/speakers/zack-m-davis.jpg" width="100" height="100" alt="Profile Photo of Zack M. Davis"/>
 <span class="talk-title">Minimax search and the structure of cognition!</span>
 
-We discuss an algorithm for playing chess &mdash; or Reversi, or
+We discuss [an algorithm](https://en.wikipedia.org/wiki/Negamax)
+for playing chess &mdash; or Reversi, or
 Tic-Tac-Toe, or indeed, any two-player, zero-sum, perfect information game
 &mdash; and its surprising philosophical implications for cognitive science,
 free will, and ourselves.
 
-**Zack M. Davis** (GitHub: [zackmdavis](https://github.com/zackmdavis), Twitter: [@zackmdavis](https://twitter.com/zackmdavis) is a programmer and
+**Zack M. Davis** (GitHub: [zackmdavis](https://github.com/zackmdavis), Twitter: [@zackmdavis](https://twitter.com/zackmdavis)) is a programmer and
 epistemology enthusiast residing in Berkeley, CA.
 
 ---
