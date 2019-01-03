@@ -356,6 +356,7 @@ stan and former economic policy researcher.
 
 ### Nick Piesco
 
+<img class='speaker-img' src="../images/speakers/nick-piesco.jpg" alt="Profile Photo of Nick Piesco"/>
 <span class="talk-title">This one simple 600-year-old trick makes your
 website more accessible!</span>
 
