@@ -641,29 +641,32 @@ enjoys cooking.
 
 ### Michael Albaugh
 
+<img class='speaker-img' src="../images/speakers/michael-albaugh.png" alt="Profile Photo of Michael Albaugh"/>
 <span class="talk-title">"Wheels within whiles!" or possibly "Whiles within
 wheels!"</span>
 
 I built a multi-layer stack of emulations to include 150 years of digital
 computing tech &mdash; from a (relatively) modern laptop through 5 layers of
 emulation to Charles Babbage's 1840's Difference Engine &mdash; using various
-bits of code I had lying around.  In the process of doing that, I asked
+bits of code I had lying around.  In the process, I asked
 myself: *"why do I have that code lying around!?!"*
 
 This started me thinking about emulation, the whys and ways of its uses:
 
 - A practical way to extend the life of mature software
 - A tool for conservation, to help understand the design[er]s of past machines
-- An aid for communication with possibly remote co-designers on future machines
+- An aid to communication with possibly remote co-designers on future machines
 
 Emulation can help communicate through space and time!
 
 I'll go over some of my favorite layers from that emulation stack and talk
 about aspects of each, and lessons learned along the way.
 
-**Mike** has been messing with tech (mostly telecom and video games)
-since transistors overtook tubes in computers.  He is interested in the
-history of technology to better understand the human context of its
+The day **Mike** was born, you could count the fully functional stored
+program electronic digital computers in the world on the fingers of one
+hand.  He started messing with tech (mostly telecom and video games) when
+transistors were overtaking tubes in computers, and has long been interested
+in the history of technology to better understand the human context of its
 development, "how we got here", and the roads not taken.
 
 ---
