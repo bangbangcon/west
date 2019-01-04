@@ -347,15 +347,13 @@ practice.
 computers draw!</span>
 
 Even though you often can't see them, almost everything a computer draws is
-a triangle!  Even curves and spheres!  We will discuss why triangles are
-unique and cool, and how they unlock much of the 'magic' behind 3D computer
-graphics and rendering.  But it's not really magic!  And you don't need a
-fancy degree to understand how the images on your computer screen or in your
-favorite video game get drawn.
+a triangle!  Including curves, 3D surfaces, and your favorite Pixar characters!
+We will discuss why triangles are unique and cool, and how they unlock much of the
+'magic' behind 3D computer graphics and rendering.  But it's not really magic!
+And you don't need formal computer science training to understand how the images
+on your computer screen or in your favorite video game get drawn.
 
-**Molly** is a software engineer who learned about computer graphics
-while working on OpenGL map rendering libraries.  She's also a cartography
-stan and former economic policy researcher.
+[**Molly**](https://www.twitter.com/mollymerp) is a software engineer who spends her days making maps and building tools for exploration and creativity that people love to use. She spent the last few years working on open source map rendering libraries which is where she learned how computers draw.
 
 ---
 
