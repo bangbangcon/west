@@ -240,32 +240,31 @@ port-assignment glory?
 
 ### Daisy Tsang
 
-<span class="talk-title">Observability in the kitchen: improving your
-breadmaking skills with open-source monitoring!!</span>
+<span class="talk-title">Observability in the Kitchen: Improve Your
+Breadmaking Skills with Open-Source Monitoring!!</span>
 
-I love to bake.  A few months ago, I became quite interested in the art of
+I love to bake.  A few months ago, I became interested in the art of
 making one's own sourdough, a type of bread that, due to its fermentation
-process, is a much healthier alternative to most bread that is
-readily available today.  The sourdough bread-making process is a
+process, is a much healthier alternative to bread that is
+readily available today.  The sourdough breadmaking process is a
 fascinating combination of biology and physics, but working with natural
 starters can be difficult because they are very sensitive to variations in
-temperature and humidity.  As a result, these parameters need to be closely
-observed.
+temperature and humidity.
 
 It is fun and useful to leverage inexpensive sensors, Raspberry Pis, and
 Prometheus (a monitoring system written in Go) to monitor the humidity and
 temperature of my sourdough cultures in order to gain insight into how these
 parameters affect the growth of each type of culture.  The result? 
-Analytical insights into an age-old bread-making process via graphical
+Analytical insights into an age-old breadmaking process via graphical
 reports and alerting rules.
 
-I am going to share my delicious and metric-filled bread-making process,
+I am going to share my delicious and metric-filled breadmaking process,
 hopefully inspiring attendees to see how modern-day tooling written in Go
 can be used to enhance traditional fields.
 
-**Daisy** is a software developer and writer based in Berlin (Germany)
+**Daisy** is a Software Developer and Writer based in Berlin (Germany)
 who is originally from Toronto (Canada).  She loves learning about new
-technologies, and is particularly interested in the open source space.  Her
+technologies, and is particularly interested in the open-source space.  Her
 non-technical interests include knitting, baking, and learning new natural
 languages.
 
