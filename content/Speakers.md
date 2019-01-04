@@ -631,6 +631,7 @@ course impossible.
 
 ### Ori Bernstein
 
+<img class='speaker-img' src="../images/speakers/ori-bernstein.png" alt="Profile Photo of Ori Bernstein"/>
 <span class="talk-title">That's hot!</span>
 
 I work on smart microwaves.  Not the "let's put it on the internet and text
