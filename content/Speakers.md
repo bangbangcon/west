@@ -170,6 +170,7 @@ stopped since.
 
 ### Michael Knowles
 
+<img class='speaker-img' src="../images/speakers/michael-knowles.png" alt="Profile Photo of Michael Knowles"/>
 <span class="talk-title">Hacking Lego!  Computer generated Lego
 instructions!</span>
 
