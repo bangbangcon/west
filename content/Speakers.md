@@ -467,6 +467,7 @@ research at the intersection of computer architecture and virtual reality.
 
 ### Jeroen (Jerry) van Leeuwen
 
+<img class='speaker-img' src="../images/speakers/jerry-van-leeuwen.jpg" alt="Profile Photo of Jerry van Leeuwen"/>
 <span class="talk-title">Fast code! By removing all branches!</span>
 
 Performance optimization should never be your first concern when creating a
