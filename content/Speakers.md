@@ -108,6 +108,7 @@ digital preservation.
 
 ### Alex Rasmussen
 
+<img class='speaker-img' src="../images/speakers/alex-rasmussen.jpg" alt="Profile Photo of Alex Rasmussen"/>
 <span class="talk-title">EarthBound's almost-Turing-complete text
 system!</span>
 
