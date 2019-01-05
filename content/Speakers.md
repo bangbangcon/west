@@ -242,6 +242,7 @@ port-assignment glory?
 
 ### Daisy Tsang
 
+<img class='speaker-img' src="../images/speakers/daisy-tsang.jpg" alt="Profile Photo of Daisy Tsang"/>
 <span class="talk-title">Observability in the Kitchen: Improve Your
 Breadmaking Skills with Open-Source Monitoring!!</span>
 
