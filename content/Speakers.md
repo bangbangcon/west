@@ -52,6 +52,7 @@ popular addons.
 
 ### Pranshu Bajpai
 
+<img class='speaker-img' src="../images/speakers/pranshu-bajpai.jpg" alt="Profile Photo of Pranshu Bajpai"/>
 <span class="talk-title">The Conjuring: ransomware edition!!</span>
 
 Ransomware is malevolent software that possesses hosts, holds files hostage,
