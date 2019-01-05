@@ -80,7 +80,7 @@ researcher working towards his PhD in Computer Science and Engineering at
 Michigan State University.  His research interests lie in computer and
 network security, malware analysis, digital forensics, and cyber crimes.  In
 the past, he worked as a penetration tester.  He has been an active speaker
-at conferences and spoken at DEFCON, IEEE APWG eCrime conference, GrrCon,
+at conferences and spoken at DEFCON, APWG eCrime conference, GrrCon, ToorCon, CascadiaJS,
 BSides and others.  He holds an MS in Information Security and an MBA in
 Marketing.
 
