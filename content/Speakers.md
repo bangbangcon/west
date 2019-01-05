@@ -394,7 +394,7 @@ recognition!</span>
 
 An inertial measurement unit (IMU) is a device that can sense motion and
 orientation.  If you combine IMUs with machine learning, you can detect
-gestures!  For last Halloween, I built a magic wand that
+gestures!  For last Halloween, I built a [magic wand](https://github.com/jewang/gesture-demo) that
 combines IMUs, machine learning, and DIY electronics to detect different
 gestures when waving the wand.  In this talk, we'll go over the steps I took
 to build the wand and how you can do it too!  Hardware prototyping is
@@ -402,12 +402,7 @@ becoming more accessible than ever for people without a traditional hardware
 engineering background, and there are lots of exciting things you can do when
 computing meets the physical world.
 
-**Jennifer Wang** is an engineer who has built sensor algorithms used by 1+
-billion people worldwide.  Jennifer loves sensors and human-computer
-interaction &mdash; especially when it comes to designing for empathy, emotion
-recognition, health, and building for humans!  Her work has been featured in
-both the hacker community (Hackaday) and the academic community (IEEE
-Spectrum, and at Ubicomp).
+[**Jennifer Wang**](http://jewang.net) is a software engineer and hardware prototyper. She loves sensors, [documentation](http://ilovedocumentation.com/), empathy, human-computer interaction, and technology for wellbeing &amp; health! She has built sensor algorithms that have launched to 1+ billion worldwide. Jennifer also likes musicals, dessert, and rock climbing.
 
 ---
 
