@@ -493,6 +493,7 @@ unintentionally, but who knows?
 
 ### Tom Verbeure
 
+<img class='speaker-img' src="../images/speakers/tom-verbeure.png" alt="Profile Photo of Tom Verbeure"/>
 <span class="talk-title">The world's first racing-the-beam ray tracer on
 discarded FPGA hardware!!!</span>
 
