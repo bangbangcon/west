@@ -389,6 +389,7 @@ beer to try out, you can find him tending his licence plate collection.
 
 ### Jennifer Wang
 
+<img class='speaker-img' src="../images/speakers/jennifer-wang.jpg" alt="Profile Photo of Jennifer Wang"/>
 <span class="talk-title">IMUs FTW!!  Building IMU-based gesture
 recognition!</span>
 
