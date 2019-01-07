@@ -636,12 +636,11 @@ course impossible.
 <img class='speaker-img' src="../images/speakers/ori-bernstein.jpg" alt="Profile Photo of Ori Bernstein"/>
 <span class="talk-title">That's hot!</span>
 
-I work on smart microwaves.  Not the "let's put it on the internet and text
-you images of your food" kind of smart &mdash; we can actually move heat
-around inside the device, cooking two different foods to two different
-temperatures.  How does this work?  Linear algebra, heuristics, and some
-clever hardware.  Join me as I give an introduction to the magic that makes
-this work!
+I work on smart microwave ovens. We don't tweet images of each food you cook.
+Instead, we focus on moving heat around inside the device, directing it to
+where we want it. We can cook two different foods to two different
+temperatures! How does this work?  Linear algebra, heuristics, and some clever
+hardware. Join me as I give an introduction to the magic that makes this work!
 
 **Ori** is made of meat.  He spends much of his day wiggling his fingers
 over keyboards to imbue computers with new capabilities.  Ori also
