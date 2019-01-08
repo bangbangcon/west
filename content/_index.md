@@ -49,7 +49,7 @@ You can also subscribe to our mailing list!  We send roughly five emails a year,
 
 ## Who's organizing?
 
-The !!Con West 2019 organizing team: Alicja Raszkowska, Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge.
+The !!Con West 2019 organizing team: Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge.
 [Send us an e-mail](mailto:bangbangcon.west@gmail.com) if you'd like to get
 in touch.
 
