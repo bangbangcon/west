@@ -343,6 +343,7 @@ practice.
 
 ### Molly Lloyd
 
+<img class='speaker-img' src="../images/speakers/molly-lloyd.jpg" alt="Profile Photo of Molly Lloyd"/>
 <span class="talk-title">Everything the light touches is a triangle: how
 computers draw!</span>
 
