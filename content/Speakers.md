@@ -432,6 +432,7 @@ about gardening games!
 
 ### Wesley Aptekar-Cassels
 
+<img class='speaker-img' src="../images/speakers/wesley-aptekar-cassels.jpg" alt="Profile Photo of Wesley Aptekar-Cassels"/>
 <span class="talk-title">Robots, rockets, and more!  Control theory in 10
 minutes!</span>
 
