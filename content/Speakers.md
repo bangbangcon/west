@@ -581,6 +581,7 @@ erstwhile writer, and a frequent tweeter.
 
 ### Michael Malis
 
+<img class='speaker-img' src="../images/speakers/michael-malis.jpg" alt="Profile Photo of Michael Malis"/>
 <span class="talk-title">Generating fractals ... with SQL queries!!!</span>
 
 SQL databases can do a lot.  They are fantastic at making it easy to work
