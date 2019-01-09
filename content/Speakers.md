@@ -409,6 +409,7 @@ computing meets the physical world.
 
 ### Max Kreminski
 
+<img class='speaker-img' src="../images/speakers/max-kreminski.jpg" alt="Profile Photo of Max Kreminski"/>
 <span class="talk-title">Making blackout poetry with computers!</span>
 
 Blackout poetry creatively subverts a source text by blacking out most of
@@ -541,6 +542,7 @@ herself.  She could, but she doesn't.
 
 ### Liz Frost
 
+<img class='speaker-img' src="../images/speakers/liz-frost.jpg" alt="Profile Photo of Liz Frost"/>
 <span class="talk-title">Postgres plays Pok&eacute;mon!</span>
 
 Pok&eacute;mon is a pretty fun game.  You have a bunch of numbers, they do a
