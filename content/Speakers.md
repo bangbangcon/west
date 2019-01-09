@@ -222,6 +222,7 @@ and inspire people to become self-motivated learners.
 
 ### Breanne Boland
 
+<img class='speaker-img' src="../images/speakers/breanne-boland.jpg" alt="Profile Photo of Breanne Boland"/>
 <span class="talk-title">`/etc/services` is made of people! (and also
 ports!)</span>
 
@@ -277,6 +278,7 @@ languages.
 
 ### Marc Brooker
 
+<img class='speaker-img' src="../images/speakers/marc-brooker.jpg" alt="Profile Photo of Marc Brooker"/>
 <span class="talk-title">Paranormal paravirtualization!</span>
 
 Ever since the 1960s, computers have been able to pretend to be multiple
@@ -453,6 +455,7 @@ and attempting to think about systems far too large to fit in their brain.
 
 ### Amrita Mazumdar
 
+<img class='speaker-img' src="../images/speakers/amrita-mazumdar.jpg" alt="Profile Photo of Amrita Mazumdar"/>
 <span class="talk-title">How to throw out 95% of pixels in virtual reality, without anyone noticing!!</span>
 
 Did you know that the eye only perceives 1% of what you're looking at in
@@ -613,6 +616,7 @@ epistemology enthusiast residing in Berkeley, CA.
 
 ### Katharine Berry
 
+<img class='speaker-img' src="../images/speakers/katharine-berry.png" alt="Profile Photo of Katharine Berry"/>
 <span class="talk-title">Keeping abandoned watches ticking!</span>
 
 These days, it's hard to find anything that doesn't need The Cloud.  This
