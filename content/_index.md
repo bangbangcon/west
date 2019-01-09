@@ -10,11 +10,11 @@ menu:
 
 ## Who's speaking?
 
-Two amazing keynote speakers (<a href='/speakers#lynn-cyrin'>Lynn Cyrin</a>
-and <a href='/speakers#vj-um-amel'>VJ Um Amel</a>), and <a
-href='/speakers'>30 other amazing speakers</a>!  We're incredibly excited by
+Two amazing keynote speakers (<a href='speakers#lynn-cyrin'>Lynn Cyrin</a>
+and <a href='speakers#vj-um-amel'>VJ Um Amel</a>), and <a
+href="speakers">30 other amazing speakers</a>!  We're incredibly excited by
 this year's talk line-up, and we know that you will be too -- <a
-href="/speakers">check it out</a>!
+href="speakers">check it out</a>!
 
 Our [call for talk proposals](/cfp/) is now closed.  Thanks to everyone who submitted one!
 
