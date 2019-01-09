@@ -350,7 +350,7 @@ practice.
 computers draw!</span>
 
 Even though you often can't see them, almost everything a computer draws is
-a triangle!  Including curves, 3D surfaces, and your favorite Pixar characters!
+a triangle!  Including curves, 3D surfaces, and your favorite video game characters!
 We will discuss why triangles are unique and cool, and how they unlock much of the
 'magic' behind 3D computer graphics and rendering.  But it's not really magic!
 And you don't need formal computer science training to understand how the images
