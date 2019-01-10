@@ -45,11 +45,13 @@ get you access.
 Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
 live transcription in English.
 
-## Getting to UCSC
+## Getting to Santa Cruz
+We are committed to making **!!Con West** accessible to as many attendees as we
+can, and are searching for more transportation options. We will update this
+section as we find more of them!
 
 ### By car
-
-The best way to get to UCSC from most of the Peninsula is by way of CA-17,
+The best way to get to Santa Cruz from most of the Peninsula is by way of CA-17,
 which takes you from CA-85 through the Santa Cruz mountains into the city;
 this takes about 45 minutes with no traffic.  Another option, if coming from
 San Francisco, is to drive down by way of Half Moon Bay on CA-1, which would
@@ -60,24 +62,43 @@ CA-17's mountain roads have been known to take some overconfident drivers by
 surprise, so be extra careful and anticipate delays from crashes if
 conditions are less-than-perfect.
 
-### By public transit, and from inside Santa Cruz
-
-Sadly, the options for public transit to Santa Cruz are very limited.  We
-are committed to making **!!Con West** accessible to as many attendees as we
-can, and over the coming days, we will have more information about how to
-get to Santa Cruz if you don't have access to a car of your own!
-
 ### By air
-
 The best options for getting in and out of the Bay Area by air are either
 through San Francisco (SFO), or through San Jose (SJC).  There are tradeoffs
 for each; there are more flights in and out of SFO, but SJC is about half an
-hour to an hour closer to Santa Cruz, if you plan to drive yourself.  On the
-other hand, there are shuttle options from SFO to Santa Cruz, if you don't
-wish to rent a car.
+hour to an hour closer to Santa Cruz. Both airports have shuttle options to
+Santa Cruz, if you don't wish to rent a car (example options by UCSC are
+[here](https://taps.ucsc.edu/travel/airport-shuttles.html).
+
+### By other alternatives including public transit
+Santa Cruz is somewhat remote and the public transit options are limited,
+but getting there without driving or flying is possible!
+
+There are [Greyhound](https://www.greyhound.com) options from
+San Francisco and Oakland to [Santa Cruz Greyhound Station](https://locations.greyhound.com/bus-stations/US/Santa-Cruz).
+
+The nearest Amtrak/Caltrain station is San Jose Diridon Station (SJC).
+
+If you're coming from Anaheim, Burbank, or Los Angeles and wish to take a bus,
+[Megabus](https://us.megabus.com/) offers a few options to San Jose Diridon Station (SJC).
+
+From San Jose Diridon Station to Santa Cruz, you can take:
+- [bus 17](https://www.scmtd.com/en/component/systemmap/17/20192)
+- Greyhound
+- taxi (cost estimate is about $100)
+- rideshare (cost estimate is about $50)
+
+### From Santa Cruz city center to Jack Baskin Auditorium without a car
+Santa Cruz Metro offers several bus lines within the city. A few of them will
+get you to the auditorium from the city center. Please consult the [Santa Cruz
+Metro website](https://www.scmtd.com/en/routes) or Google Maps for the bus
+schedule.
+
+There are rideshare like Lyft and Uber, and car sharing programs like Zipcar
+available in Santa Cruz.
 
 ## Venue accessibility
 
-We want to make **!!Con West** accessible to as many attendees as possible. 
+We want to make **!!Con West** accessible to as many attendees as possible.
 If you have questions about our venue, or the accessibility thereof, please
 [contact the !!Con West organizers](mailto:bangbangcon.west@gmail.com).
