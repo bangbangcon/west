@@ -32,7 +32,7 @@ We should be willing to try doing things differently from the original !!Con whe
 
 ## Who's organizing it?
 
-!!Con West is being organized by a new team of volunteers who applied for the role, with help from a couple veteran members of the [the existing !!Con organizing team](http://bangbangcon.com/#organizers).  We have two goals for !!Con West. First, of course, we want to put on another great conference in the !!Con tradition. Second, we want to incubate a new generation of conference organizers. By the time we're done, every member of the !!Con West organizing team will have the skills and experience to go out and launch their own conferences, if they want to.
+!!Con West is being organized by [a new team of volunteers](/index.html#who-s-organizing), with help from a couple veteran !!Con organizers.  We have two goals for !!Con West. First, of course, we want to put on another great conference in the !!Con tradition. Second, we want to incubate a new generation of conference organizers. By the time we're done, every member of the !!Con West organizing team will have the skills and experience to go out and launch their own conferences, if they want to.
 
 ## What is UC Santa Cruz's involvement in !!Con West?
 

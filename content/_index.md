@@ -10,15 +10,19 @@ menu:
 
 ## Who's speaking?
 
-Two amazing keynote speakers (soon to be announced), and maybe [you](/cfp/)!
-If you'd like to be a part of !!Con West 2019, [submit a talk proposal by
-November 30th](/cfp/).
+Two amazing keynote speakers (<a href='speakers#lynn-cyrin'>Lynn Cyrin</a>
+and <a href='speakers#vj-um-amel'>VJ Um Amel</a>), and <a
+href="speakers">30 other amazing speakers</a>!  We're incredibly excited by
+this year's talk line-up, and we know that you will be too -- <a
+href="speakers">check it out</a>!
+
+Our [call for talk proposals](/cfp/) is now closed.  Thanks to everyone who submitted one!
 
 ## How do I get updates?
 
 Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
 
-You can also subscribe to our mailing list!
+You can also subscribe to our mailing list!  We send roughly five emails a year, and we'll never share your email address with anyone else.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -49,7 +53,7 @@ You can also subscribe to our mailing list!
 
 ## Who's organizing?
 
-The !!Con West 2019 organizing team: Alicja Raszkowska, Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge.
+The !!Con West 2019 organizing team: Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge.
 [Send us an e-mail](mailto:bangbangcon.west@gmail.com) if you'd like to get
 in touch.
 

@@ -2,13 +2,11 @@
 title: "Call for Proposals!"
 date: 2018-11-01T13:06:41-07:00
 draft: false
-menu:
-  main:
-    title: "CFP"
-    weight: 70
 ---
 
 # Give a talk at !!Con West!
+
+**Our call for talk proposals is now closed.  Thanks to everyone who submitted a proposal!**
 
 Hi! !!Con West is excited to be launching our **inaugural west coast conference** celebrating the joy, excitement, and surprise of computing, and we want **you** to submit a [talk proposal](https://goo.gl/forms/Q2wCBgMd8jjlxFnk2). The **submission deadline** is **Friday, November 30**.
 
