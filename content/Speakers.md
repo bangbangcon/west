@@ -89,6 +89,7 @@ Marketing.
 
 ### Misty De M&eacute;o
 
+<img class='speaker-img' src="../images/speakers/misty-de-meo.jpg" alt="Profile Photo of Misty D&eacute;o"/>
 <span class="talk-title">Let's translate old video games!  How do they even
 work?!</span>
 
