@@ -67,8 +67,8 @@ The best options for getting in and out of the Bay Area by air are either
 through San Francisco (SFO), or through San Jose (SJC).  There are tradeoffs
 for each; there are more flights in and out of SFO, but SJC is about half an
 hour to an hour closer to Santa Cruz. Both airports have shuttle options to
-Santa Cruz, if you don't wish to rent a car (example options by UCSC are
-[here](https://taps.ucsc.edu/travel/airport-shuttles.html).
+Santa Cruz, if you don't wish to rent a car (UCSC has a decent
+[list of options](https://taps.ucsc.edu/travel/airport-shuttles.html).
 
 ### By other alternatives including public transit
 Santa Cruz is somewhat remote and the public transit options are limited,
@@ -80,22 +80,30 @@ San Francisco and Oakland to [Santa Cruz Greyhound Station](https://locations.gr
 The nearest Amtrak/Caltrain station is San Jose Diridon Station (SJC).
 
 If you're coming from Anaheim, Burbank, or Los Angeles and wish to take a bus,
-[Megabus](https://us.megabus.com/) offers a few options to San Jose Diridon Station (SJC).
+[Megabus](https://us.megabus.com/) also offers a few options to San Jose Diridon Station (SJC).
 
 From San Jose Diridon Station to Santa Cruz, you can take:
-- [bus 17](https://www.scmtd.com/en/component/systemmap/17/20192)
-- Greyhound
-- taxi (cost estimate is about $100)
-- rideshare (cost estimate is about $50)
+
+ * The [Highway 17 Express](https://www.scmtd.com/en/component/systemmap/17/20192)
+   bus
+ * [Greyhound](https://www.greyhound.com)
+ * a taxi (estimated cost about $100)
+ * a rideshare (estimated cost about $50)
+
+Extremely adventurous attendees could choose to bike to Santa Cruz; from the
+middle of the Peninsula, [one possible
+route](https://www.strava.com/routes/11228019) is about 45 miles with about
+3,800ft of elevation gain.  (If you try this, or have a better route, [let
+us know](mailto:bangbangcon.west@gmail.com)!)
 
 ### From Santa Cruz city center to Jack Baskin Auditorium without a car
-Santa Cruz Metro offers several bus lines within the city. A few of them will
+Santa Cruz Metro offers several bus lines within the city; a few of them will
 get you to the auditorium from the city center. Please consult the [Santa Cruz
 Metro website](https://www.scmtd.com/en/routes) or Google Maps for the bus
 schedule.
 
-There are rideshare like Lyft and Uber, and car sharing programs like Zipcar
-available in Santa Cruz.
+There are both rideshare options (Lyft, etc.) and car sharing options
+(Zipcar) available in Santa Cruz.
 
 ## Venue accessibility
 
