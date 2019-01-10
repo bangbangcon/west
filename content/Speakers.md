@@ -95,7 +95,7 @@ work?!</span>
 
 Old video games were made under incredible technical pressures that are
 almost unimaginable to programmers today &mdash; so why don't we imagine them?  I
-will share my experience translating a series of Japanese role-playing games
+will share my experience translating the *Lunar* series of Japanese role-playing games
 from the 1990s.  We'll learn how text was represented in the '90s, how we can
 find text hidden in binary file formats, and how we can replace it.  Along
 the way, we'll learn about the kinds of techniques programmers used when
