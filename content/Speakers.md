@@ -277,29 +277,6 @@ languages.
 
 ---
 
-### Marc Brooker
-
-<img class='speaker-img' src="../images/speakers/marc-brooker.jpg" alt="Profile Photo of Marc Brooker"/>
-<span class="talk-title">Paranormal paravirtualization!</span>
-
-Ever since the 1960s, computers have been able to pretend to be multiple
-computers.  Most people use virtualization to boot entire operating systems,
-but a whole operating system is way more than you really need.  Can we write
-a hypervisor that fits on one slide?  Yes!  Can we boot an OS small enough
-to carve into a pumpkin?  Yes!  Can we redesign the IBM PC hardware from the
-CPU up?  Yes!  Will we get it right this time?  Probably not.
-
-In this talk, I'll show how hypervisors and operating systems can work
-together to make really tiny OSes possible.  We'll also lie to programs about
-the nature of time, space and CPU registers.
-
-**Marc Brooker** is a software engineer at Amazon Web Services.  He
-thinks computers are unreasonably difficult to use, even for experts, and
-wants to change that.  Marc likes computing, statistics, remote sensing and
-pretty much every other topic.
-
----
-
 ### Tabitha Sable
 
 <span class="talk-title">My, my, TTY!</span>
