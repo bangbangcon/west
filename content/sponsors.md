@@ -51,12 +51,14 @@ Space at !!Con West is limited, so we humbly request that these tickets go to em
 
 ---
 
-## In-Kind Sponsorship Ideas (benefits and costs are variable--talk to us!)
+## Sponsor a conference element! (benefits and costs are variable--talk to us!)
 * Accommodation near UCSC
   * We aim to provide accommodation for all of our speakers. You could help to sponsor accommodation for our speakers this year!
-* Live Captioning
-  * In order to make !!Con West as accessible as possible, we hope to continue our tradition of having live captioning by a professional stenographer who is familiar with the computing world
-* Child Care
-  * You could help us sponsor child care for our attendees, making !!Con West accessible and inclusive to more people.
+* Afternoon snacks and beverages
+  * You could help us with providing snacks and coffee/tea to our attendees in the afternoon!
+* Live Streaming and Recording
+  * In order to help everyone who couldn't join in person experience !!Con West, we hope to live stream, and record and release the talks, speaker permitting.
+* Shuttle service for attendees and speakers
+  * Baskin Auditorium is 3 miles away from Santa Cruz downtown! Help us transport our attendees in the mornings and evenings.
 
 Is there anything we missed that you think your company would be able to help with? Do [contact us](mailto:bangbangcon.west@gmail.com) - we would love to hear from you!
