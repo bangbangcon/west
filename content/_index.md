@@ -8,10 +8,10 @@ menu:
 
 **!!Con** (pronounced "bang bang con") **West** is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  Join us in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
 
-!!Con West is a pay-what-you-want conference, and the registration is via [Eventbrite](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544). The tickets will be released in two groups:
-
-- Monday, January 21, at 10pm (PST)
-- Wednesday, January 23, at 11am (PST)
+!!Con West is a pay-what-you-want conference, but tickets are now **sold
+out**.  But if you missed the registration, don't fret: we still encourage
+you to [get on the ticket
+waitlist](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544)!
 
 !!Con West will also be livestreamed and recorded, speaker permitting!
 
