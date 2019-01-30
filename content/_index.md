@@ -25,6 +25,15 @@ href="speakers">check it out</a>!
 
 Our [call for talk proposals](/cfp/) is now closed.  Thanks to everyone who submitted one!
 
+## What's the schedule of the event?
+
+We'll post the finalized schedule soon! The rough schedule looks like this for both days:
+- Registration opens at 9am. Continental breakfast will be available.
+- First talk starts at 10:30am.
+- Boxed lunch will be served around 12:30pm.
+- Wrap-up will end by 6pm.
+
+
 ## How do I get updates?
 
 Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
