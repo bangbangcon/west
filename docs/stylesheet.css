@@ -42,12 +42,12 @@ hr {
     background:
     /* top, transparent blue, faked with gradient */
     linear-gradient(
-      rgba(245, 178, 101, 0.8),
-      rgba(245, 178, 101, 0.8)
-    );
-    /* bottom, image
-    url("../images/montage.jpg");
-    background-repeat: repeat; */
+      rgba(245, 178, 101, 0.9),
+      rgba(245, 178, 101, 0.9)
+    ),
+    /* bottom, image */
+    url("images/montage.jpg");
+    background-repeat: repeat;
 }
 
 .header h1 {
