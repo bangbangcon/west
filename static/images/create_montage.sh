@@ -10,11 +10,11 @@ mkdir /tmp/bangbangcon_images/final
 # Copy speaker images to temp dir, in an order such that if a given
 # speaker occurs more than once, newer images will overwrite older
 # ones
-cp speakers/*.png /tmp/bangbangcon_images/
+cp speakers/* /tmp/bangbangcon_images/
 
 # Convert images to 50x50px
 i=1
-for image in `ls /tmp/bangbangcon_images/*.png`; do
+for image in `ls /tmp/bangbangcon_images/*`; do
     convert $image -resize 50x50 /tmp/bangbangcon_images/resized/$i.png
     let "i++";
 done
@@ -24,7 +24,7 @@ done
 # change too.
 COPIES=3
 GRID_HEIGHT=12
-LEFTOVER_SLOTS=6 # number of spaces left over in grid
+LEFTOVER_SLOTS=12 # number of spaces left over in grid
 
 # Make copies and order images randomly
 j=1

@@ -32,7 +32,7 @@ menu:
 
 ### Tobias Bieniek
 
-<img class='speaker-img' src="../images/speakers/tobias-bieniek.png" alt="Profile Photo of Tobias Bieniek"/>
+<img class='speaker-img' src="../images/speakers/tobias-bieniek.jpg" alt="Profile Photo of Tobias Bieniek"/>
 <span class="talk-title">Help!  How do you let others know what's going on
 when you're 8000 feet up in the air in a plane without an engine?!</span>
 
@@ -52,7 +52,7 @@ popular addons.
 
 ### Pranshu Bajpai
 
-<img class='speaker-img' src="../images/speakers/pranshu-bajpai.png" alt="Profile Photo of Pranshu Bajpai"/>
+<img class='speaker-img' src="../images/speakers/pranshu-bajpai.jpg" alt="Profile Photo of Pranshu Bajpai"/>
 <span class="talk-title">The Conjuring: ransomware edition!!</span>
 
 Ransomware is malevolent software that possesses hosts, holds files hostage,
@@ -89,7 +89,7 @@ Marketing.
 
 ### Misty De M&eacute;o
 
-<img class='speaker-img' src="../images/speakers/misty-de-meo.png" alt="Profile Photo of Misty D&eacute;o"/>
+<img class='speaker-img' src="../images/speakers/misty-de-meo.jpg" alt="Profile Photo of Misty D&eacute;o"/>
 <span class="talk-title">Let's translate old video games!  How do they even
 work?!</span>
 
@@ -110,7 +110,7 @@ digital preservation.
 
 ### Alex Rasmussen
 
-<img class='speaker-img' src="../images/speakers/alex-rasmussen.png" alt="Profile Photo of Alex Rasmussen"/>
+<img class='speaker-img' src="../images/speakers/alex-rasmussen.jpg" alt="Profile Photo of Alex Rasmussen"/>
 <span class="talk-title">EarthBound's almost-Turing-complete text
 system!</span>
 
@@ -128,7 +128,7 @@ making music, reading good books, and playing old video games.
 
 ### Andr&eacute; Arko
 
-<img class='speaker-img' src="../images/speakers/andre-arko.png" width="100" height="100" alt="Profile Photo of André Arko"/>
+<img class='speaker-img' src="../images/speakers/andre-arko.jpg" width="100" height="100" alt="Profile Photo of André Arko"/>
 <span class="talk-title">How to calculate the phase of the moon very, very
 badly!</span>
 
@@ -147,7 +147,7 @@ non-profit that funds open source development work.
 
 ### Simon Porter
 
-<img class='speaker-img' src="../images/speakers/simon-porter.png" alt="Profile Photo of Simon Porter"/>
+<img class='speaker-img' src="../images/speakers/simon-porter.jpg" alt="Profile Photo of Simon Porter"/>
 <span class="talk-title">Guiding a starship with noise! And blinking!</span>
 
 The January 1, 2019 flyby of [(486958) 2014 MU69](https://en.wikipedia.org/wiki/(486958)_2014_MU69) by NASA's New Horizons
@@ -223,7 +223,7 @@ and inspire people to become self-motivated learners.
 
 ### Breanne Boland
 
-<img class='speaker-img' src="../images/speakers/breanne-boland.png" alt="Profile Photo of Breanne Boland"/>
+<img class='speaker-img' src="../images/speakers/breanne-boland.jpg" alt="Profile Photo of Breanne Boland"/>
 <span class="talk-title">`/etc/services` is made of people! (and also
 ports!)</span>
 
@@ -246,7 +246,7 @@ port-assignment glory?
 
 ### Daisy Tsang
 
-<img class='speaker-img' src="../images/speakers/daisy-tsang.png" alt="Profile Photo of Daisy Tsang"/>
+<img class='speaker-img' src="../images/speakers/daisy-tsang.jpg" alt="Profile Photo of Daisy Tsang"/>
 <span class="talk-title">Observability in the Kitchen: Improve Your
 Breadmaking Skills with Open-Source Monitoring!!</span>
 
@@ -295,7 +295,7 @@ there?" and "how could I build this?".
 
 ### Michael Arntzenius
 
-<img class='speaker-img' src="../images/speakers/michael-arntzenius.png" alt="Profile Photo of
+<img class='speaker-img' src="../images/speakers/michael-arntzenius.jpg" alt="Profile Photo of
 Michael Arntzenius"/>
 <span class="talk-title">Software patterns ... from the 9th century?!!</span>
 
@@ -323,7 +323,7 @@ practice.
 
 ### Molly Lloyd
 
-<img class='speaker-img' src="../images/speakers/molly-lloyd.png" alt="Profile Photo of Molly Lloyd"/>
+<img class='speaker-img' src="../images/speakers/molly-lloyd.jpg" alt="Profile Photo of Molly Lloyd"/>
 <span class="talk-title">Everything the light touches is a triangle: how
 computers draw!</span>
 
@@ -340,7 +340,7 @@ on your computer screen or in your favorite video game get drawn.
 
 ### Nick Piesco
 
-<img class='speaker-img' src="../images/speakers/nick-piesco.png" alt="Profile Photo of Nick Piesco"/>
+<img class='speaker-img' src="../images/speakers/nick-piesco.jpg" alt="Profile Photo of Nick Piesco"/>
 <span class="talk-title">This one simple 600-year-old trick makes your
 website more accessible!</span>
 
@@ -369,7 +369,7 @@ beer to try out, you can find him tending his licence plate collection.
 
 ### Jennifer Wang
 
-<img class='speaker-img' src="../images/speakers/jennifer-wang.png" alt="Profile Photo of Jennifer Wang"/>
+<img class='speaker-img' src="../images/speakers/jennifer-wang.jpg" alt="Profile Photo of Jennifer Wang"/>
 <span class="talk-title">IMUs FTW!!  Building IMU-based gesture
 recognition!</span>
 
@@ -389,7 +389,7 @@ computing meets the physical world.
 
 ### Max Kreminski
 
-<img class='speaker-img' src="../images/speakers/max-kreminski.png" alt="Profile Photo of Max Kreminski"/>
+<img class='speaker-img' src="../images/speakers/max-kreminski.jpg" alt="Profile Photo of Max Kreminski"/>
 <span class="talk-title">Making blackout poetry with computers!</span>
 
 Blackout poetry creatively subverts a source text by blacking out most of
@@ -412,7 +412,7 @@ about gardening games!
 
 ### Wesley Aptekar-Cassels
 
-<img class='speaker-img' src="../images/speakers/wesley-aptekar-cassels.png" alt="Profile Photo of Wesley Aptekar-Cassels"/>
+<img class='speaker-img' src="../images/speakers/wesley-aptekar-cassels.jpg" alt="Profile Photo of Wesley Aptekar-Cassels"/>
 <span class="talk-title">Robots, rockets, and more!  Control theory in 10
 minutes!</span>
 
@@ -433,7 +433,7 @@ and attempting to think about systems far too large to fit in their brain.
 
 ### Amrita Mazumdar
 
-<img class='speaker-img' src="../images/speakers/amrita-mazumdar.png" alt="Profile Photo of Amrita Mazumdar"/>
+<img class='speaker-img' src="../images/speakers/amrita-mazumdar.jpg" alt="Profile Photo of Amrita Mazumdar"/>
 <span class="talk-title">How to throw out 95% of pixels in virtual reality, without anyone noticing!!</span>
 
 Did you know that the eye only perceives 1% of what you're looking at in
@@ -449,7 +449,7 @@ research at the intersection of computer architecture and virtual reality.
 
 ### Jeroen (Jerry) van Leeuwen
 
-<img class='speaker-img' src="../images/speakers/jerry-van-leeuwen.png" alt="Profile Photo of Jerry van Leeuwen"/>
+<img class='speaker-img' src="../images/speakers/jerry-van-leeuwen.jpg" alt="Profile Photo of Jerry van Leeuwen"/>
 <span class="talk-title">Fast code! By removing all branches!</span>
 
 Performance optimization should never be your first concern when creating a
@@ -523,7 +523,7 @@ herself.  She could, but she doesn't.
 
 ### Eric Weinstein
 
-<img class='speaker-img' src="../images/speakers/eric-weinstein.png" alt="Profile Photo of Eric Weinstein"/>
+<img class='speaker-img' src="../images/speakers/eric-weinstein.jpg" alt="Profile Photo of Eric Weinstein"/>
 <span class="talk-title">Value Your Types!</span>
 
 You're probably familiar with types in programming languages, such as
@@ -543,7 +543,7 @@ software engineering (for both human and artificial moral agents).
 
 ### Liz Frost
 
-<img class='speaker-img' src="../images/speakers/liz-frost.png" alt="Profile Photo of Liz Frost"/>
+<img class='speaker-img' src="../images/speakers/liz-frost.jpg" alt="Profile Photo of Liz Frost"/>
 <span class="talk-title">Postgres plays Pok&eacute;mon!</span>
 
 Pok&eacute;mon is a pretty fun game.  You have a bunch of numbers, they do a
@@ -579,7 +579,7 @@ erstwhile writer, and a frequent tweeter.
 
 ### Michael Malis
 
-<img class='speaker-img' src="../images/speakers/michael-malis.png" alt="Profile Photo of Michael Malis"/>
+<img class='speaker-img' src="../images/speakers/michael-malis.jpg" alt="Profile Photo of Michael Malis"/>
 <span class="talk-title">Generating fractals ... with SQL queries!!!</span>
 
 SQL databases can do a lot.  They are fantastic at making it easy to work
@@ -599,7 +599,7 @@ bouldering and meditating.
 
 ### Zack M. Davis
 
-<img class='speaker-img' src="../images/speakers/zack-m-davis.png" width="100" height="100" alt="Profile Photo of Zack M. Davis"/>
+<img class='speaker-img' src="../images/speakers/zack-m-davis.jpg" width="100" height="100" alt="Profile Photo of Zack M. Davis"/>
 <span class="talk-title">Minimax search and the structure of cognition!</span>
 
 We discuss [an algorithm](https://en.wikipedia.org/wiki/Negamax)
@@ -638,7 +638,7 @@ course impossible.
 
 ### Ori Bernstein
 
-<img class='speaker-img' src="../images/speakers/ori-bernstein.png" alt="Profile Photo of Ori Bernstein"/>
+<img class='speaker-img' src="../images/speakers/ori-bernstein.jpg" alt="Profile Photo of Ori Bernstein"/>
 <span class="talk-title">That's hot!</span>
 
 I work on smart microwave ovens. We don't tweet images of each food you cook.
@@ -687,7 +687,7 @@ development, "how we got here", and the roads not taken.
 
 ### Eric Fischer
 
-<img class='speaker-img' src="../images/speakers/eric-fischer.png" alt="Profile Photo of Eric Fischer"/>
+<img class='speaker-img' src="../images/speakers/eric-fischer.jpg" alt="Profile Photo of Eric Fischer"/>
 <span class="talk-title">`if` ... `then` ... `else` had to be
 invented!</span>
 
