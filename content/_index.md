@@ -107,10 +107,15 @@ The !!Con West 2019 organizing team: Dema Abu Adas, Dev Purandare, Janice Shiu, 
 [Send us an e-mail](mailto:bangbangcon.west@gmail.com) if you'd like to get
 in touch.
 
-<!--
-Add this once we have a good way for sponsors to get in touch.
-
 ## Who's sponsoring?
+Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gmail.com)! 
+### PHENOMENAL!!! Sponsors
 
-Interested in sponsoring !!Con West?  Get in touch!
--->
+<div class="sponsor big-sponsor">
+	<a href="./sponsors#baskin">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img src="images/sponsors/baskin-logo-banner-new.jpg"/>
+		</div>
+	</a>
+</div>
