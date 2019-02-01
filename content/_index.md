@@ -68,4 +68,11 @@ in touch.
 Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gmail.com)! 
 ### PHENOMENAL!!! Sponsors
 
-<div><a href="./sponsors#baskin"><img  src="images/sponsors/baskin-logo-banner-new.jpg"/></a></div>
+<div class="sponsor big-sponsor">
+	<a href="./sponsors#baskin">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img src="images/sponsors/baskin-logo-banner-new.jpg"/>
+		</div>
+	</a>
+</div>
