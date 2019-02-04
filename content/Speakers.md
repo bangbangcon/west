@@ -521,6 +521,26 @@ herself.  She could, but she doesn't.
 
 ---
 
+### Eric Weinstein
+
+<img class='speaker-img' src="../images/speakers/eric-weinstein.jpg" alt="Profile Photo of Eric Weinstein"/>
+<span class="talk-title">Value Your Types!</span>
+
+You're probably familiar with types in programming languages, such as
+"integer" or "list of integers." But what if your type system were powerful
+enough to express types like "non-negative integer" or "list of strings
+where each string is at least eight characters long"?  Welcome to the world
+of dependent types!  In this talk, we'll explore what dependent types are,
+how they work, and the relationship between type theory and predicate logic,
+all using the Idris programming language.  We'll even see when type checking
+can become (gasp) undecidable!
+
+**Eric Weinstein** writes poems and programs.  He's currently thinking a lot
+about machine qualia, game theory in online auctions, and applied ethics in
+software engineering (for both human and artificial moral agents).
+
+---
+
 ### Liz Frost
 
 <img class='speaker-img' src="../images/speakers/liz-frost.jpg" alt="Profile Photo of Liz Frost"/>

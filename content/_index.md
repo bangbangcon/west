@@ -8,10 +8,10 @@ menu:
 
 **!!Con** (pronounced "bang bang con") **West** is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  Join us in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
 
-!!Con West is a pay-what-you-want conference, and the registration is via [Eventbrite](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544). The tickets will be released in two groups:
-
-- Monday, January 21, at 10pm (PST)
-- Wednesday, January 23, at 11am (PST)
+!!Con West is a pay-what-you-want conference, but tickets are now **sold
+out**.  But if you missed the registration, don't fret: we still encourage
+you to [get on the ticket
+waitlist](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544)!
 
 !!Con West will also be livestreamed and recorded, speaker permitting!
 
@@ -22,8 +22,51 @@ and <a href='speakers#vj-um-amel'>VJ Um Amel</a>), and <a
 href="speakers">30 other amazing speakers</a>!  We're incredibly excited by
 this year's talk line-up, and we know that you will be too -- <a
 href="speakers">check it out</a>!
+<div class="speaker-pics" markdown="0">
+<div><a href="./speakers#alex-rasmussen"><img height="100" width="100" src="images/speakers/alex-rasmussen.jpg" alt="Alex Rasmussen" /></a></div>
+<div><a href="./speakers#amrita-mazumdar"><img height="100" width="100" src="images/speakers/amrita-mazumdar.jpg" alt="Amrita Mazumdar" /></a></div>
+<div><a href="./speakers#andr-eacute-arko"><img height="100" width="100" src="images/speakers/andre-arko.jpg" alt="Andre Arko.jpg" /></a></div>
+<div><a href="./speakers#annie-cherkaev"><img height="100" width="100" src="images/speakers/annie-cherkaev.png" alt="Annie Cherkaev" /></a></div>
+<div><a href="./speakers#breanne-boland"><img height="100" width="100" src="images/speakers/breanne-boland.jpg" alt="Breanne Boland" /></a></div>
+<div><a href="./speakers#daisy-tsang"><img height="100" width="100" src="images/speakers/daisy-tsang.jpg" alt="Daisy Tsang" /></a></div>
+<div><a href="./speakers#eric-fischer"><img height="100" width="100" src="images/speakers/eric-fischer.jpg" alt="Eric Fischer" /></a></div>
+<div><a href="./speakers#eric-weinstein"><img height="100" width="100" src="images/speakers/eric-weinstein.jpg" alt="Eric Weinstein" /></a></div>
+<div><a href="./speakers#jennifer-wang"><img height="100" width="100" src="images/speakers/jennifer-wang.jpg" alt="Jennifer Wang" /></a></div>
+<div><a href="./speakers#jeroen-jerry-van-leeuwen"><img height="100" width="100" src="images/speakers/jerry-van-leeuwen.jpg" alt="Jerry van Leeuwen" /></a></div>
+<div><a href="./speakers#katharine-berry"><img height="100" width="100" src="images/speakers/katharine-berry.png" alt="Katharine Berry" /></a></div>
+<div><a href="./speakers#liz-frost"><img height="100" width="100" src="images/speakers/liz-frost.jpg" alt="Liz Frost.jpg" /></a></div>
+<div><a href="./speakers#lynn-cyrin"><img height="100" width="100" src="images/speakers/lynn_cyrin.png" alt="Lynn Cyrin" /></a></div>
+<div><a href="./speakers#max-kreminski"><img height="100" width="100" src="images/speakers/max-kreminski.jpg" alt="Max Kreminski" /></a></div>
+<div><a href="./speakers#michael-albaugh"><img height="100" width="100" src="images/speakers/michael-albaugh.png" alt="Michael Albaugh" /></a></div>
+<div><a href="./speakers#michael-arntzenius"><img height="100" width="100" src="images/speakers/michael-arntzenius.jpg" alt="Michael Arntzenius" /></a></div>
+<div><a href="./speakers#michael-knowles"><img height="100" width="100" src="images/speakers/michael-knowles.png" alt="Michael Knowles" /></a></div>
+<div><a href="./speakers#michael-malis"><img height="100" width="100" src="images/speakers/michael-malis.jpg" alt="Michael Malis" /></a></div>
+<div><a href="./speakers#mike-lazer-walker"><img height="100" width="100" src="images/speakers/mike-lazer-walker.png" alt="Mike Lazer-Walker" /></a></div>
+<div><a href="./speakers#misty-de-m-eacute-o"><img height="100" width="100" src="images/speakers/misty-de-meo.jpg" alt="Misty de Meo" /></a></div>
+<div><a href="./speakers#molly-lloyd"><img height="100" width="100" src="images/speakers/molly-lloyd.jpg" alt="Molly Lloyd" /></a></div>
+<div><a href="./speakers#nick-piesco"><img height="100" width="100" src="images/speakers/nick-piesco.jpg" alt="Nick Piesco" /></a></div>
+<div><a href="./speakers#ori-bernstein"><img height="100" width="100" src="images/speakers/ori-bernstein.jpg" alt="Ori Bernstein" /></a></div>
+<div><a href="./speakers#pranshu-bajpai"><img height="100" width="100" src="images/speakers/pranshu-bajpai.jpg" alt="Pranshu Bajpai" /></a></div>
+<div><a href="./speakers#simon-porter"><img height="100" width="100" src="images/speakers/simon-porter.jpg" alt="Simon Porter" /></a></div>
+<div><a href="./speakers#tobias-bieniek"><img height="100" width="100" src="images/speakers/tobias-bieniek.jpg" alt="Tobias Bieniek" /></a></div>
+<div><a href="./speakers#tom-verbeure"><img height="100" width="100" src="images/speakers/tom-verbeure.png" alt="Tom Verbeure" /></a></div>
+<div><a href="./speakers#vj-um-amel"><img height="100" width="100" src="images/speakers/vj_um_amel.png" alt="Vj Um Amel" /></a></div>
+<div><a href="./speakers#wesley-aptekar-cassels"><img height="100" width="100" src="images/speakers/wesley-aptekar-cassels.jpg" alt="Wesley Aptekar-Cassels" /></a></div>
+<div><a href="./speakers#zack-m-davis"><img height="100" width="100" src="images/speakers/zack-m-davis.jpg" alt="Zack M. Davis" /></a></div>
+</div>
+
 
 Our [call for talk proposals](/cfp/) is now closed.  Thanks to everyone who submitted one!
+
+## What's the schedule of the event?
+
+We'll post the finalized schedule soon! The rough schedule looks like this for both days:
+
+* Registration opens at 9am. Continental breakfast will be available.
+* First talk starts at 10:30am.
+* Boxed lunch will be served around 12:30pm.
+* Wrap-up will end by 6pm.
+
 
 ## How do I get updates?
 
@@ -69,10 +112,20 @@ Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gma
 ### PHENOMENAL!!! Sponsors
 
 <div class="sponsor big-sponsor">
-	<a href="./sponsors#baskin">
+	<a href="https://www.soe.ucsc.edu" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
 		<img src="images/sponsors/baskin-logo-banner-new.jpg"/>
+		</div>
+	</a>
+</div>
+
+### AWESOME! Sponsors
+<div class="sponsor">
+	<a href="https://www.recurse.com" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="100" alt="Recurse Center" src="images/sponsors/RC_logo.png"/>
 		</div>
 	</a>
 </div>
