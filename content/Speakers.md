@@ -10,11 +10,21 @@ menu:
 
 # Who's speaking at !!Con West?
 ## Keynote Speakers
-<h3 id='lynn-cyrin'>Lynn Cyrin</h3>
-<p>
-  <img class='speaker-img' src="../images/lynn_cyrin.jpeg" alt="Profile Photo of Lynn Cyrin"/>
-  <a href="https://lynncyrin.me">**Lynn Cyrin**</a> is a software engineer and programming zealot. They live in tech culture most of the time, and care a lot about making sure our code children are well taken care of.<br><br><br>
-</p>
+
+### Lynn Cyrin
+<img class='speaker-img' src="../images/lynn_cyrin.jpeg" alt="Profile Photo of Lynn Cyrin"/>
+<span class="talk-title">The Best Parts!  Of My Favorite Things!</span>
+
+The software engineering ecosystem is so big!  How can you tell which tool
+is best for which job, and what's going to give you the simplest path to get
+a job done?  How do all of the various systems and tools complement each
+other?  These are all questions you will have to answer on a regular basis,
+and I want to help you!  We're going to go down the list, and I'm going to
+tell you about all the best parts!  of my favorite things!  So, the next
+time you think "wow, I really need to catch this mouse", you'll remember:
+"oh hey, I heard cats are great at that!"
+
+<a href="https://lynncyrin.me">**Lynn Cyrin**</a> is a software engineer and programming zealot. They live in tech culture most of the time, and care a lot about making sure our code children are well taken care of.
 
 ---
 
