@@ -112,10 +112,20 @@ Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gma
 ### PHENOMENAL!!! Sponsors
 
 <div class="sponsor big-sponsor">
-	<a href="./sponsors#baskin">
+	<a href="https://www.soe.ucsc.edu" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
 		<img src="images/sponsors/baskin-logo-banner-new.jpg"/>
+		</div>
+	</a>
+</div>
+
+### AWESOME! Sponsors
+<div class="sponsor">
+	<a href="https://www.recurse.com" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="100" alt="Recurse Center" src="images/sponsors/RC_logo.png"/>
 		</div>
 	</a>
 </div>
