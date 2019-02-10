@@ -109,13 +109,23 @@ in touch.
 
 ## Who's sponsoring?
 Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gmail.com)! 
-### PHENOMENAL!!! Sponsors
 
+### PHENOMENAL!!! Sponsors
 <div class="sponsor big-sponsor">
 	<a href="https://www.soe.ucsc.edu" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
 		<img src="images/sponsors/baskin-logo-banner-new.jpg"/>
+		</div>
+	</a>
+</div>
+
+### EXCELLENT!! Sponsors
+<div class="sponsor medium-sponsor">
+	<a href="https://stripe.com/ca" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="160" alt="Stripe" src="images/sponsors/StripeLogo.svg"/>
 		</div>
 	</a>
 </div>
