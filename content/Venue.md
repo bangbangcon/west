@@ -97,7 +97,7 @@ route](https://www.strava.com/routes/11228019) is about 45 miles with about
 us know](mailto:bangbangcon.west@gmail.com)!)
 
 ### Parking at UCSC
-Please park at [Core West Parking Structure](https://www.maps.ucsc.edu/content/directions-core-west-parking-structure) if you drive to the campus. Parking is free on the weekends.
+Please park at [Core West Parking Structure](https://www.maps.ucsc.edu/content/directions-core-west-parking-structure) if you drive to the campus. Parking is free on the weekends. You can check [here](https://mobile.ucsc.edu/parking/corewest) for a live information on open parking spaces.
 
 ### From Santa Cruz city center to Jack Baskin Auditorium without a car
 Santa Cruz Metro offers several bus lines within the city; a few of them will
