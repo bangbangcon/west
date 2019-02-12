@@ -96,6 +96,9 @@ route](https://www.strava.com/routes/11228019) is about 45 miles with about
 3,800ft of elevation gain.  (If you try this, or have a better route, [let
 us know](mailto:bangbangcon.west@gmail.com)!)
 
+### Parking at UCSC
+Please park at [Core West Parking Structure](https://www.maps.ucsc.edu/content/directions-core-west-parking-structure) if you drive to the campus. Parking is free on the weekends.
+
 ### From Santa Cruz city center to Jack Baskin Auditorium without a car
 Santa Cruz Metro offers several bus lines within the city; a few of them will
 get you to the auditorium from the city center. Please consult the [Santa Cruz
