@@ -62,6 +62,8 @@ CA-17's mountain roads have been known to take some overconfident drivers by
 surprise, so be extra careful and anticipate delays from crashes if
 conditions are less-than-perfect.
 
+If you're interested in carpooling, please join [our carpool slack](https://join.slack.com/t/conwestcarpool/shared_invite/enQtNTM5OTU4NzgyNTk2LWJmZWU5MDI1YWRiOGY5ZjdkZjZhYjU4NGU0MDNiZThjMWFjYzU2OThmZmEwZjJhZjFmY2FjOGRiMzUyY2VmMjM) and find your carpool buddies.
+
 ### By air
 The best options for getting in and out of the Bay Area by air are either
 through San Francisco (SFO), or through San Jose (SJC).  There are tradeoffs
@@ -107,6 +109,40 @@ schedule.
 
 There are both rideshare options (Lyft, etc.) and car sharing options
 (Zipcar) available in Santa Cruz.
+
+### Shuttle between Jack Baskin Auditorium and Santa Cruz city center
+We will have free shuttles for the attendees! The shuttle schedule will be the same for both conference days. The times shown are the depart times from the pick-up location.
+
+Depending on the road condition, the shuttles might arrive 5-10 minute late.
+Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop. They have a tiny lobby, and they asked us to wait out front. They have a large overhang, so you will stay dry!
+
+**Morning**
+[Hampton Inn](https://goo.gl/maps/VSDYfQtWZEz) → Baskin Auditorium
+(20 passenger bus)
+
+* 9:00am
+* 9:30am
+* 10:00am
+
+[Southwest corner of Pacific Ave. and Cathcart St.](https://goo.gl/maps/t1UhFcoyxWx) → Baskin Auditorium
+(30 passenger bus)
+
+* 9:00am
+* 9:30am
+* 10:00am
+
+**Evening**
+Baskin Auditorium → Hampton Inn
+(20 passenger bus)
+
+* 5:00pm
+* 5:30pm
+
+Baskin Auditorium → Southwest corner of Pacific Ave. and Cathcart St.
+(30 passenger bus)
+* 5:00pm
+* 5:30pm
+
 
 ## Venue accessibility
 
