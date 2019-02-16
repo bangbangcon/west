@@ -70,7 +70,7 @@ through San Francisco (SFO), or through San Jose (SJC).  There are tradeoffs
 for each; there are more flights in and out of SFO, but SJC is about half an
 hour to an hour closer to Santa Cruz. Both airports have shuttle options to
 Santa Cruz, if you don't wish to rent a car (UCSC has a decent
-[list of options](https://taps.ucsc.edu/travel/airport-shuttles.html).
+[list of options](https://taps.ucsc.edu/travel/airport-shuttles.html)).
 
 ### By other alternatives including public transit
 Santa Cruz is somewhat remote and the public transit options are limited,
