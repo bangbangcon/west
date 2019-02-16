@@ -65,7 +65,7 @@ We'll post the finalized schedule soon! The rough schedule looks like this for b
 * Registration opens at 9am. Continental breakfast will be available.
 * First talk starts at 10:30am.
 * Boxed lunch will be served around 12:30pm.
-* Wrap-up will end by 6pm.
+* Wrap-up will end by 5pm.
 
 
 ## How do I get updates?
