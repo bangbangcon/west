@@ -19,7 +19,7 @@
     </title>
   </head>
 
-  <body>
+  <body{{ with .Type }} class="{{ . }}" {{ end }}>
 
     <div id="container">
       <div class="header">
