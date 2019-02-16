@@ -163,7 +163,7 @@ prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 	<a href="https://www.recurse.com" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
-		<img height="100" alt="Recurse Center" src="images/sponsors/RC_logo.png"/>
+		<img height="140" alt="Recurse Center" src="images/sponsors/recurse.svg"/>
 		</div>
 	</a>
 </div>
