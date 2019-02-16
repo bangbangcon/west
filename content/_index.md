@@ -104,14 +104,24 @@ You can also subscribe to our mailing list!  We send roughly five emails a year,
 <!--End mc_embed_signup-->
 
 ## Who's sponsoring?
-Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gmail.com)! 
+Interested in sponsoring !!Con West?  Have a look at our [sponsorship
+prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 
 ### PHENOMENAL!!! Sponsors
 <div class="sponsor big-sponsor">
 	<a href="https://www.soe.ucsc.edu" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
-		<img src="images/sponsors/baskin-logo-banner-new.jpg"/>
+		<img src="images/sponsors/baskin-logo-banner-new.jpg" alt="UC Santa Cruz, Baskin Engineering"/>
+		</div>
+	</a>
+</div>
+
+<div class="sponsor big-sponsor">
+	<a href="https://www.mailchimp.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="130" src="images/sponsors/mailchimp.png" alt="Mailchimp" />
 		</div>
 	</a>
 </div>
@@ -121,7 +131,7 @@ Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gma
 	<a href="https://stripe.com/ca" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
-		<img height="160" alt="Stripe" src="images/sponsors/StripeLogo.svg"/>
+		<img height="110" alt="Stripe" src="images/sponsors/StripeLogo.svg"/>
 		</div>
 	</a>
 </div>
@@ -130,7 +140,7 @@ Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gma
 	<a href="https://github.com/" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
-		<img height="160" alt="GitHub" src="images/sponsors/github.png"/>
+		<img height="110" alt="GitHub" src="images/sponsors/github.png"/>
 		</div>
 	</a>
 </div>
