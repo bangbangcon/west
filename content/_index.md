@@ -126,6 +126,15 @@ Interested in sponsoring !!Con West?  [Get in touch](mailto:bangbangcon.west@gma
 	</a>
 </div>
 
+<div class="sponsor medium-sponsor">
+	<a href="https://github.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="160" alt="GitHub" src="images/sponsors/github.png"/>
+		</div>
+	</a>
+</div>
+
 ### AWESOME! Sponsors
 <div class="sponsor">
 	<a href="https://www.recurse.com" target="_blank">
