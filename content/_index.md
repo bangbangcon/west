@@ -13,9 +13,9 @@ out**.  But if you missed the registration, don't fret: we still encourage
 you to [get on the ticket
 waitlist](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544)!
 
-!!Con West will also be livestreamed (sponsored by <a
-href="https://stripe.com/" target="_blank">our EXCELLENT!!  friends at
-Stripe</a>) and recorded, speaker permitting!
+!!Con West will also be livestreamed (sponsored by our EXCELLENT!! friends
+at <a href="https://stripe.com/" target="_blank">Stripe</a>) and recorded,
+speaker permitting!
 
 ## Who's speaking?
 
