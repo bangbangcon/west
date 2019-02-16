@@ -179,6 +179,8 @@ p, ul {
     top: -1em;
 }
 
+
+
 /* Homepage speaker pictures */
 
 .speaker {
@@ -229,9 +231,9 @@ p, ul {
     text-align: center;
 }
 
-.sponsor-list h3 {
+/*.sponsor-list h3 {
     margin: 0.5em 0;
-}
+}*/
 
 .sponsor-list > hr {
     width: 70%;
