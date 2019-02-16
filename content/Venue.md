@@ -110,13 +110,14 @@ schedule.
 There are both rideshare options (Lyft, etc.) and car sharing options
 (Zipcar) available in Santa Cruz.
 
-### Shuttle between Jack Baskin Auditorium and Santa Cruz city center
+### Shuttle to/from Jack Baskin Auditorium
 We will have free shuttles for the attendees! The shuttle schedule will be the same for both conference days. The times shown are the depart times from the pick-up location.
 
 Depending on the road condition, the shuttles might arrive 5-10 minute late.
 Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop. They have a tiny lobby, and they asked us to wait out front. They have a large overhang, so you will stay dry!
 
 **Morning**
+
 [Hampton Inn](https://goo.gl/maps/VSDYfQtWZEz) → Baskin Auditorium
 (20 passenger bus)
 
@@ -132,6 +133,7 @@ Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop. Th
 * 10:00am
 
 **Evening**
+
 Baskin Auditorium → Hampton Inn
 (20 passenger bus)
 
@@ -140,6 +142,7 @@ Baskin Auditorium → Hampton Inn
 
 Baskin Auditorium → Southwest corner of Pacific Ave. and Cathcart St.
 (30 passenger bus)
+
 * 5:00pm
 * 5:30pm
 
