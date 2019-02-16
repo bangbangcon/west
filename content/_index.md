@@ -4,6 +4,7 @@ menu:
   main:
     title: "Home"
     weight: 10
+type: "homepage"
 ---
 
 **!!Con** (pronounced "bang bang con") **West** is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  Join us in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
@@ -104,10 +105,18 @@ You can also subscribe to our mailing list!  We send roughly five emails a year,
 <!--End mc_embed_signup-->
 
 ## Who's sponsoring?
+
 Interested in sponsoring !!Con West?  Have a look at our [sponsorship
 prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 
+<div class="sponsor-list">
+
+<!-- otherwise hugo gets confused -->
+<div></div>
+
+
 ### PHENOMENAL!!! Sponsors
+
 <div class="sponsor big-sponsor">
 	<a href="https://www.soe.ucsc.edu" target="_blank">
 	<span class="magic">.</span>
@@ -125,6 +134,8 @@ prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 		</div>
 	</a>
 </div>
+
+---
 
 ### EXCELLENT!! Sponsors
 <div class="sponsor medium-sponsor">
@@ -145,6 +156,8 @@ prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 	</a>
 </div>
 
+---
+
 ### AWESOME! Sponsors
 <div class="sponsor">
 	<a href="https://www.recurse.com" target="_blank">
@@ -153,6 +166,8 @@ prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 		<img height="100" alt="Recurse Center" src="images/sponsors/RC_logo.png"/>
 		</div>
 	</a>
+</div>
+
 </div>
 
 ## Who's organizing?
