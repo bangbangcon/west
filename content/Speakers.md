@@ -30,14 +30,17 @@ time you think "wow, I really need to catch this mouse", you'll remember:
 
 ### VJ Um Amel
 <img class='speaker-img' src="../images/vj_um_amel.jpeg" alt="Profile Photo of VJ Um Amel">
-<span class="talk-title">Abstraction, Glitch, And Resistance</span>
+<span class="talk-title">Glitch Nuggets of Resistance!</span>
 
 This talk introduces a concept of glitch, or error/failure, which also
 serves as an entry point for activists, by drawing on my book project titled
-Glitch Resistance: the Arab Uprisings, Social Media, and the Virtual Body
-Politic; then we apply this theory of the glitch onto an aesthetics of
-abstraction by drawing on live performance and installation.  The talk
-concludes with experimental teaching approaches and strategies.
+_Glitch Resistance: the Arab Uprisings, Social Media, and the Virtual Body
+Politic_.  If glitch does violence to the surface of the image, it also
+enables us to see more, by questioning the source, revealing the material
+support of the digital ether, and suggesting how images are recomposed in
+circulation.  I will demonstrate how to apply this theory of the glitch onto
+an aesthetics of abstraction by drawing on live performances, installation,
+and digital arts.
 
 <a href="http://vjumamel.com">**VJ Um Amel**</a> is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also Assistant Professor of Media Theory & Practice at the University of California, Santa Barbara.
 
