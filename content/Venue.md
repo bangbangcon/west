@@ -43,7 +43,10 @@ get you access.
 
 **!!Con West** will have CART ("Communication Access Realtime
 Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
-live transcription in English.
+live transcription in English.  Our [captioning sponsor this year is
+Twilio](https://www.twilio.com); we are incredibly grateful to Twilio for
+their support in our mission of making **!!Con West** accessible to
+everybody!
 
 ## Getting to Santa Cruz
 We are committed to making **!!Con West** accessible to as many attendees as we
