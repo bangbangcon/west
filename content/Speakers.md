@@ -581,6 +581,7 @@ fluffy dog in Brooklyn.
 
 ### Arshia Mufti
 
+<img class='speaker-img' src="../images/speakers/arshia-mufti.jpg" alt="Profile Photo of Arshia Mufti"/>
 <span class="talk-title">How DNS doesn't work!</span>
 
 It's time to answer that age-old question: how does my laptop always *know*
