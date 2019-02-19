@@ -125,7 +125,7 @@ Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop. Th
 * 9:30am
 * 10:00am
 
-[Southwest corner of Pacific Ave. and Cathcart St.](https://goo.gl/maps/t1UhFcoyxWx) → Baskin Auditorium
+[Southwest corner of Pacific Ave. and Cathcart St. (on Cathcart St. next to Old School Shoes)](https://goo.gl/maps/t1UhFcoyxWx) → Baskin Auditorium
 (30 passenger bus)
 
 * 9:00am
