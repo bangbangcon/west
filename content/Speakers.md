@@ -255,7 +255,7 @@ are meant to be used for what purposes.  But the further you go into this
 addresses, and dates paired with information about ports and the apps that
 claim them.  Who are these folks?  How did their names get in the file that
 came with your OS?  Why does "`chipper`" get port 17219 and "`octopus`"
-claim port 10080?  Who oversees this vital file that puts the "`ssh`" with
+claim port 10008?  Who oversees this vital file that puts the "`ssh`" with
 port 22 when you `netstat`?  And how could you get your own piece of
 port-assignment glory?
 
