@@ -1,14 +1,14 @@
 ---
-title: "Venue"
+title: "Getting Here"
 date: 2018-11-01T13:38:57-07:00
 draft: false
 menu:
   main:
-    title: "Venue"
+    title: "Getting Here"
     weight: 60
 ---
 
-# Where is !!Con West 2019?
+# Getting to !!Con West 2019
 
 We're excited to bring **!!Con West 2019** to scenic Santa Cruz, California,
 on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on February 23rd
@@ -18,56 +18,27 @@ West** in the [Jack Baskin
 Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527)
 from about 10am to 5pm each day.
 
-## Event size
-
-We anticipate having capacity for approximately **175 attendees** at this
-year's **!!Con West**, in addition to our speakers and organizers.
-
-## Alcohol-free and all-ages
-
-**!!Con West** is an **alcohol-free event**.  All ages are welcome.
-
-## Gender-neutral restrooms
-
-The venue will have two single-occupancy gender-neutral restrooms in the
-same building as the auditorium; additionally, there are gender-labeled
-restrooms in adjacent buildings.
-
-## Lactation room
-
-A secure, private space will be made available for anybody who needs a
-lactation room.  Please ask a conference organizer, and we'll be happy to
-get you access.
-
-## CART captioning
-
-**!!Con West** will have CART ("Communication Access Realtime
-Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
-live transcription in English.  Our [captioning sponsor this year is
-Twilio](https://www.twilio.com); we are incredibly grateful to Twilio for
-their support in our mission of making **!!Con West** accessible to
-everybody!
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=baskin%20auditorium&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
 ## Getting to Santa Cruz
-We are committed to making **!!Con West** accessible to as many attendees as we
-can, and are searching for more transportation options. We will update this
-section as we find more of them!
 
 ### By car
-The best way to get to Santa Cruz from most of the Peninsula is by way of CA-17,
+
+- The best way to get to Santa Cruz from most of the Peninsula is by way of CA-17,
 which takes you from CA-85 through the Santa Cruz mountains into the city;
-this takes about 45 minutes with no traffic.  Another option, if coming from
-San Francisco, is to drive down by way of Half Moon Bay on CA-1, which would
-take about an hour and a half without traffic.  Of course, since this is the
-Bay Area, both of these routes are in fact prone to traffic, which could
-delay you substantially, especially during peak hours!  On rainy days,
-CA-17's mountain roads have been known to take some overconfident drivers by
-surprise, so be extra careful and anticipate delays from crashes if
-conditions are less-than-perfect.
+- Please ensure to leave sufficiently early as CA-17 gets heavy traffic southbound
+on weekends.
+- Another option, if coming from San Francisco, is to drive down by way of
+Half Moon Bay on CA-1, which would take about an hour and a half without traffic.
+- On rainy days, CA-17 can present adverse conditions, including car crashes
+and mudslides, sometimes even leading to closure of the highway and long delays.
+- Please make sure to drive carefully and check the local news for transit
+conditions.
 
 If you're interested in carpooling, please join [our carpool slack](https://join.slack.com/t/conwestcarpool/shared_invite/enQtNTM5OTU4NzgyNTk2LWJmZWU5MDI1YWRiOGY5ZjdkZjZhYjU4NGU0MDNiZThjMWFjYzU2OThmZmEwZjJhZjFmY2FjOGRiMzUyY2VmMjM) and find your carpool buddies.
 
 ### By air
+
 The best options for getting in and out of the Bay Area by air are either
 through San Francisco (SFO), or through San Jose (SJC).  There are tradeoffs
 for each; there are more flights in and out of SFO, but SJC is about half an
@@ -76,24 +47,22 @@ Santa Cruz, if you don't wish to rent a car (UCSC has a decent
 [list of options](https://taps.ucsc.edu/travel/airport-shuttles.html)).
 
 ### By other alternatives including public transit
-Santa Cruz is somewhat remote and the public transit options are limited,
+
+- Santa Cruz is somewhat remote and the public transit options are limited,
 but getting there without driving or flying is possible!
-
-There are [Greyhound](https://www.greyhound.com) options from
+- There are [Greyhound](https://www.greyhound.com) options from
 San Francisco and Oakland to [Santa Cruz Greyhound Station](https://locations.greyhound.com/bus-stations/US/Santa-Cruz).
-
-The nearest Amtrak/Caltrain station is San Jose Diridon Station (SJC).
-
-If you're coming from Anaheim, Burbank, or Los Angeles and wish to take a bus,
+- The nearest Amtrak/Caltrain station is San Jose Diridon Station (SJC).
+- If you're coming from Anaheim, Burbank, or Los Angeles and wish to take a bus,
 [Megabus](https://us.megabus.com/) also offers a few options to San Jose Diridon Station (SJC).
 
-From San Jose Diridon Station to Santa Cruz, you can take:
+### From San Jose Diridon Station to Santa Cruz, you can take:
 
- * The [Highway 17 Express](https://www.scmtd.com/en/component/systemmap/17/20192)
-   bus
- * [Greyhound](https://www.greyhound.com)
- * a taxi (estimated cost about $100)
- * a rideshare (estimated cost about $50)
+- The [Highway 17 Express](https://www.scmtd.com/en/component/systemmap/17/20192)
+bus
+- [Greyhound](https://www.greyhound.com)
+- a taxi (estimated cost about $100)
+- a rideshare (estimated cost about $50)
 
 Extremely adventurous attendees could choose to bike to Santa Cruz; from the
 middle of the Peninsula, [one possible
@@ -101,23 +70,29 @@ route](https://www.strava.com/routes/11228019) is about 45 miles with about
 3,800ft of elevation gain.  (If you try this, or have a better route, [let
 us know](mailto:bangbangcon.west@gmail.com)!)
 
-### Parking at UCSC
-Please park at [Core West Parking Structure](https://www.maps.ucsc.edu/content/directions-core-west-parking-structure) if you drive to the campus. Parking is free on the weekends. You can check [here](https://mobile.ucsc.edu/parking/corewest) for a live information on open parking spaces.
+---
 
-### From Santa Cruz city center to Jack Baskin Auditorium without a car
-Santa Cruz Metro offers several bus lines within the city; a few of them will
-get you to the auditorium from the city center. Please consult the [Santa Cruz
-Metro website](https://www.scmtd.com/en/routes) or Google Maps for the bus
-schedule.
+## From Santa Cruz city to Jack Baskin Auditorium!
 
-There are both rideshare options (Lyft, etc.) and car sharing options
-(Zipcar) available in Santa Cruz.
+### By Car
 
-### Shuttle to/from Jack Baskin Auditorium
-We will have free shuttles for the attendees! The shuttle schedule will be the same for both conference days. The times shown are the depart times from the pick-up location.
+You can park your car for free!! at the Core West parking structure, which is
+about a 5 minute walk from the auditorium. There are accessible parking spaces
+closer to the venue.
+You can check [here](https://mobile.ucsc.edu/parking/corewest) for a live information on open parking spaces.
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=ucsc%20core%20west&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+
+### By our !!Con West shuttles!!
+
+We will have free shuttles for the attendees! The shuttle schedule will be the
+same for both conference days. The times shown are the depart times from the
+pick-up location.
 
 Depending on the road condition, the shuttles might arrive 5-10 minute late.
-Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop. They have a tiny lobby, and they asked us to wait out front. They have a large overhang, so you will stay dry!
+Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop.
+They have a tiny lobby, and they asked us to wait out front. They have a large
+overhang, so you will stay dry!
 
 **Morning**
 
@@ -130,6 +105,10 @@ Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop. Th
 
 [Southwest corner of Pacific Ave. and Cathcart St. (on Cathcart St. next to Old School Shoes)](https://goo.gl/maps/t1UhFcoyxWx) → Baskin Auditorium
 (30 passenger bus)
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=208-246%20Cathcart%20St%2C%20Santa%20Cruz%2C%20CA%2095060&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+
+Times :
 
 * 9:00am
 * 9:30am
@@ -150,7 +129,41 @@ Baskin Auditorium → Southwest corner of Pacific Ave. and Cathcart St.
 * 5:30pm
 
 
-## Venue accessibility
+### By Public Transit!
+
+Santa Cruz Metro offers several bus lines within the city; a few of them will
+get you to the auditorium from the city center. Please consult the [Santa Cruz
+Metro website](https://www.scmtd.com/en/routes) or Google Maps for the bus
+schedule.
+
+### By Rideshare!
+
+There are both rideshare options (Lyft, etc.) and car sharing options
+(Zipcar) available in Santa Cruz.
+
+
+---
+
+## Accessibility
+
+Venue Map (click for bigger version) :
+
+<a href="../images/bangbangcon-west-auditorium-map.png"><img src="../images/bangbangcon-west-auditorium-map.png" alt="bangbangcon-auditorium-map" width="500" /></a>
+
+We anticipate having capacity for approximately **175 attendees** at this
+year's **!!Con West**, in addition to our speakers and organizers.
+
+- **!!Con West** is an **alcohol-free event**.  All ages are welcome.
+- The venue will have two single-occupancy gender-neutral restrooms in the
+same building as the auditorium; additionally, there are gender-labeled
+restrooms in adjacent buildings.
+- A secure, private space will be made available for anybody who needs a
+lactation room.  Please ask a conference organizer, and we'll be happy to
+get you access.
+- **!!Con West** will have CART ("Communication Access Realtime
+Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
+live transcription in English.
+
 
 We want to make **!!Con West** accessible to as many attendees as possible.
 If you have questions about our venue, or the accessibility thereof, please
