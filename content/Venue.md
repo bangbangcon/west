@@ -22,11 +22,11 @@ from about 10am to 5pm each day.
 
 ## Getting to Santa Cruz
 
-### By car
+### By car from the Bay Area
 
 - The best way to get to Santa Cruz from most of the Peninsula is by way of CA-17,
-which takes you from CA-85 through the Santa Cruz mountains into the city;
-- Please ensure to leave sufficiently early as CA-17 gets heavy traffic southbound
+which takes you from CA-85 through the Santa Cruz mountains into the city.
+- Please make sure you leave sufficiently early, as CA-17 gets heavy traffic southbound
 on weekends.
 - Another option, if coming from San Francisco, is to drive down by way of
 Half Moon Bay on CA-1, which would take about an hour and a half without traffic.
@@ -35,7 +35,7 @@ and mudslides, sometimes even leading to closure of the highway and long delays.
 - Please make sure to drive carefully and check the local news for transit
 conditions.
 
-If you're interested in carpooling, please join [our carpool slack](https://join.slack.com/t/conwestcarpool/shared_invite/enQtNTM5OTU4NzgyNTk2LWJmZWU5MDI1YWRiOGY5ZjdkZjZhYjU4NGU0MDNiZThjMWFjYzU2OThmZmEwZjJhZjFmY2FjOGRiMzUyY2VmMjM) and find your carpool buddies.
+If you're interested in carpooling, please join [our carpool Slack](https://join.slack.com/t/conwestcarpool/shared_invite/enQtNTM5OTU4NzgyNTk2LWJmZWU5MDI1YWRiOGY5ZjdkZjZhYjU4NGU0MDNiZThjMWFjYzU2OThmZmEwZjJhZjFmY2FjOGRiMzUyY2VmMjM) and find your carpool buddies.
 
 ### By air
 
@@ -72,24 +72,25 @@ us know](mailto:bangbangcon.west@gmail.com)!)
 
 ---
 
-## From Santa Cruz city to Jack Baskin Auditorium!
+## Getting from Santa Cruz city to Jack Baskin Auditorium
 
-### By Car
+### By car
 
-You can park your car for free!! at the Core West parking structure, which is
-about a 5 minute walk from the auditorium. There are accessible parking spaces
+You can park your car (free on weekends!) at the [Core West parking structure](https://www.google.com/maps/place/UCSC+Core+West+Structure/@36.9990766,-122.0658659,17z/data=!3m1!4b1!4m5!3m4!1s0x808e417574d7cc95:0xfc9187c7cae8a8c2!8m2!3d36.9990766!4d-122.0636772), which is
+about a 5-minute walk from the auditorium. There are accessible parking spaces
 closer to the venue.
-You can check [here](https://mobile.ucsc.edu/parking/corewest) for a live information on open parking spaces.
+There's a [mobile-friendly website with live information on open parking spaces at Core West](https://mobile.ucsc.edu/parking/corewest).
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=ucsc%20core%20west&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
-### By our !!Con West shuttles!!
+### By our !!Con West shuttles!
 
-We will have free shuttles for the attendees! The shuttle schedule will be the
-same for both conference days. The times shown are the depart times from the
+We're providing *free shuttle buses* to help !!Con attendees get between the conference, the [Hampton Inn Santa Cruz](https://goo.gl/maps/VSDYfQtWZEz), and [downtown Santa Cruz](https://goo.gl/maps/t1UhFcoyxWx)!  The shuttle schedule will be the
+same for both conference days. The times shown are the departure times from the
 pick-up location.
 
-Depending on the road condition, the shuttles might arrive 5-10 minute late.
+Keep in mind that depending on road conditions, the shuttles might arrive 5-10 minutes late.
+
 Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop.
 They have a tiny lobby, and they asked us to wait out front. They have a large
 overhang, so you will stay dry!
@@ -97,18 +98,16 @@ overhang, so you will stay dry!
 **Morning**
 
 [Hampton Inn](https://goo.gl/maps/VSDYfQtWZEz) → Baskin Auditorium
-(20 passenger bus)
+(20-passenger bus)
 
 * 9:00am
 * 9:30am
 * 10:00am
 
 [Southwest corner of Pacific Ave. and Cathcart St. (on Cathcart St. next to Old School Shoes)](https://goo.gl/maps/t1UhFcoyxWx) → Baskin Auditorium
-(30 passenger bus)
+(30-passenger bus)
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=208-246%20Cathcart%20St%2C%20Santa%20Cruz%2C%20CA%2095060&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
-
-Times :
 
 * 9:00am
 * 9:30am
@@ -117,43 +116,42 @@ Times :
 **Evening**
 
 Baskin Auditorium → Hampton Inn
-(20 passenger bus)
+(20-passenger bus)
 
 * 5:00pm
 * 5:30pm
 
 Baskin Auditorium → Southwest corner of Pacific Ave. and Cathcart St.
-(30 passenger bus)
+(30-passenger bus)
 
 * 5:00pm
 * 5:30pm
 
-
-### By Public Transit!
+### By public transit
 
 Santa Cruz Metro offers several bus lines within the city; a few of them will
 get you to the auditorium from the city center. Please consult the [Santa Cruz
 Metro website](https://www.scmtd.com/en/routes) or Google Maps for the bus
 schedule.
 
-### By Rideshare!
+### By rideshare
 
 There are both rideshare options (Lyft, etc.) and car sharing options
 (Zipcar) available in Santa Cruz.
 
-
 ---
 
-## Accessibility
+## More venue details and accessibility information
 
-Venue Map (click for bigger version) :
+Venue map (click for a bigger version):
 
 <a href="../images/bangbangcon-west-auditorium-map.png"><img src="../images/bangbangcon-west-auditorium-map.png" alt="bangbangcon-auditorium-map" width="500" /></a>
 
-We anticipate having capacity for approximately **175 attendees** at this
-year's **!!Con West**, in addition to our speakers and organizers.
+Our venue this year accommodates about 200 people (and we expect to be completely full)!
 
-- **!!Con West** is an **alcohol-free event**.  All ages are welcome.
+- !!Con West is an **alcohol-free event**.
+- All ages are welcome.
+- The building has an accessible entrance (no steps).
 - The venue will have two single-occupancy gender-neutral restrooms in the
 same building as the auditorium; additionally, there are gender-labeled
 restrooms in adjacent buildings.
@@ -164,7 +162,6 @@ get you access.
 Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
 live transcription in English.
 
-
-We want to make **!!Con West** accessible to as many attendees as possible.
+We want to make !!Con West accessible to as many attendees as possible.
 If you have questions about our venue, or the accessibility thereof, please
 [contact the !!Con West organizers](mailto:bangbangcon.west@gmail.com).
