@@ -74,15 +74,6 @@ us know](mailto:bangbangcon.west@gmail.com)!)
 
 ## Getting from Santa Cruz city to Jack Baskin Auditorium
 
-### By car
-
-You can park your car (free on weekends!) at the [Core West parking structure](https://www.google.com/maps/place/UCSC+Core+West+Structure/@36.9990766,-122.0658659,17z/data=!3m1!4b1!4m5!3m4!1s0x808e417574d7cc95:0xfc9187c7cae8a8c2!8m2!3d36.9990766!4d-122.0636772), which is
-about a 5-minute walk from the auditorium. There are accessible parking spaces
-closer to the venue.
-There's a [mobile-friendly website with live information on open parking spaces at Core West](https://mobile.ucsc.edu/parking/corewest).
-
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=ucsc%20core%20west&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
-
 ### By our !!Con West shuttles!
 
 We're providing *free shuttle buses* to help !!Con attendees get between the conference, the [Hampton Inn Santa Cruz](https://goo.gl/maps/VSDYfQtWZEz), and [downtown Santa Cruz](https://goo.gl/maps/t1UhFcoyxWx)!  The shuttle schedule will be the
@@ -126,6 +117,15 @@ Baskin Auditorium → Southwest corner of Pacific Ave. and Cathcart St.
 
 * 5:00pm
 * 5:30pm
+
+### By car
+
+You can park your car (free on weekends!) at the [Core West parking structure](https://www.google.com/maps/place/UCSC+Core+West+Structure/@36.9990766,-122.0658659,17z/data=!3m1!4b1!4m5!3m4!1s0x808e417574d7cc95:0xfc9187c7cae8a8c2!8m2!3d36.9990766!4d-122.0636772), which is
+about a 5-minute walk from the auditorium. There are accessible parking spaces
+closer to the venue.
+There's a [mobile-friendly website with live information on open parking spaces at Core West](https://mobile.ucsc.edu/parking/corewest).
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=ucsc%20core%20west&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
 ### By public transit
 
