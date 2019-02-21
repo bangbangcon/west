@@ -299,6 +299,9 @@ languages.
 
 ### Tabitha Sable
 
+<img class='speaker-img' src="../images/speakers/tabitha-sable.jpg" alt="Profile Photo of
+Tabitha Sable"/>
+
 <span class="talk-title">My, my, TTY!</span>
 
 The TTY abstraction in modern UNIX-like systems is ancient, complex, and

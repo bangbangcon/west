@@ -24,7 +24,7 @@ done
 # change too.
 COPIES=3
 GRID_HEIGHT=12
-LEFTOVER_SLOTS=6 # number of spaces left over in grid
+LEFTOVER_SLOTS=3 # number of spaces left over in grid
 
 # Make copies and order images randomly
 j=1
