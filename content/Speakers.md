@@ -10,19 +10,39 @@ menu:
 
 # Who's speaking at !!Con West?
 ## Keynote Speakers
-<h3 id='lynn-cyrin'>Lynn Cyrin</h3>
-<p>
-  <img class='speaker-img' src="../images/lynn_cyrin.jpeg" alt="Profile Photo of Lynn Cyrin"/>
-  <a href="https://lynncyrin.me">**Lynn Cyrin**</a> is a software engineer and programming zealot. They live in tech culture most of the time, and care a lot about making sure our code children are well taken care of.<br><br><br>
-</p>
+
+### Lynn Cyrin
+<img class='speaker-img' src="../images/lynn_cyrin.jpeg" alt="Profile Photo of Lynn Cyrin"/>
+<span class="talk-title">The Best Parts!  Of My Favorite Things!</span>
+
+The software engineering ecosystem is so big!  How can you tell which tool
+is best for which job, and what's going to give you the simplest path to get
+a job done?  How do all of the various systems and tools complement each
+other?  These are all questions you will have to answer on a regular basis,
+and I want to help you!  We're going to go down the list, and I'm going to
+tell you about all the best parts!  of my favorite things!  So, the next
+time you think "wow, I really need to catch this mouse", you'll remember:
+"oh hey, I heard cats are great at that!"
+
+<a href="https://lynncyrin.me">**Lynn Cyrin**</a> is a software engineer and programming zealot. They live in tech culture most of the time, and care a lot about making sure our code children are well taken care of.
 
 ---
 
-<h3 id='vj-um-amel'>VJ Um Amel</h3>
-<p>
-  <img class='speaker-img' src="../images/vj_um_amel.jpeg" alt="Profile Photo of VJ Um Amel">
-  <a href="http://vjumamel.com">**VJ Um Amel**</a> is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also Assistant Professor of Media Theory & Practice at the University of California, Santa Barbara.
-</p>
+### VJ Um Amel
+<img class='speaker-img' src="../images/vj_um_amel.jpeg" alt="Profile Photo of VJ Um Amel">
+<span class="talk-title">Glitch Nuggets of Resistance!</span>
+
+This talk introduces a concept of glitch, or error/failure, which also
+serves as an entry point for activists, by drawing on my book project titled
+_Glitch Resistance: the Arab Uprisings, Social Media, and the Virtual Body
+Politic_.  If glitch does violence to the surface of the image, it also
+enables us to see more, by questioning the source, revealing the material
+support of the digital ether, and suggesting how images are recomposed in
+circulation.  I will demonstrate how to apply this theory of the glitch onto
+an aesthetics of abstraction by drawing on live performances, installation,
+and digital arts.
+
+<a href="http://vjumamel.com">**VJ Um Amel**</a> is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also Assistant Professor of Media Theory & Practice at the University of California, Santa Barbara.
 
 ---
 
@@ -235,7 +255,7 @@ are meant to be used for what purposes.  But the further you go into this
 addresses, and dates paired with information about ports and the apps that
 claim them.  Who are these folks?  How did their names get in the file that
 came with your OS?  Why does "`chipper`" get port 17219 and "`octopus`"
-claim port 10080?  Who oversees this vital file that puts the "`ssh`" with
+claim port 10008?  Who oversees this vital file that puts the "`ssh`" with
 port 22 when you `netstat`?  And how could you get your own piece of
 port-assignment glory?
 
@@ -561,6 +581,7 @@ fluffy dog in Brooklyn.
 
 ### Arshia Mufti
 
+<img class='speaker-img' src="../images/speakers/arshia-mufti.jpg" alt="Profile Photo of Arshia Mufti"/>
 <span class="talk-title">How DNS doesn't work!</span>
 
 It's time to answer that age-old question: how does my laptop always *know*

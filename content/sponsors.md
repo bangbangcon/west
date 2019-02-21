@@ -45,6 +45,7 @@ us.](mailto:bangbangcon.west@gmail.com)
 * Roll-up poster or other signage
 * Verbal thanks during the conference
 * Logo on welcome slide
+* Logo on website
 
 #### A note about employee tickets
 Space at !!Con West is limited, so we humbly request that these tickets go to employees of your company who will really enjoy the subject matter of the talks. What that means will depend on the company, but it’s likely to mean programmer/engineer employees or programming enthusiasts.
@@ -56,8 +57,6 @@ Space at !!Con West is limited, so we humbly request that these tickets go to em
   * We aim to provide accommodation for all of our speakers. You could help to sponsor accommodation for our speakers this year!
 * Afternoon snacks and beverages
   * You could help us with providing snacks and coffee/tea to our attendees in the afternoon!
-* Live Streaming and Recording
-  * In order to help everyone who couldn't join in person experience !!Con West, we hope to live stream, and record and release the talks, speaker permitting.
 * Shuttle service for attendees and speakers
   * Baskin Auditorium is 3 miles away from Santa Cruz downtown! Help us transport our attendees in the mornings and evenings.
 

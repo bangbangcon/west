@@ -20,8 +20,6 @@ from about 10am to 5pm each day.
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=baskin%20auditorium&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
----
-
 ## Getting to Santa Cruz
 
 ### By car
@@ -36,6 +34,8 @@ Half Moon Bay on CA-1, which would take about an hour and a half without traffic
 and mudslides, sometimes even leading to closure of the highway and long delays.
 - Please make sure to drive carefully and check the local news for transit
 conditions.
+
+If you're interested in carpooling, please join [our carpool slack](https://join.slack.com/t/conwestcarpool/shared_invite/enQtNTM5OTU4NzgyNTk2LWJmZWU5MDI1YWRiOGY5ZjdkZjZhYjU4NGU0MDNiZThjMWFjYzU2OThmZmEwZjJhZjFmY2FjOGRiMzUyY2VmMjM) and find your carpool buddies.
 
 ### By air
 
@@ -141,6 +141,7 @@ schedule.
 There are both rideshare options (Lyft, etc.) and car sharing options
 (Zipcar) available in Santa Cruz.
 
+
 ---
 
 ## Accessibility
@@ -162,6 +163,7 @@ get you access.
 - **!!Con West** will have CART ("Communication Access Realtime
 Transcription", or "Computer-Assisted Real-Time", depending on who you ask)
 live transcription in English.
+
 
 We want to make **!!Con West** accessible to as many attendees as possible.
 If you have questions about our venue, or the accessibility thereof, please

@@ -14,8 +14,8 @@ cp speakers/* /tmp/bangbangcon_images/
 
 # Convert images to 50x50px
 i=1
-for image in `ls /tmp/bangbangcon_images/*`; do
-    convert $image -resize 50x50 /tmp/bangbangcon_images/resized/$i.png
+for image in `ls /tmp/bangbangcon_images/*.{jpg,png}`; do
+    convert $image -resize 50x50^ -gravity center -crop 50x50+0+0 /tmp/bangbangcon_images/resized/$i.png
     let "i++";
 done
 
@@ -24,7 +24,7 @@ done
 # change too.
 COPIES=3
 GRID_HEIGHT=12
-LEFTOVER_SLOTS=12 # number of spaces left over in grid
+LEFTOVER_SLOTS=6 # number of spaces left over in grid
 
 # Make copies and order images randomly
 j=1

@@ -6,10 +6,21 @@
     <description>Recent content in !!Con West on !!Con West : Joy, Surprise, and Excitement of Computing!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 13:46:46 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Feb 2019 20:23:00 +0800</lastBuildDate>
     
 	<atom:link href="http://bangbangcon.com/west/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Program</title>
+      <link>http://bangbangcon.com/west/program/</link>
+      <pubDate>Tue, 19 Feb 2019 20:23:00 +0800</pubDate>
+      
+      <guid>http://bangbangcon.com/west/program/</guid>
+      <description>Conference program Jump directly to the Saturday or Sunday program!
+
+Saturday, 23 February 2019     Time Event     9:00am Space opens (please don&amp;rsquo;t arrive before nine!)   9:00 - 10:30am Registration; continental breakfast; mingling   10:30 - 11:10am Opening remarks and keynote talk: The Best Parts! Of My Favorite Things!&amp;nbsp; (Lynn Cyrin)   11:10 - 11:25am Break!   11:25am - 12:15pm First Session!</description>
+    </item>
     
     <item>
       <title>Sponsor !!Con West!</title>
@@ -27,8 +38,8 @@ As such, we need your help to keep !!Con West open and available to all. In exch
       <pubDate>Thu, 01 Nov 2018 13:40:03 -0700</pubDate>
       
       <guid>http://bangbangcon.com/west/speakers/</guid>
-      <description>Who&amp;rsquo;s speaking at !!Con West? Keynote Speakers Lynn Cyrin  Lynn Cyrin is a software engineer and programming zealot. They live in tech culture most of the time, and care a lot about making sure our code children are well taken care of.
-VJ Um Amel  VJ Um Amel is the cyborg imagination and the virtual representation of Laila Shereen Sakr, a digital media theorist and artist. A creative coder and immersive storyteller known for creating the award-winning media system, R-Shief, she is also Assistant Professor of Media Theory &amp;amp; Practice at the University of California, Santa Barbara.</description>
+      <description>Who&amp;rsquo;s speaking at !!Con West? Keynote Speakers Lynn Cyrin The Best Parts! Of My Favorite Things!
+The software engineering ecosystem is so big! How can you tell which tool is best for which job, and what&amp;rsquo;s going to give you the simplest path to get a job done? How do all of the various systems and tools complement each other? These are all questions you will have to answer on a regular basis, and I want to help you!</description>
     </item>
     
     <item>

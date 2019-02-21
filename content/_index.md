@@ -4,6 +4,7 @@ menu:
   main:
     title: "Home"
     weight: 10
+type: "homepage"
 ---
 
 **!!Con** (pronounced "bang bang con") **West** is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  Join us in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
@@ -13,7 +14,9 @@ out**.  But if you missed the registration, don't fret: we still encourage
 you to [get on the ticket
 waitlist](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544)!
 
-!!Con West will also be livestreamed and recorded, speaker permitting!
+!!Con West will also be livestreamed (sponsored by our EXCELLENT!! friends
+at <a href="https://stripe.com/" target="_blank">Stripe</a>) and recorded,
+speaker permitting!
 
 ## Who's speaking?
 
@@ -27,6 +30,7 @@ href="speakers">check it out</a>!
 <div><a href="./speakers#amrita-mazumdar"><img height="100" width="100" src="images/speakers/amrita-mazumdar.jpg" alt="Amrita Mazumdar" /></a></div>
 <div><a href="./speakers#andr-eacute-arko"><img height="100" width="100" src="images/speakers/andre-arko.jpg" alt="Andre Arko.jpg" /></a></div>
 <div><a href="./speakers#annie-cherkaev"><img height="100" width="100" src="images/speakers/annie-cherkaev.png" alt="Annie Cherkaev" /></a></div>
+<div><a href="./speakers#arshia-mufti"><img height="100" width="100" src="images/speakers/arshia-mufti.jpg" alt="Arshia Mufti" /></a></div>
 <div><a href="./speakers#breanne-boland"><img height="100" width="100" src="images/speakers/breanne-boland.jpg" alt="Breanne Boland" /></a></div>
 <div><a href="./speakers#daisy-tsang"><img height="100" width="100" src="images/speakers/daisy-tsang.jpg" alt="Daisy Tsang" /></a></div>
 <div><a href="./speakers#eric-fischer"><img height="100" width="100" src="images/speakers/eric-fischer.jpg" alt="Eric Fischer" /></a></div>
@@ -65,7 +69,7 @@ We'll post the finalized schedule soon! The rough schedule looks like this for b
 * Registration opens at 9am. Continental breakfast will be available.
 * First talk starts at 10:30am.
 * Boxed lunch will be served around 12:30pm.
-* Wrap-up will end by 6pm.
+* Wrap-up will end by 5pm.
 
 
 ## How do I get updates?
@@ -101,16 +105,83 @@ You can also subscribe to our mailing list!  We send roughly five emails a year,
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
+## Who's sponsoring?
+
+Interested in sponsoring !!Con West?  Have a look at our [sponsorship
+prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
+
+<div class="sponsor-list">
+
+<!-- otherwise hugo gets confused -->
+<div></div>
+
+
+### PHENOMENAL!!! Sponsors
+
+<div class="sponsor big-sponsor">
+	<a href="https://www.soe.ucsc.edu" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img src="images/sponsors/baskin-logo-banner-new.jpg" alt="UC Santa Cruz, Baskin Engineering"/>
+		</div>
+	</a>
+</div>
+
+<div class="sponsor big-sponsor">
+	<a href="https://www.mailchimp.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="130" src="images/sponsors/mailchimp.png" alt="Mailchimp" />
+		</div>
+	</a>
+</div>
+
+---
+
+### EXCELLENT!! Sponsors
+<div class="sponsor medium-sponsor">
+	<a href="https://stripe.com/ca" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="110" alt="Stripe" src="images/sponsors/StripeLogo.svg"/>
+		</div>
+	</a>
+</div>
+
+<div class="sponsor medium-sponsor">
+	<a href="https://github.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="110" alt="GitHub" src="images/sponsors/github.png"/>
+		</div>
+	</a>
+</div>
+
+<div class="sponsor medium-sponsor">
+	<a href="https://twilio.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="160" alt="Twilio" src="images/sponsors/twilio-logo-red.png"/>
+		</div>
+	</a>
+</div>
+
+---
+
+### AWESOME! Sponsors
+<div class="sponsor">
+	<a href="https://www.recurse.com" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="140" alt="Recurse Center" src="images/sponsors/recurse.svg"/>
+		</div>
+	</a>
+</div>
+
+</div>
+
 ## Who's organizing?
 
 The !!Con West 2019 organizing team: Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge.
 [Send us an e-mail](mailto:bangbangcon.west@gmail.com) if you'd like to get
 in touch.
-
-<!--
-Add this once we have a good way for sponsors to get in touch.
-
-## Who's sponsoring?
-
-Interested in sponsoring !!Con West?  Get in touch!
--->
