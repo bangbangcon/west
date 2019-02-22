@@ -193,6 +193,17 @@ prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 
 ## Who's organizing?
 
-The !!Con West 2019 organizing team: Dema Abu Adas, Dev Purandare, Janice Shiu, Jeena Lee, Jessica Rudder, Joshua Wise, Lindsey Kuper, Maggie Zhou, Sara Chicazul, and Taylor Hodge.
+The !!Con West 2019 organizing team:
+[Dema Abu Adas](https://twitter.com/human_dema),
+[Dev Purandare](https://twitter.com/dev14e),
+[Janice Shiu](https://twitter.com/contrepoint21),
+[Jeena Lee](https://twitter.com/thejeenalee),
+[Jessica Rudder](https://twitter.com/jessrudder),
+[Joshua Wise](https://joshuawise.com/),
+[Lindsey Kuper](http://composition.al),
+[Maggie Zhou](https://twitter.com/zmagg),
+[Sara Chicazul](https://twitter.com/chicazul),
+and [Taylor Hodge](https://twitter.com/jtaylorhodge).
+
 [Send us an e-mail](mailto:bangbangcon.west@gmail.com) if you'd like to get
 in touch.
