@@ -140,11 +140,21 @@ prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 ---
 
 ### EXCELLENT!! Sponsors
+
 <div class="sponsor medium-sponsor">
 	<a href="https://stripe.com/ca" target="_blank">
 	<span class="magic">.</span>
 	<div class="logo">
 		<img height="110" alt="Stripe" src="images/sponsors/StripeLogo.svg"/>
+		</div>
+	</a>
+</div>
+
+<div class="sponsor medium-sponsor">
+	<a href="https://airtable.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="95" alt="Airtable" src="images/sponsors/airtable.svg"/>
 		</div>
 	</a>
 </div>
