@@ -15,8 +15,8 @@ on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on February 23rd
 and 24th.  Santa Cruz is a joy of coastal California redwoods, about an
 hour's drive from the bustle of Silicon Valley.  We'll be holding **!!Con
 West** in the [Jack Baskin
-Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527)
-from about 10am to 5pm each day.
+Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527), 
+with registration and continental breakfast starting at 9am each day, and talks ending around 5pm.
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=baskin%20auditorium&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 

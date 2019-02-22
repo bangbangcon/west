@@ -51,7 +51,7 @@ Time            | Event
 | Time            | Event
 |-----------------|-------------------------------------------------------------------------
 | 9:00am          | Space opens (please don't arrive before nine!)
-| 9:00 - 10:30am    | Registration (for anyone who didn't register Saturday); refreshments; mingling
+| 9:00 - 10:30am    | Registration (for anyone who didn't register Saturday); continental breakfast; mingling
 | 10:30 - 11:15am   | Opening remarks and **keynote talk**: *Glitch Nuggets of Resistance!*&nbsp; ([VJ Um Amel](/speakers#vj-um-amel))
 | 11:15 - 11:30am   | Break!
 | 11:30am - 12:20pm    | **Fifth Session!**  <ul><li>*Guiding a starship with noise! And blinking!*&nbsp; ([Simon Porter](/speakers#simon-porter)) <li>*The secret life of Not-a-Number!*&nbsp; ([Annie Cherkaev](/speakers#annie-cherkaev)) <li>*Hacking Lego! Computer generated Lego instructions!*&nbsp; ([Michael Knowles](/speakers#michael-knowles)) <li>*The world’s first racing-the-beam ray tracer on discarded FPGA hardware!!!*&nbsp; ([Tom Verbeure](/speakers#tom-verbeure))</ul>
