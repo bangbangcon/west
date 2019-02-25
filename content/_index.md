@@ -6,11 +6,13 @@ menu:
     weight: 10
 type: "homepage"
 ---
-
 <center>
-## Watch !!Con West 2019 Live!
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/57pddMySj2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Thanks for a great !!Con West 2019!
+
+### We will have the videos up soon!
 </center>
+
+---
 
 **!!Con** (pronounced "bang bang con") **West** is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  Join us in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
 
