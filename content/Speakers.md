@@ -8,7 +8,7 @@ menu:
     weight: 20
 ---
 
-# Who's speaking at !!Con West?
+# Who spoke at !!Con West 2019?
 ## Keynote Speakers
 
 ### Lynn Cyrin

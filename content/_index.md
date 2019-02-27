@@ -14,23 +14,22 @@ type: "homepage"
 
 ---
 
-**!!Con** (pronounced "bang bang con") **West** is a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  Join us in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
+**!!Con** (pronounced "bang bang con") **West** was a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  It was held in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
 
-!!Con West is a pay-what-you-want conference, but tickets are now **sold
-out**.  But if you missed the registration, don't fret: we still encourage
-you to [get on the ticket
-waitlist](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544)!
+!!Con West was a pay-what-you-want conference, with tickets that were
+completely **sold
+out**; we sold our tickets [on Eventbrite](https://www.eventbrite.com/e/con-west-2019-tickets-54792734544)!
 
 
-!!Con West will also be livestreamed (sponsored by our EXCELLENT!! friends
+!!Con West was also livestreamed (sponsored by our EXCELLENT!! friends
 at <a href="https://stripe.com/" target="_blank">Stripe</a>) and recorded,
 speaker permitting!
 
-## Who's speaking?
+## Who spoke?
 
 Two amazing keynote speakers (<a href='speakers#lynn-cyrin'>Lynn Cyrin</a>
 and <a href='speakers#vj-um-amel'>VJ Um Amel</a>), and <a
-href="speakers">30 other amazing speakers</a>!  We're incredibly excited by
+href="speakers">30 other amazing speakers</a>!  We were incredibly excited by
 this year's talk line-up, and we know that you will be too -- <a
 href="speakers">check it out</a>!
 <div class="speaker-pics" markdown="0">
@@ -71,17 +70,18 @@ href="speakers">check it out</a>!
 
 Our [call for talk proposals](/cfp/) is now closed.  Thanks to everyone who submitted one!
 
-## What's the schedule of the event?
+## What was the schedule of the event?
 
-We'll post the finalized schedule soon! The rough schedule looks like this for both days:
+The rough schedule looked like this for both days:
 
 * Registration opens at 9am. Continental breakfast will be available.
 * First talk starts at 10:30am.
 * Boxed lunch will be served around 12:30pm.
 * Wrap-up will end by 5pm.
 
+The [detailed program](/program) has more information.
 
-## How do I get updates?
+## How do I get updates on future !!Cons West?
 
 Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
 
@@ -114,10 +114,10 @@ You can also subscribe to our mailing list!  We send roughly five emails a year,
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-## Who's sponsoring?
+## Who sponsored?
 
-Interested in sponsoring !!Con West?  Have a look at our [sponsorship
-prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
+We had a [sponsorship
+prospectus](sponsors) available, or sponsors could [get in touch](mailto:bangbangcon.west@gmail.com)!
 
 <div class="sponsor-list">
 
@@ -199,9 +199,9 @@ prospectus](sponsors), or [get in touch](mailto:bangbangcon.west@gmail.com)!
 
 </div>
 
-## Who's organizing?
+## Who organized?
 
-The !!Con West 2019 organizing team:
+The !!Con West 2019 organizing team was
 [Dema Abu Adas](https://twitter.com/human_dema),
 [Dev Purandare](https://twitter.com/dev14e),
 [Janice Shiu](https://twitter.com/contrepoint21),
