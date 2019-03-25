@@ -6,13 +6,6 @@ menu:
     weight: 10
 type: "homepage"
 ---
-<center>
-### Thanks for a great !!Con West 2019!
-
-### We will have the videos up soon!
-</center>
-
----
 
 **!!Con** (pronounced "bang bang con") **West** was a two-day conference of ten-minute talks about the joy, excitement, and surprise of computing, and the west-coast successor to [!!Con](http://bangbangcon.com/)!  It was held in Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on **February 23-24, 2019!**
 
@@ -22,8 +15,10 @@ out**; we sold our tickets [on Eventbrite](https://www.eventbrite.com/e/con-west
 
 
 !!Con West was also livestreamed (sponsored by our EXCELLENT!! friends
-at <a href="https://stripe.com/" target="_blank">Stripe</a>) and recorded,
-speaker permitting!
+at <a href="https://stripe.com/" target="_blank">Stripe</a>) and recorded;
+if you missed attending in person, you can watch all 32 of our amazing speakers on <a
+href="https://www.youtube.com/playlist?list=PLofFli6PGTsB0QpGpJdVxFZDoLhXwQCx4">our
+YouTube channel</a>!
 
 ## Who spoke?
 
