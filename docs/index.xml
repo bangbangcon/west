@@ -6,10 +6,19 @@
     <description>Recent content in !!Con West on !!Con West : Joy, Surprise, and Excitement of Computing!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Feb 2019 20:23:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2019 00:18:00 -0700</lastBuildDate>
     
 	<atom:link href="http://bangbangcon.com/west/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code of Conduct Transparency Report</title>
+      <link>http://bangbangcon.com/west/conduct-transparency/</link>
+      <pubDate>Thu, 25 Apr 2019 00:18:00 -0700</pubDate>
+      
+      <guid>http://bangbangcon.com/west/conduct-transparency/</guid>
+      <description>Transparency report: Reported Code of Conduct violations for 2019 Introduction !!Con West&amp;rsquo;s Code of Conduct is a document that guides us to build a joyful, exciting, and safe community for attendees from all walks of life. If we had our way, the entire world would be as we want !!Con to model, but the reality is that we&amp;rsquo;re still learning just how to make that world; our Code of Conduct both guides us in how to act positively, and provides a set of principles to see if we have missed the mark.</description>
+    </item>
     
     <item>
       <title>Program</title>
@@ -48,7 +57,8 @@ The software engineering ecosystem is so big! How can you tell which tool is bes
       <pubDate>Thu, 01 Nov 2018 13:39:05 -0700</pubDate>
       
       <guid>http://bangbangcon.com/west/conduct/</guid>
-      <description>Code of conduct Our goal with !!Con West is to bring the US west coast computing community together for a conference about the excitement, joy, and surprise of computing.
+      <description>Code of conduct !!Con West&amp;rsquo;s Code of Conduct committee has compiled a transparency report for reported incidents in 2019.
+Our goal with !!Con West is to bring the US west coast computing community together for a conference about the excitement, joy, and surprise of computing.
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by !</description>
     </item>
     

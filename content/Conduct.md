@@ -11,6 +11,9 @@ menu:
 
 # Code of conduct
 
+**!!Con West's Code of Conduct committee has compiled a [transparency
+report](/conduct-transparency) for reported incidents in 2019.**
+
 Our goal with !!Con West is to bring the US west coast computing community together for a conference about the excitement, joy, and surprise of computing.
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by !!Con West or not.
