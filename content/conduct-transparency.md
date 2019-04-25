@@ -31,4 +31,4 @@ In future iterations of !!Con West, we anticipate providing more explicit guidel
 
 ## Acknowledgements
 
-We looked to [ORDCamp's transparency report](https://ordcamp.com/conduct/2019-code-of-conduct-transparency-report/) as a model for how to structure this document.  Additionally, we would like to thank [Julia Evans](https://jvns.ca), who served as an external member on !!Con 2019's Code of Conduct committee.
+We looked to [ORDCamp's transparency report](https://ordcamp.com/conduct/2019-code-of-conduct-transparency-report/) as a model for how to structure this document.  Additionally, we would like to thank [Julia Evans](https://jvns.ca), who served as an external member on !!Con West 2019's Code of Conduct committee.
