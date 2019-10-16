@@ -1,1 +1,62 @@
-../index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" type="images/x-icon" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Pontano+Sans:400,700,900" />
+    <link rel="stylesheet" type="text/css" href="/stylesheet.css" media="screen" />
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+     <title>
+      {{ with .Params.Title }}
+      {{ . }}
+      {{ else }}
+      !!Con West
+      {{ end }}
+    </title>
+  </head>
+
+  <body{{ with .Type }} class="{{ . }}" {{ end }}>
+
+    <div id="container">
+      <div class="header">
+        <div class="header-inner">
+          <a href="/index.html"><img width="200" src="/images/logo.png" alt="!!Con West logo"/></a>
+          <h1><a href="/index.html"><span style="white-space: nowrap; display:
+                      inline-block;"><span style="letter-spacing:-4px; display:
+                          inline-block; padding-right:4px;">!!</span>Con
+                      West</span> 2020</a></h1>
+          <h2>the joy, excitement, and surprise of computing</h2>
+          <h3>Feb TBD, 2020; Santa Cruz, CA</h3>
+          <nav>
+            <ul>
+            {{ range .Site.Menus.main }}
+              <li><a href="{{.Page.Permalink}}">{{ .Title }}</a></li>
+            {{ end }}
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <div class="inner">
+
+        <section id="main_content">
+
+        {{ .Content}}
+
+        </section>
+
+      </div>
+      <footer>
+        <p>Hosted on <a href="https://github.com/bangbangcon/west" target="_source">GitHub Pages</a>. 
+        Were you, perhaps, looking for <a
+        href="https://bangbangcon.github.io">!!Con</a>?
+        The background of this page features our speakers!</p></p>
+      </footer>
+    </div>
+
+
+  </body>
+</html>
