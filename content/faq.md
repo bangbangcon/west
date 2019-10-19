@@ -14,10 +14,10 @@ menu:
 conference of ten-minute talks about the joy, excitement, and surprise of
 computing that's been held annually in New York [since
 2014](http://bangbangcon.com/2014).  Due to [massive
-demand](http://composition.al/blog/2017/03/31/scaling-bangbangcon/), in 2019
-we're expanding !!Con to the west coast of the US!  !!Con West will be held in
-Santa Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/),
-on .
+demand](http://composition.al/blog/2017/03/31/scaling-bangbangcon/), 
+!!Con was expanded to the west coast of the US. We are bringing !!Con West back in 2020
+and it will be held in Santa Cruz, California, on the campus of
+[UC Santa Cruz](https://www.ucsc.edu/), on February 29-March 1.
 
 ## Why are you bringing !!Con to the west coast?
 
