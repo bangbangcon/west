@@ -84,6 +84,6 @@ couple members of the organizing team have a UCSC affiliation.
 
 ## I have a question that isn't covered in this FAQ.  Who can I ask?
 
-Contact the organizing team by [email](mailto:bangbangcon.west@gmail.com) or
+Contact the organizing team by [email](mailto:west-2020@exclamation.foundation) or
 [Twitter](https://twitter.com/bangbangconwest)!
 

@@ -11,7 +11,7 @@ type: "homepage"
 ten-minute talks about the joy, excitement, and surprise of computing, and the
 west-coast successor to [!!Con](http://bangbangcon.com/)!  It will be held in Santa
 Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
-**February TBD, 2020!**
+**February 29-March 1, 2020!**
 
 !!Con West was a pay-what-you-want conference, with tickets that will be
 available soon!
@@ -62,7 +62,7 @@ $mcj = jQuery.noConflict(true);</script> <!--End mc_embed_signup-->
 ## Who are our sponsors?
 
 We have a [sponsorship prospectus](sponsors) available, or sponsors could [get
-in touch](mailto:bangbangcon.west@gmail.com)!
+in touch](mailto:west-2020@exclamation.foundation)!
 
 <div class="sponsor-list">
 
@@ -82,17 +82,17 @@ in touch](mailto:bangbangcon.west@gmail.com)!
 
 ### AWESOME! Sponsors
 
-## Who organized?
+## Who's organizing all this?
 
 The !!Con West 2019 organizing team was
 [Dema Abu Adas](https://twitter.com/human_dema),
 [Dev Purandare](https://twitter.com/dev14e),
-[Gargi Sharma]()
+[Gargi Sharma](https://twitter.com/gawwrgi),
 [Janice Shiu](https://twitter.com/contrepoint21),
 [Jeena Lee](https://twitter.com/thejeenalee),
 [Joshua Wise](https://joshuawise.com/),
 [Lindsey Kuper](http://composition.al),
 and [Varun Gandhi]()
 
-[Send us an e-mail](mailto:bangbangcon.west@gmail.com) if you'd like to get
+[Send us an e-mail](mailto:west-2020@exclamation.foundation) if you'd like to get
 in touch.

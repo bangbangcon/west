@@ -14,7 +14,7 @@ affordable to everybody who wants to participate.
 As such, we need your help to keep !!Con West open and available to all.  In
 exchange, we'd love to help put your company in front of our 200+ smart,
 creative, thoughtful participants.  Several sponsorship levels are available. If
-you have any questions, please [contact us.](mailto:bangbangcon.west@gmail.com)
+you have any questions, please [contact us.](mailto:west-2020@exclamation.foundation)
 
 ---
 
@@ -60,5 +60,5 @@ it’s likely to mean programmer/engineer employees or programming enthusiasts.
     transport our attendees in the mornings and evenings.
 
 Is there anything we missed that you think your company would be able to help
-with? Do [contact us](mailto:bangbangcon.west@gmail.com) - we would love to hear
+with? Do [contact us](mailto:west-2020@exclamation.foundation) - we would love to hear
 from you!

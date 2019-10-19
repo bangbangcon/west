@@ -2,7 +2,7 @@
 title: "Call for Proposals!"
 date: 2019-10-16T10:48:41-08:00
 menu:
-    main:
+  main:
     title: "CFP"
 ---
 
@@ -74,7 +74,7 @@ will review your proposal without knowing who you are.
 * **TBD**: Conference registration opens.
 * **TBD**: Public announcement of full speaker list.
 * **TBD**: Public announcement of detailed schedule.
-* **February 23-24**: !!Con West!
+* **February 29-March 1**: !!Con West!
 
 ## Speaker travel funding
 
@@ -101,6 +101,6 @@ present their talk in person. However, if any accepted speaker anticipates
 visa-related difficulties in traveling to the conference, we will make
 arrangements to enable remote participation, and not require them to attend the
 conference in order to present their talk. In such a case [contact
-us](mailto:bangbangcon.west@gmail.com) for further guidance.
+us](mailto:west-2020@exclamation.foundation) for further guidance.
 
 Thanks for submitting to !!Con West!
