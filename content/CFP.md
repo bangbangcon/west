@@ -8,10 +8,9 @@ menu:
 
 # Give a talk at !!Con West!
 
-Hi! !!Con West is excited to be launching our **inaugural west coast
-conference** celebrating the joy, excitement, and surprise of computing, and we
-want **you** to submit a [talk proposal](). The **submission deadline** is
-**Friday, November 30**.
+Hi! !!Con West is back for our **second year** of  celebrating the joy, excitement,
+and surprise of computing, and we want **you** to submit a [talk proposal](). The
+**submission deadline** is **Friday, November 30**.
 
 Since its launch five years ago, !!Con talks have featured everything from
 [glowing mushrooms](https://www.youtube.com/watch?v=T75FvUDirNM) to [game
@@ -21,7 +20,7 @@ knitting](https://www.youtube.com/watch?v=ihqcgrR0azw) to
 an Apple II](https://www.youtube.com/watch?v=DY4t9IHFD4E) to [queer feminist
 cyberpunk manifestos](https://www.youtube.com/watch?v=5GiQovHaT_g). We’ve had
 speakers who are programmers, poets, scientists, students, and more!  We’re
-excited to bring this magic to the West Coast for the first time in 2019.
+excited to bring this magic to the West Coast for the second time in 2020!
 
 What’s an idea that delights you? Did you learn something surprising recently?
 Is there a tool you love that you’ve been telling everyone about? Did you do
@@ -29,7 +28,7 @@ something with computers that seems impossible or amazing or just really fun?
 Please take this call for talk proposals as an [invitation to
 meditate](https://twitter.com/akaptur/status/583115830621184000) on what you
 find exciting and surprising and delightful about programming and computing, and
-then submit a talk about one of those things!
+then [submit a talk]() about one of those things!
 The only requirements are that your talk:
 
   * be computing-related!
@@ -56,7 +55,7 @@ assembly works”.
 The submission deadline is **Friday, November 30**. We’ll accept as many of your
 amazing talks as we can. You can submit more than one talk proposal.
 
-**Proposals will be anonymized to avoid bias**. Although we ask for your name,
+**Proposals will be [anonymized to avoid bias](https://organicdonut.com/2018/03/the-con-talk-anonymization-and-selection-process/)**. Although we ask for your name,
 email address, and so on in the [proposal submission
 form](), only one or two organizers who
 serve as anonymizers will actually see this information, and they won’t review
@@ -83,7 +82,7 @@ offer financial assistance for travel expenses (stuff like flights, trains,
 lodging, and meals while traveling) for outside-of-Santa Cruz speakers. If
 you’re not from the Santa Cruz area and you want to request funding, please fill
 out the relevant section of the [proposal submission
-form](https://goo.gl/forms/mLdrFQeCHFVDl1S32).
+form]().
 
 Because submissions are reviewed anonymously, requesting financial assistance
 will not affect a proposal’s chances of acceptance.
