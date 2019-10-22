@@ -152,12 +152,8 @@ h4 {
     line-height: 1;
 }
 
-p {
+p, ul {
     font-size: 130%;
-    margin-top: 0.5em;
-}
-
-ul {
     margin-top: 0.5em;
 }
 
