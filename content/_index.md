@@ -23,7 +23,7 @@ available soon!
 Our [call for talk proposals](/cfp/) is now available.
 
 
-## How do I get updates on future !!Cons West?
+## How do I get updates?
 
 Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
 
