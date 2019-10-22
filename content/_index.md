@@ -70,10 +70,8 @@ We have a [sponsorship prospectus](sponsors) available, or sponsors could [get
 in touch](mailto:west-2020@exclamation.foundation)!
 
 <div class="sponsor-list">
-
-<!-- otherwise hugo gets confused -->
-<div></div>
-
+<!-- TODO: Get sponsors and add them here! -->
+</div>
 
 ## Who's organizing all this?
 
