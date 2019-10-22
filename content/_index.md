@@ -72,7 +72,7 @@ in touch](mailto:west-2020@exclamation.foundation)!
 
 ## Who's organizing all this?
 
-The !!Con West 2019 organizing team was
+The !!Con West 2020 organizing team includes
 [Dema Abu Adas](https://twitter.com/human_dema),
 [Dev Purandare](https://twitter.com/dev14e),
 [Gargi Sharma](https://twitter.com/gawwrgi),
@@ -80,7 +80,7 @@ The !!Con West 2019 organizing team was
 [Jeena Lee](https://twitter.com/thejeenalee),
 [Joshua Wise](https://joshuawise.com/),
 [Lindsey Kuper](http://composition.al),
-and [Varun Gandhi](https://twitter.com/cutculus)
+and [Varun Gandhi](https://twitter.com/cutculus).
 
 [Send us an e-mail](mailto:west-2020@exclamation.foundation) if you'd like to get
 in touch.
