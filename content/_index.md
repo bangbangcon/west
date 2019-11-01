@@ -79,7 +79,6 @@ The !!Con West 2020 organizing team includes
 [Dema Abu Adas](https://twitter.com/human_dema),
 [Dev Purandare](https://twitter.com/dev14e),
 [Gargi Sharma](https://twitter.com/gawwrgi),
-[Janice Shiu](https://twitter.com/contrepoint21),
 [Jeena Lee](https://twitter.com/thejeenalee),
 [Joshua Wise](https://joshuawise.com/),
 [Lindsey Kuper](http://composition.al),
