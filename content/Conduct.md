@@ -11,7 +11,7 @@ type: "single"
 
 # Code of conduct
 
-Our goal with !!Con West is to bring the US west coast computing community
+Our goal with !!Con West is to bring the US West Coast computing community
 together for a conference about the excitement, joy, and surprise of computing.
 
 We value the participation of each member of the community and want all
@@ -65,9 +65,55 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 exclusionary jokes can be offensive to those around you. Excessive swearing and
 offensive jokes are not appropriate for !!Con West.
 
-If a participant engages in behavior that violates the anti-harassment policy,
+If a participant engages in behavior that violates our code of conduct,
 the conference organizers may take any action they deem appropriate, including
 warning the offender or expulsion from the conference.
+
+### Guidelines for speakers
+
+If you're a speaker -- thank you!  We've been really lucky to have speakers
+who give thoughtful and exciting talks that are almost always inclusive of
+the people in the !!Con audience.
+
+Here are a few guidelines you can use to help make your talk even more
+welcoming to everyone in the !!Con community:
+
+* **Give people a heads up if you're discussing sensitive topics.**  If your
+  talk includes descriptions of hurtful experiences that attendees might
+  share, let us know about it!  Some of these include transphobic,
+  homophobic, sexually-motivated, racially-motivated, or
+  religiously-motivated abuse and harassment; sexual assault; eating
+  disorders; mental illness and self-harm; or relationship abuse.  It's not
+  possible to give a full list, but these are some examples of things that
+  we hope you'll be sensitive of.  If you expect to cover these topics, **talk
+  to the !!Con organizers before the conference** so that we can let attendees
+  know these topics will be covered in your talk.  If you want to discuss a
+  sensitive topic in your talk and you'd like help approaching it, let us
+  know and we'll be happy to brainstorm with you.
+
+* **Avoid unnecessarily violent and sexual imagery.**  Sometimes, including
+  these is unavoidable, or is central to the point of the talk, and that's
+  okay.  But sometimes, the imagery isn't necessary.  This can be in overt
+  ways (for example sexual images) or in more subtle ways (like an indirect
+  sexual reference used as a joke).  So before your talk, take one more look
+  over your slides and prep material in this light -- and if you explicitly
+  plan to include sexual or violent content, consider how you can
+  contextualize it.  (One more note on this: if you plan to include
+  graphically violent content, please do let us know in advance.)
+
+* **Talk to the experts.**  !!Con thrives at the intersection of computers
+  and the human experience.  Many of us have become experts in technologies
+  just by reading about them, but this doesn't always work when real people
+  become involved!  If you plan to include anecdotes about the experiences
+  of a minority group you're not a member of in your talk, make sure you've
+  spoken with someone from that group first.  They can help guide you on
+  what language would accurately capture their experience, and how to do it
+  with sensitivity.
+
+Often, talks won't need to make any changes at all to address these!  But
+even if your talk is mostly about computers, taking 10 minutes to go through
+it and look for some of these issues (even if they're subtle!) goes a long
+way to keeping !!Con welcoming for everyone.
 
 ## Social rules
 
@@ -95,17 +141,21 @@ please feel free to reach out to any of the conference organizers.
 ## Contact information
 
 If you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact a member of conference staff. You can use the
-below form to contact us, with or without your name.
+any other concerns, [please contact a member of conference
+staff](west-2020@exclamation.foundation). <!-- TODO:  You can use the
+below form to contact us, with or without your name. -->
 
 Conference staff will be happy to do whatever we can to help those experiencing
 harassment to feel safe for the duration of the conference. We value your
 attendance.
 
+<!-- TODO
 ## Report a violation (with or without your name)
-
+-->
 
 ## License
+
+<!-- TODO: generalize this to the !F Code of Conduct -->
 
 The !!Con West Code of Conduct is under a [Creative Commons
 Zero](http://creativecommons.org/about/cc0) license. It was lightly modified
