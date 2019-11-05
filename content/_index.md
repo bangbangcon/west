@@ -16,7 +16,7 @@ Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 
 ## Who's speaking?
 
-Good question -- [we're hoping you'll be one](/cfp/)!  Our call for talk
+Good question -- [we're hoping you will be](/cfp/)!  Our call for talk
 proposals is [now open](/cfp/), and we're very much looking forward to
 reading your talk proposals.  You don't have to be an experienced speaker to
 talk at !!Con West -- in fact, many of our speakers have never been on a
@@ -59,7 +59,7 @@ $mcj = jQuery.noConflict(true);</script> <!--End mc_embed_signup-->
 
 ## Who are our sponsors?
 
-Interested in sponsoring !!Con West?  Please have a look at our [sponsorship prospectus](sponsors) available, or [get
+Interested in sponsoring !!Con West?  Please have a look at our [sponsorship prospectus](sponsors), or [get
 in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 
 <div class="sponsor-list">
@@ -68,7 +68,7 @@ in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 
 ## Who's organizing all this?
 
-The !!Con West 2020 organizing team consist of
+The !!Con West 2020 organizing team consists of
 [Dema Abu Adas](https://twitter.com/human_dema),
 [Dev Purandare](https://twitter.com/dev14e),
 [Gargi Sharma](https://twitter.com/gawwrgi),
