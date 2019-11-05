@@ -42,8 +42,8 @@ hr {
     background:
     /* top, transparent blue, faked with gradient */
     linear-gradient(
-      rgba(120, 178, 101, 0.9),
-      rgba(120, 178, 101, 0.9)
+      rgba(144, 213, 121, 0.9),
+      rgba(144, 213, 121, 0.9)
     ),
     /* bottom, image */
     url("images/montage.jpg");
