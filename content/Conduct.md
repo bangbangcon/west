@@ -11,9 +11,6 @@ type: "single"
 
 # Code of conduct
 
-Our goal with !!Con West is to bring the US West Coast computing community
-together for a conference about the excitement, joy, and surprise of computing.
-
 We value the participation of each member of the community and want all
 attendees to have an enjoyable and fulfilling experience. Accordingly, all
 attendees are expected to show respect and courtesy to other attendees
