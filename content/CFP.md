@@ -10,7 +10,7 @@ menu:
 # Give a talk at !!Con West!
 
 Hi! !!Con West is back for our **second year** of  celebrating the joy, excitement,
-and surprise of computing, and we want **you** to submit a [talk proposal](). The
+and surprise of computing, and we want **you** to submit a [talk proposal](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform). The
 **submission deadline** is **Friday, November 30**.
 
 Since its launch five years ago, !!Con talks have featured everything from
@@ -29,7 +29,7 @@ something with computers that seems impossible or amazing or just really fun?
 Please take this call for talk proposals as an [invitation to
 meditate](https://twitter.com/akaptur/status/583115830621184000) on what you
 find exciting and surprising and delightful about programming and computing, and
-then [submit a talk]() about one of those things!
+then [submit a talk](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform) about one of those things!
 The only requirements are that your talk:
 
   * be computing-related!
@@ -63,7 +63,7 @@ serve as anonymizers will actually see this information, and they won’t review
 your proposal. The rest of the [organizing team](/index.html#who-s-organizing)
 will review your proposal without knowing who you are.
 
-[Submit your proposal today!]()
+[Submit your proposal today!](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform)
 
 ## Important dates
 
@@ -83,7 +83,7 @@ offer financial assistance for travel expenses (stuff like flights, trains,
 lodging, and meals while traveling) for outside-of-Santa Cruz speakers. If
 you’re not from the Santa Cruz area and you want to request funding, please fill
 out the relevant section of the [proposal submission
-form]().
+form](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform).
 
 Because submissions are reviewed anonymously, requesting financial assistance
 will not affect a proposal’s chances of acceptance.
