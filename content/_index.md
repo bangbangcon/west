@@ -16,7 +16,10 @@ Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 
 ## Who's speaking?
 
-Good question -- [we're hoping you will be](/cfp/)!  Our call for talk
+Good question -- we have two amazing keynote speakers ([isis agora
+lovecruft](/speakers/#isis-agora-lovecruft)
+and [Erin Rose Glass](/speakers/#erin-rose-glass)), and [we're hoping you'll
+speak too](/cfp/)!  Our call for talk
 proposals is [now open](/cfp/), and we're very much looking forward to
 reading your talk proposals.  You don't have to be an experienced speaker to
 talk at !!Con West -- in fact, many of our speakers have never been on a
