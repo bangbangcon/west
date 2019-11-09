@@ -12,7 +12,7 @@ menu:
 Hi! !!Con West is excited to be launching our **inaugural west coast
 conference** celebrating the joy, excitement, and surprise of computing, and we
 want **you** to submit a [talk proposal](https://forms.gle/NhdiHHPN3uJ8Ywre6). The **submission deadline** is
-**Sunday, December 1**.
+**Sunday, December 8**.
 
 Since its launch five years ago, !!Con talks have featured everything from
 [glowing mushrooms](https://www.youtube.com/watch?v=T75FvUDirNM) to [game
