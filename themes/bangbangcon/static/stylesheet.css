@@ -56,24 +56,24 @@ hr {
     text-align: center;
     letter-spacing: 0px;
     margin: 0 auto;
-    padding: 1em 0 0 0;
+    padding: 0.75em 0 0 0;
 }
 
 .header h2 {
     font-size: 200%;
     text-align: center;
-    font-style: italic;
     font-weight: 400;
     margin: 0 auto;
-    padding: 0;
+    padding: 0.3em 0 0 0;
 }
 
 .header h3 {
     font-size: 160%;
     text-align: center;
+    font-style: italic;
     font-weight: 400;
     margin: 0 auto;
-    padding: 10px 0 0 0;
+    padding: 0.5em 0 0 0;
 }
 
 .header a {
@@ -93,7 +93,7 @@ hr {
     list-style: none;
     flex-direction: row;
     padding-left: inherit;
-    padding-top: 1.5em;
+    padding-top: 1em;
 }
 
 .header nav ul li {
@@ -126,7 +126,7 @@ h1 {
     margin-top: 0.5em;
     font-family: "Lato", serif;
     font-weight: 900;
-    font-size: 280%;
+    font-size: 215%;
     text-align: center;
     line-height: 1;
 }
@@ -134,27 +134,26 @@ h1 {
 h2 {
     font-family: "Lato", serif;
     font-weight: 900;
-    font-size: 230%;
+    font-size: 175%;
     line-height: 1;
 }
 
 h3 {
     font-family: "Lato", serif;
     font-weight: 900;
-    font-size: 190%;
+    font-size: 145%;
     line-height: 1;
 }
 
 h4 {
     font-family: "Lato", serif;
     font-weight: 900;
-    font-size: 140%;
+    font-size: 110%;
     line-height: 1;
 }
 
-p, ul {
+#main_content {
     font-size: 130%;
-    margin-top: 0.5em;
 }
 
 .speaker-img {
