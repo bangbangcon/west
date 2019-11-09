@@ -42,8 +42,8 @@ hr {
     background:
     /* top, transparent blue, faked with gradient */
     linear-gradient(
-      hsla(105, 52%, 65%, 0.9),
-      hsla(105, 52%, 65%, 0.9)
+      hsla(105, 52%, 75%, 0.92),
+      hsla(105, 52%, 75%, 0.92)
     ),
     /* bottom, image */
     url("images/montage.jpg");
