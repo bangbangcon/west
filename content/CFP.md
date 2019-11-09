@@ -2,8 +2,9 @@
 title: "Call for Proposals!"
 date: 2019-10-16T10:48:41-08:00
 menu:
-    main:
+  main:
     title: "CFP"
+    weight: 15
 ---
 
 # Give a talk at !!Con West!
@@ -11,7 +12,7 @@ menu:
 Hi! !!Con West is excited to be launching our **inaugural west coast
 conference** celebrating the joy, excitement, and surprise of computing, and we
 want **you** to submit a [talk proposal](https://forms.gle/NhdiHHPN3uJ8Ywre6). The **submission deadline** is
-**Saturday, December 7**.
+**Sunday, December 1**.
 
 Since its launch five years ago, !!Con talks have featured everything from
 [glowing mushrooms](https://www.youtube.com/watch?v=T75FvUDirNM) to [game
@@ -21,7 +22,7 @@ knitting](https://www.youtube.com/watch?v=ihqcgrR0azw) to
 an Apple II](https://www.youtube.com/watch?v=DY4t9IHFD4E) to [queer feminist
 cyberpunk manifestos](https://www.youtube.com/watch?v=5GiQovHaT_g). We’ve had
 speakers who are programmers, poets, scientists, students, and more!  We’re
-excited to bring this magic to the West Coast for the first time in 2019.
+excited to bring this magic to the West Coast for the second time in 2020!
 
 What’s an idea that delights you? Did you learn something surprising recently?
 Is there a tool you love that you’ve been telling everyone about? Did you do
@@ -29,7 +30,7 @@ something with computers that seems impossible or amazing or just really fun?
 Please take this call for talk proposals as an [invitation to
 meditate](https://twitter.com/akaptur/status/583115830621184000) on what you
 find exciting and surprising and delightful about programming and computing, and
-then submit a talk about one of those things!
+then [submit a talk](https://forms.gle/NhdiHHPN3uJ8Ywre6) about one of those things!
 The only requirements are that your talk:
 
   * be computing-related!
@@ -56,7 +57,7 @@ assembly works”.
 The submission deadline is **Friday, November 30**. We’ll accept as many of your
 amazing talks as we can. You can submit more than one talk proposal.
 
-**Proposals will be anonymized to avoid bias**. Although we ask for your name,
+**Proposals will be [anonymized to avoid bias](https://organicdonut.com/2018/03/the-con-talk-anonymization-and-selection-process/)**. Although we ask for your name,
 email address, and so on in the [proposal submission
 form](https://forms.gle/NhdiHHPN3uJ8Ywre6), only one or two organizers who
 serve as anonymizers will actually see this information, and they won’t review
@@ -68,9 +69,9 @@ will review your proposal without knowing who you are.
 ## Important dates
 
 * **November 10**: Call for talk proposals opens.
-* **December 7**: Talk proposal submission deadline.
-* **December 21**: Notification of talk acceptance.
-* **December 28**: Deadline for speakers to confirm their participation.
+* **December 8**: Talk proposal submission deadline.
+* **December 22**: Notification of talk acceptance.
+* **December 29**: Deadline for speakers to confirm their participation.
 * **TBD**: Conference registration opens.
 * **TBD**: Public announcement of full speaker list.
 * **TBD**: Public announcement of detailed schedule.
@@ -95,13 +96,12 @@ we’re paying all our speakers a $256 (US) honorarium.
 
 ## A note about travel
 
-We welcome all speakers, regardless of nationality. We generally
-expect that accepted speakers who confirm their participation will
-travel to Santa Cruz to present their talk in person. However, if any
-accepted speaker anticipates visa-related difficulties in traveling to
-the conference, we will make arrangements to enable remote
-participation, and not require them to attend the conference in order
-to present their talk. In such a case [contact the !!Con West 2020 organizing team](west-2020@exclamation.foundation) for
-further guidance.
+We welcome all speakers, regardless of nationality. We generally expect that
+accepted speakers who confirm their participation will travel to Santa Cruz to
+present their talk in person. However, if any accepted speaker anticipates
+visa-related difficulties in traveling to the conference, we will make
+arrangements to enable remote participation, and not require them to attend the
+conference in order to present their talk. In such a case [contact
+us](mailto:west-2020@exclamation.foundation) for further guidance.
 
 Thanks for submitting to !!Con West!

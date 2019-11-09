@@ -8,11 +8,11 @@ menu:
     weight: 60
 ---
 
-# Getting to !!Con West 2012
+# Getting to !!Con West 2020
 
 We're excited to bring **!!Con West 2020** to scenic Santa Cruz, California,
-on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on February 23rd
-and 24th.  Santa Cruz is a joy of coastal California redwoods, about an
+on the campus of [UC Santa Cruz](https://www.ucsc.edu/), from February 29
+to March 1.  Santa Cruz is a joy of coastal California redwoods, about an
 hour's drive from the bustle of Silicon Valley.  We held **!!Con
 West** in the [Jack Baskin
 Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527), 
@@ -77,7 +77,7 @@ Extremely adventurous attendees could choose to bike to Santa Cruz; from the
 middle of the Peninsula, [one possible
 route](https://www.strava.com/routes/11228019) is about 45 miles with about
 3,800ft of elevation gain.  (If you try this, or have a better route, [let us
-know](mailto:bangbangcon.west@gmail.com)!)
+know](mailto:west-2020@exclamation.foundation)!)
 
 ---
 
@@ -141,4 +141,4 @@ completely full)!
 
 We want to make !!Con West accessible to as many attendees as possible.  If you
 have questions about our venue, or the accessibility thereof, please [contact
-the !!Con West organizers](mailto:bangbangcon.west@gmail.com).
+the !!Con West organizers](mailto:west-2020@exclamation.foundation).
