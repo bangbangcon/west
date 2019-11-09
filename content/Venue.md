@@ -15,7 +15,7 @@ on the campus of [UC Santa Cruz](https://www.ucsc.edu/), from February 29
 to March 1.  Santa Cruz is a joy of coastal California redwoods, about an
 hour's drive from the bustle of Silicon Valley.  We held **!!Con
 West** in the [Jack Baskin
-Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527), 
+Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527),
 with registration and continental breakfast starting at 9am each day, and talks ending around 5pm.
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500"
@@ -40,9 +40,6 @@ marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;wi
   mudslides, sometimes even leading to closure of the highway and long delays.
 - Please make sure to drive carefully and check the local news for transit
   conditions.
-
-If you're interested in carpooling, please join [our carpool
-Slack]() and find your carpool buddies.
 
 ### By air
 
@@ -83,7 +80,8 @@ know](mailto:west-2020@exclamation.foundation)!)
 
 ## Getting from Santa Cruz city to Jack Baskin Auditorium
 
-### By our !!Con West shuttles!
+We are considering having shuttles between Santa Cruz downtown and the
+Jack Baskin Auditorium. Please keep an eye on this page!
 
 ### By car
 
