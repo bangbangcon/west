@@ -10,8 +10,8 @@ menu:
 
 Hi! !!Con West is excited to be launching our **inaugural west coast
 conference** celebrating the joy, excitement, and surprise of computing, and we
-want **you** to submit a [talk proposal](). The **submission deadline** is
-**Friday, November 30**.
+want **you** to submit a [talk proposal](https://forms.gle/NhdiHHPN3uJ8Ywre6). The **submission deadline** is
+**Saturday, December 7**.
 
 Since its launch five years ago, !!Con talks have featured everything from
 [glowing mushrooms](https://www.youtube.com/watch?v=T75FvUDirNM) to [game
@@ -58,23 +58,23 @@ amazing talks as we can. You can submit more than one talk proposal.
 
 **Proposals will be anonymized to avoid bias**. Although we ask for your name,
 email address, and so on in the [proposal submission
-form](), only one or two organizers who
+form](https://forms.gle/NhdiHHPN3uJ8Ywre6), only one or two organizers who
 serve as anonymizers will actually see this information, and they won’t review
 your proposal. The rest of the [organizing team](/index.html#who-s-organizing)
 will review your proposal without knowing who you are.
 
-[Submit your proposal today!]()
+[Submit your proposal today!](https://forms.gle/NhdiHHPN3uJ8Ywre6)
 
 ## Important dates
 
-* **November 1**: Call for talk proposals opens.
-* **November 30**: Talk proposal submission deadline.
-* **December 14**: Notification of talk acceptance.
-* **December 21**: Deadline for speakers to confirm their participation.
+* **November 10**: Call for talk proposals opens.
+* **December 7**: Talk proposal submission deadline.
+* **December 21**: Notification of talk acceptance.
+* **December 28**: Deadline for speakers to confirm their participation.
 * **TBD**: Conference registration opens.
 * **TBD**: Public announcement of full speaker list.
 * **TBD**: Public announcement of detailed schedule.
-* **February 23-24**: !!Con West!
+* **February 29-March 1**: !!Con West!
 
 ## Speaker travel funding
 
@@ -83,7 +83,7 @@ offer financial assistance for travel expenses (stuff like flights, trains,
 lodging, and meals while traveling) for outside-of-Santa Cruz speakers. If
 you’re not from the Santa Cruz area and you want to request funding, please fill
 out the relevant section of the [proposal submission
-form](https://goo.gl/forms/mLdrFQeCHFVDl1S32).
+form](https://forms.gle/NhdiHHPN3uJ8Ywre6).
 
 Because submissions are reviewed anonymously, requesting financial assistance
 will not affect a proposal’s chances of acceptance.
@@ -95,12 +95,13 @@ we’re paying all our speakers a $256 (US) honorarium.
 
 ## A note about travel
 
-We welcome all speakers, regardless of nationality. We generally expect that
-accepted speakers who confirm their participation will travel to Santa Cruz to
-present their talk in person. However, if any accepted speaker anticipates
-visa-related difficulties in traveling to the conference, we will make
-arrangements to enable remote participation, and not require them to attend the
-conference in order to present their talk. In such a case [contact
-us](mailto:bangbangcon.west@gmail.com) for further guidance.
+We welcome all speakers, regardless of nationality. We generally
+expect that accepted speakers who confirm their participation will
+travel to Santa Cruz to present their talk in person. However, if any
+accepted speaker anticipates visa-related difficulties in traveling to
+the conference, we will make arrangements to enable remote
+participation, and not require them to attend the conference in order
+to present their talk. In such a case [contact the !!Con West 2020 organizing team](west-2020@exclamation.foundation) for
+further guidance.
 
 Thanks for submitting to !!Con West!
