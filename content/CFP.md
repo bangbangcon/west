@@ -9,9 +9,10 @@ menu:
 
 # Give a talk at !!Con West!
 
-Hi! !!Con West is back for our **second year** of  celebrating the joy, excitement,
-and surprise of computing, and we want **you** to submit a [talk proposal](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform). The
-**submission deadline** is **Friday, November 30**.
+Hi! !!Con West is back for our **second year** of celebrating the joy, excitement,
+and surprise of computing, and we
+want **you** to submit a [talk proposal](https://forms.gle/NhdiHHPN3uJ8Ywre6). The **submission deadline** is
+**Sunday, December 8**.
 
 Since its launch five years ago, !!Con talks have featured everything from
 [glowing mushrooms](https://www.youtube.com/watch?v=T75FvUDirNM) to [game
@@ -29,7 +30,7 @@ something with computers that seems impossible or amazing or just really fun?
 Please take this call for talk proposals as an [invitation to
 meditate](https://twitter.com/akaptur/status/583115830621184000) on what you
 find exciting and surprising and delightful about programming and computing, and
-then [submit a talk](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform) about one of those things!
+then [submit a talk](https://forms.gle/NhdiHHPN3uJ8Ywre6) about one of those things!
 The only requirements are that your talk:
 
   * be computing-related!
@@ -58,19 +59,19 @@ amazing talks as we can. You can submit more than one talk proposal.
 
 **Proposals will be [anonymized to avoid bias](https://organicdonut.com/2018/03/the-con-talk-anonymization-and-selection-process/)**. Although we ask for your name,
 email address, and so on in the [proposal submission
-form](), only one or two organizers who
+form](https://forms.gle/NhdiHHPN3uJ8Ywre6), only one or two organizers who
 serve as anonymizers will actually see this information, and they won’t review
 your proposal. The rest of the [organizing team](/index.html#who-s-organizing)
 will review your proposal without knowing who you are.
 
-[Submit your proposal today!](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform)
+[Submit your proposal today!](https://forms.gle/NhdiHHPN3uJ8Ywre6)
 
 ## Important dates
 
-* **November 1**: Call for talk proposals opens.
-* **November 30**: Talk proposal submission deadline.
-* **December 14**: Notification of talk acceptance.
-* **December 21**: Deadline for speakers to confirm their participation.
+* **November 10**: Call for talk proposals opens.
+* **December 8**: Talk proposal submission deadline.
+* **December 22**: Notification of talk acceptance.
+* **December 29**: Deadline for speakers to confirm their participation.
 * **TBD**: Conference registration opens.
 * **TBD**: Public announcement of full speaker list.
 * **TBD**: Public announcement of detailed schedule.
@@ -83,7 +84,7 @@ offer financial assistance for travel expenses (stuff like flights, trains,
 lodging, and meals while traveling) for outside-of-Santa Cruz speakers. If
 you’re not from the Santa Cruz area and you want to request funding, please fill
 out the relevant section of the [proposal submission
-form](https://docs.google.com/forms/d/e/1FAIpQLSfOkbPQFl2Y39cwkjafZBLDs8zJHNWFietPDDg53bXqtdHh0g/viewform).
+form](https://forms.gle/NhdiHHPN3uJ8Ywre6).
 
 Because submissions are reviewed anonymously, requesting financial assistance
 will not affect a proposal’s chances of acceptance.
