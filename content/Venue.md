@@ -12,8 +12,8 @@ menu:
 
 We're excited to bring **!!Con West 2020** to scenic Santa Cruz, California,
 on the campus of [UC Santa Cruz](https://www.ucsc.edu/), from February 29
-to March 1.  Santa Cruz is a joy of coastal California redwoods, about an
-hour's drive from the bustle of Silicon Valley.  We held **!!Con
+to March 1. Santa Cruz is a joy of coastal California redwoods, about an
+hour's drive from the bustle of Silicon Valley. We will hold **!!Con
 West** in the [Jack Baskin
 Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527),
 with registration and continental breakfast starting at 9am each day, and talks ending around 5pm.
@@ -64,7 +64,7 @@ Santa Cruz, if you don't wish to rent a car (UCSC has a decent
 
 ### From San Jose Diridon Station to Santa Cruz, you can take:
 
-- The [Highway 17
+- the [Highway 17
   Express](https://www.scmtd.com/en/component/systemmap/17/20192) bus
 - [Greyhound](https://www.greyhound.com)
 - a taxi (estimated cost about $100)
@@ -73,7 +73,7 @@ Santa Cruz, if you don't wish to rent a car (UCSC has a decent
 Extremely adventurous attendees could choose to bike to Santa Cruz; from the
 middle of the Peninsula, [one possible
 route](https://www.strava.com/routes/11228019) is about 45 miles with about
-3,800ft of elevation gain.  (If you try this, or have a better route, [let us
+3,800ft of elevation gain. (If you try this, or have a better route, [let us
 know](mailto:west-2020@exclamation.foundation)!)
 
 ---
@@ -88,7 +88,7 @@ Jack Baskin Auditorium. Please keep an eye on this page!
 You can park your car (free on weekends!) at the [Core West parking
 structure](https://www.google.com/maps/place/UCSC+Core+West+Structure/@36.9990766,-122.0658659,17z/data=!3m1!4b1!4m5!3m4!1s0x808e417574d7cc95:0xfc9187c7cae8a8c2!8m2!3d36.9990766!4d-122.0636772),
 which is about a 5-minute walk from the auditorium. There are accessible parking
-spaces closer to the venue.  There's a [mobile-friendly website with live
+spaces closer to the venue. There's a [mobile-friendly website with live
 information on open parking spaces at Core
 West](https://mobile.ucsc.edu/parking/corewest).
 
