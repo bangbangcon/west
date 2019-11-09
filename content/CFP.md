@@ -9,8 +9,8 @@ menu:
 
 # Give a talk at !!Con West!
 
-Hi! !!Con West is excited to be launching our **inaugural west coast
-conference** celebrating the joy, excitement, and surprise of computing, and we
+Hi! !!Con West is back for our **second year** of celebrating the joy, excitement,
+and surprise of computing, and we
 want **you** to submit a [talk proposal](https://forms.gle/NhdiHHPN3uJ8Ywre6). The **submission deadline** is
 **Sunday, December 8**.
 
