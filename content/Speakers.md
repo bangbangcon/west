@@ -27,12 +27,13 @@ them into umbrellas.
 
 <img class='speaker-img' src="../images/speakers/erin_rose_glass.jpeg" alt="Profile Photo of Erin Rose Glass" />
 
-<a href="http://www.erinroseglass.com">**Erin Glass**</a> is the Digital
-Scholarship Librarian at UC San Diego, where she advises on digital research
-and education practices, infrastructure, and policy with a focus on ethics,
-experimentation, and agency.  Her research focuses on liberatory approaches
-to technology in and through higher education and the intellectual and
-political implications of technological forms of surveillance and control.
+<a href="http://www.erinroseglass.com">**Erin Glass**</a> is a writer,
+consultant, and librarian at UC San Diego, where she advises on emerging
+forms of digital research, education, infrastructure, and community.  She is
+co-founder of Ethical EdTech and Social Paper, and director of KNIT, a
+digital commons for higher education in San Diego.  Her research focuses on
+the use of the arts and humanities to resist technological forms of
+surveillance and control.
 
 ---
 
