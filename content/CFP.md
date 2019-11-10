@@ -3,7 +3,7 @@ title: "Call for Proposals!"
 date: 2019-10-16T10:48:41-08:00
 menu:
   main:
-    title: "CFP"
+    title: "Call for Talk Proposals"
     weight: 15
 ---
 

@@ -49,7 +49,7 @@ Last year, !!Con West was about 200 attendees, including around thirty
 speakers, and was a two-day single-track conference.  We expect !!Con West
 2020 to be about the same size.
 
-## How is !!Con West different from the !!Con NYC?
+## How is !!Con West different from !!Con in NYC?
 
 The west-coast version of !!Con is necessarily different from the
 east-coast version in certain ways. For starters, the !!Con West venue is very
@@ -88,7 +88,8 @@ Board of Directors some e-mail](mailto:board@exclamation.foundation).
 ## What is UC Santa Cruz's involvement in !!Con West?
 
 The [Baskin School of Engineering](https://www.soe.ucsc.edu/) at UC Santa Cruz
-has committed to logistical sponsorship of !!Con West, and a
+contributed seed funding to help launch our inaugural !!Con West in 2019,
+and a
 couple members of the organizing team have a UCSC affiliation.
 
 ## I have a question that isn't covered in this FAQ.  Who can I ask?

@@ -11,7 +11,7 @@ type: "single"
 
 # Code of conduct
 
-We value the participation of each member of the community and want all
+We value the participation of each member of the !!Con West community and want all
 attendees to have an enjoyable and fulfilling experience. Accordingly, all
 attendees are expected to show respect and courtesy to other attendees
 throughout the conference and at all conference events, whether officially
@@ -145,6 +145,11 @@ below form to contact us, with or without your name. -->
 Conference staff will be happy to do whatever we can to help those experiencing
 harassment to feel safe for the duration of the conference. We value your
 attendance.
+
+## Transparency reports
+
+!!Con West's Code of Conduct committee has compiled a [transparency
+report](/2019/conduct-transparency) for reported incidents in 2019.
 
 <!-- TODO
 ## Report a violation (with or without your name)
