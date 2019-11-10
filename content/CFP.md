@@ -54,7 +54,7 @@ about how you plan to spend the time. A single, focused idea is best – go for
 “here’s my favorite assembly instruction” rather than “here’s an overview of how
 assembly works”.
 
-The submission deadline is **Friday, November 30**. We’ll accept as many of your
+The submission deadline is **Sunday, December 8th**. We’ll accept as many of your
 amazing talks as we can. You can submit more than one talk proposal.
 
 **Proposals will be [anonymized to avoid bias](https://organicdonut.com/2018/03/the-con-talk-anonymization-and-selection-process/)**. Although we ask for your name,

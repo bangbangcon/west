@@ -40,7 +40,7 @@ political implications of technological forms of surveillance and control.
 
 Who else is speaking at !!Con West? We're so excited that it could be
 **you**!  If you're interested in giving a talk at !!Con West 2020, [submit
-a talk proposal by Friday, December 6th](/cfp/)!
+a talk proposal by Sunday, December 8th](/cfp/)!
 
 To whet your appetite, you might want to have a look at some of our
 **amazing** speakers from [!!Con West 2019](/2019/speakers/), [!!Con

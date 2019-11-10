@@ -24,7 +24,7 @@ proposals is [now open](/cfp/), and we're very much looking forward to
 reading your talk proposals.  You don't have to be an experienced speaker to
 talk at !!Con West -- in fact, many of our speakers have never been on a
 public stage before.  You can submit as many talks as you like, as long as
-you [do it by Friday, December 6th](/cfp/)!
+you [do it by Sunday, December 8th](/cfp/)!
 
 ## How do I get updates?
 
