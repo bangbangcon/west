@@ -8,7 +8,7 @@ menu:
 
 # Frequently asked questions
 
-## What's all this, then?
+## What's all this?
 
 [!!Con](http://bangbangcon.com) (pronounced "bang bang con") is a
 two-day conference of ten-minute talks about the joy, excitement, and
@@ -16,12 +16,12 @@ surprise of computing that's been held annually in New
 York [since 2014](http://bangbangcon.com/2014). Due
 to
 [massive demand](http://composition.al/blog/2017/03/31/scaling-bangbangcon/),
-!!Con was expanded to the west coast of the US in 2019. We are bringing !!Con
-West back in 2020 and it will be held in Santa Cruz, California, on
+!!Con was expanded to the west coast of the US in 2019. We are so excited to bring !!Con
+West back in 2020, and it will be held in Santa Cruz, California, on
 the campus of [UC Santa Cruz](https://www.ucsc.edu/), on February
-29-March 1.
+29th and March 1st.
 
-## Why are you bringing !!Con to the west coast?
+## Why did you bring !!Con to the west coast?
 
 In our five years of organizing !!Con, we've learned that there's a huge amount
 of demand for what we're doing. This is a great problem to have, but it means
@@ -32,8 +32,7 @@ The long-term solution to our inability to meet demand is for there to be a lot
 more conferences inspired by !!Con, in a lot more places, organized by a lot
 more people.  A new generation of conference organizers will need to step up.
 In fact, that's already happening --
-[EnthusiastiCon](https://www.enthusiasticon.de/), [Hello,
-Con!](http://hellocon.net/), and [StarCon](https://starcon.io/) are three
+[PromptConf](https://promptconf.com), [EnthusiastiCon](https://www.enthusiasticon.de/), and [StarCon](https://starcon.io/) are three
 examples of !!Con-inspired, independently organized events.
 
 But the existence of all these great conferences hasn't taken the pressure off
@@ -46,36 +45,45 @@ weekend.
 
 ## How big an event will this be?
 
-!!Con West, like the original !!Con, will be a two-day, single-track conference.
-We anticipate around 200 attendees, including around thirty speakers.
+Last year, !!Con West was about 200 attendees, including around thirty
+speakers, and was a two-day single-track conference.  We expect !!Con West
+2020 to be about the same size.
 
-## How will !!Con West be different from the original !!Con?
+## How is !!Con West different from the !!Con NYC?
 
-The west-coast version of !!Con will necessarily be different from the
+The west-coast version of !!Con is necessarily different from the
 east-coast version in certain ways. For starters, the !!Con West venue is very
 different from the middle of Manhattan or Brooklyn, where all the previous
-!!Cons have been held, and this will have a big impact on the conference
-experience. We can't expect attendees to be able to easily get to our venue on
-public transit, nor is it likely that attendees will be able to wander out to
-restaurants for lunch and be back in time for the afternoon talks. On the other
-hand, it's very likely that attendees will be able to walk out of the building
-and three minutes later be strolling through a beautiful redwood forest.
+!!Cons have been held, and this has an impact on the conference experience. 
+New York attendees regularly get to our venue on
+public transit, and wander out to
+restaurants for lunch while making it back in time for the afternoon talks;
+these are dramatically more difficult in Santa Cruz!  On the other
+hand, in Santa Cruz, attendees can walk out of the building
+and three minutes later be strolling through a beautiful redwood forest. 
 
-We should be willing to try doing things differently from the original !!Con
-when it seems like the right approach. We want to retain the important aspects
+We've made some changes to the logistics of !!Con
+when it seems like the right approach, but we feel that we've retained the important aspects
 of the original !!Con's
 [aesthetic](https://recompilermag.com/issues/extras/toward-a-bangbangcon-aesthetic/),
 while enthusiastically embracing the physical and social geography of the west
 coast, Santa Cruz, and UC Santa Cruz.
 
-## Who's organizing it?
+## Who's responsible for !!Con West?
 
 !!Con West is being organized by [a team of
-volunteers](/index.html#who-s-organizing). We have two goals for !!Con West. First, of course, we want to put
-on another great conference in the !!Con tradition. Second, we want to incubate
-a new generation of conference organizers. By the time we're done, every member
-of the !!Con West organizing team will have the skills and experience to go out
-and launch their own conferences, if they want to.
+volunteers](/index.html#who-s-organizing) -- some of us were involved in
+!!Con West last year, some have organizing experience from !!Cons previous, and some of
+us are brand new this year.  One of our goals in !!Con West is to incubate
+a new generation of conference organizers; if you're interested in
+joining us in future years, please get in touch at the conference!
+
+Additionally, !!Con West's parent organization is the [Exclamation
+Foundation](https://exclamation.foundation), which provides logistical
+support that we share between !!Cons, including managing our bank accounts,
+and providing a legal entity that our sponsors can do business with.  If
+you need to get in touch with Exclamation Foundation, you can [send the
+Board of Directors some e-mail](mailto:board@exclamation.foundation).
 
 ## What is UC Santa Cruz's involvement in !!Con West?
 
