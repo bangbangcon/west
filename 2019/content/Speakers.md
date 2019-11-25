@@ -215,10 +215,10 @@ Jerk parent.
 
 ---
 
-### Mike Lazer-Walker
+### Em Lazer-Walker
 
-<img class='speaker-img' src="../images/speakers/mike-lazer-walker.png" alt="Profile Photo of
-Mike Lazer-Walker"/>
+<img class='speaker-img' src="../images/speakers/em-lazer-walker.png" alt="Profile Photo of
+Em Lazer-Walker"/>
 <span class="talk-title">Computers are fast!  But how come they sometimes
 feel slow?</span>
 
@@ -235,7 +235,7 @@ This talk will cover all of that and more.  We'll focus largely on games,
 as competitive-level gamers demanding frame-perfect input over severe
 network constraints are a particularly extreme (and interesting!) edge case.
 
-**Mike** is a Berlin-based artist and engineer. They make interactive art, 
+**Em** is a Berlin-based artist and engineer. She makes interactive art, 
 experimental games, and software tools designed to spark intellectual curiosity
 and inspire people to become self-motivated learners.
 
