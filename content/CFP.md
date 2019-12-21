@@ -1,6 +1,7 @@
 ---
 title: "Call for Proposals!"
 date: 2019-10-16T10:48:41-08:00
+draft: true
 menu:
   main:
     title: "Call for Talk Proposals"

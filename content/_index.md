@@ -18,13 +18,10 @@ Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 
 Good question -- we have two amazing keynote speakers ([isis agora
 lovecruft](/speakers/#isis-agora-lovecruft)
-and [Erin Rose Glass](/speakers/#erin-rose-glass)), and [we're hoping you'll
-speak too](/cfp/)!  Our call for talk
-proposals is [now open](/cfp/), and we're very much looking forward to
-reading your talk proposals.  You don't have to be an experienced speaker to
-talk at !!Con West -- in fact, many of our speakers have never been on a
-public stage before.  You can submit as many talks as you like, as long as
-you [do it by Sunday, December 8th](/cfp/)!
+and [Erin Rose Glass](/speakers/#erin-rose-glass)), and if you submitted to
+our call for proposals, it could be you, too!  Our call for proposals is now
+closed, and we're all very excitedly reviewing them now; keep your eyes
+peeled for updates on our speakers in the near future!
 
 ## How do I get updates?
 

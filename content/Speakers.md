@@ -40,8 +40,8 @@ surveillance and control.
 ## Lightning Talks
 
 Who else is speaking at !!Con West? We're so excited that it could be
-**you**!  If you're interested in giving a talk at !!Con West 2020, [submit
-a talk proposal by Sunday, December 8th](/cfp/)!
+**you**, if you submitted!  We're reviewing talks now -- keep your eyes
+peeled for more info around the new year!
 
 To whet your appetite, you might want to have a look at some of our
 **amazing** speakers from [!!Con West 2019](/2019/speakers/), [!!Con

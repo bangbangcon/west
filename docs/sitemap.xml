@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://bangbangcon.com/west/</loc>
-    <lastmod>2019-10-16T10:48:41-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://bangbangcon.com/west/cfp/</loc>
-    <lastmod>2019-10-16T10:48:41-08:00</lastmod>
-  </url>
   
   <url>
     <loc>http://bangbangcon.com/west/conduct/</loc>
@@ -28,7 +18,13 @@
   </url>
   
   <url>
+    <loc>http://bangbangcon.com/west/</loc>
+    <lastmod>2019-10-16T10:57:05-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bangbangcon.com/west/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -37,6 +33,7 @@
   
   <url>
     <loc>http://bangbangcon.com/west/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
