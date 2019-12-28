@@ -1,12 +1,13 @@
 ---
 title: "Call for Proposals!"
 date: 2019-10-16T10:48:41-08:00
-draft: true
-menu:
-  main:
-    title: "Call for Talk Proposals"
-    weight: 15
 ---
+
+# The !!Con West 2020 Call for Proposals is closed
+
+Thank you to everyone who submitted a proposal for !!Con West 2020!  The
+Call for Proposals is now closed.  If you missed submitting to !!Con West
+2020, please consider submitting to !!Con 2020 instead!
 
 # Give a talk at !!Con West!
 
