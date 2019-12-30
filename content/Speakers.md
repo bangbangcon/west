@@ -347,4 +347,105 @@ complain a lot about it.
 
 ### Michelle Brenner
 
-<span class="How To Host A Podcast For 25 Cents A Month">How To Host A Podcast For 25 Cents A Month?</span>
+<span class="talk-title">How To Host A Podcast For 25 Cents A Month?</span>
+
+Want to host a podcast, but didn’t know where to start? I have answers!! Last year I launched From The Source, where I interview unsung people in tech with amazing stories. Hosting involves 3 major components; an XML file with episode details, mp3 storage, and metrics on your listeners. In this talk, I’ll go over all the AWS tools and Python scripts I used so I could own my data and not incur hefty hosting fees. 
+
+During this talk I will be creating a fresh podcast from scratch, with only a few pre-prepared items like any good cooking show. Together we’ll upload the MP3 file to S3 and then create an XML file and upload that as well. You can then pull the feed onto your phone using any podcast app and download the episode. After we download the episode, we can parse the S3 logs using Athena to see who has been listening. And finally, I’ll show you a bonus script that helps with the worst part of hosting a podcast, editing.
+
+At the end of the talk, all you’ll need to worry about is which story you want to tell on your own podcast.
+
+Michelle is a Senior Backend Engineer, with 9+ years experience, from engineering support to manager. She runs a tech interview podcast called From the Source, blogs at dev.to and works to promote DE&I in tech by organizing events, board membership, mentoring and conference speaking. A Philadelphia native, she is an art school graduate and a self-taught Python developer.
+
+### Naomi Saphra
+
+<span class="talk-title">Get Hooked On Neural Net Inspection! That was a pun!</span>
+
+Sometimes you want to find out some information about a neural net in pytorch while it runs. Like what if you wanted to do some math of your own on the math that happens inside the network? You can do that with hooks! Hooks can go on each module of a neural network to spy on the blackbox and whisper its secrets to you. No neural net will keep its secrets hidden from your perceptive functions.
+
+**Naomi** is a PhD student in natural language processing and machine learning in SCOTLAND. They do roller derby under the name Gaussian Retribution and they dictate all their code because typing really stinks for them.
+
+### Nick Fitzgerald
+
+<span class="talk-title">Writing Programs! That Write Other Programs!!</span>
+
+Why write programs when you can write a program to write programs for you? And that program writes programs that are faster than the program you'd write by hand. And that program's programs are actually, you know, correct. Wow!
+
+Yep, it's time to synthesize. But this ain't Moog, this is *program synthesis*. What is that, and how can it upgrade our optimizers into *super*-optimizers? We'll find out!!
+
+**Nick**'s dream job is working in the Bon Appetit test kitchen, but he does computer-y stuff in the meantime. When he isn't computing, you can find him on his bike, lacto-fermenting chilies, or making art with his pen plotter.
+
+
+### Phil Warren
+
+<span class="talk-title">Beyond the Black Rainbow:  Why You Can’t Photo Infrared Rainbows, and Using Booleans to Do It Anyway!</span>
+
+Imagine a rainbow- why are there so many talks about rainbows?  And what’s on the other side? Rainbows are visions, BUT NOT ILLUSIONS, AND RAINBOWS HAVE SOMETHING TO HIDE!
+Frustratingly, infrared photographers find that they can never photograph the invisible extra stripes beyond red in a rainbow.  Instead, they’ll only see a single monochromatic band!  We will explore why, and dive into the boolean solution to make a three channel model that reveals a full color unseen world!  Then, we’ll look at pictures of a world entirely in a spectrum we can’t see!
+
+**Phil Warren** works in R&D in image technology, and enjoys adventures, eating things, and meeting people.  He wants to explore and see everything, and discover new ways to do so.
+
+### Sarah Nyugen
+
+<span class="talk-title">linkRot!! Dancing the patterns of digital decay</span>
+
+This is a dance inspired by broadcast audio through RSS, technology obsolescence, Git version controls, and 3-2-1 backups. Sounds recorded from earlier talks will be regenerated to create auditory memories of early digital networking and are made tangible through isolated limbed branches that build to a feeling of potential completion. It soon breaks down as segments are gradually destroyed due to algorithmically-controlled centralized over-saturation. This is an exploration of existing digital archiving techniques that are missing components to recreate the full computational environment. 
+
+LinkRot is a dance that serves to emulate the physical euphoria that internet content creation permits to the digital decay that comes with loss (or is there even a feeling of loss?).
+
+**Sarah Nguyen** is a a dancer and a librarian-archivist in training. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Offline, she can be found riding a Cannondale mtb or eating plants.
+
+### Spencer Alves
+
+<span class="talk-title">Reverse engineering game formats for fun and profit! (well, mostly just fun)</span>
+
+Video games can be cool, right? You know what's cooler? A hex editor!
+
+…no? Well, maybe if you attend this talk you would think so! For a while I've made a hobby of figuring out how games store their data, and converting it to and from other formats. I'm far from the only one to do that, but I want to share what I have learned so that you don't have to start from scratch. Things like how a hex editor works, what floating point looks like, file structures and layout, and more general reversing strategies.
+
+***Spencer**'s a programmer who likes graphics, reverse engineering, games, and the color purple.
+
+### Tiffany Tseng
+
+<span class="talk-title"> Packages, but in 3D! </span>
+
+Ever received a beautiful geometric gift box (from a Japanese pastry shop, for example) and wondered how it was made?  It turns out there’s a whole world of packaging design techniques and patterns!  Unfortunately, many of these patterns exist only in print via packaging design books.  These diagrams need to be translated to digital formats before they can be easily cut on a machine and assembled by hand!
+
+In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-tracer.glitch.me/)  to translate photos of packaging diagrams to digital SVGs that can be directly sent to any Computer Numeric Controlled (CNC) desktop cutter.  I’ll introduce some useful Javascript SVG libraries and show some pretty boxes that I created with the tool!  By the end of the talk, you’ll learn about how SVGs are an awesome medium for bridging art, programming, and fabrication.
+
+Tiff is a designer who creates tools for making. She loves all things at the intersection of art, engineering, and digital fabrication.
+
+### Tom Verbeure
+
+
+After spending his daytime hours working on fun electronics projects, **Tom** goes home for dinner, and then retreats to his garage for some more hours of working on fun electronics projects.
+
+### Vaibhav Sagar
+
+<span class="talk-title">Compilers for nothing, executables for free!</span>
+
+I'm going to talk about a less commonly known, but surprisingly useful, class
+of programs known as specialisers, and what you can do with them! I will also
+discuss the Futamura projections, which are mind-bending applications of this
+idea that have recently become practically useful!
+
+Vaibhav (@vbhvsgr) used to write web applications for a living. He still does, but he used to, too. When he’s not doing that he yells about package managers on Twitter and re-racks bumper plates after using them.
+
+### Wesley Aptekar-Cassels
+
+<span class="talk-title">Plotty Bird - Making Modern Games on Retro Pen Plotters!</span>
+
+If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter was the way to do it - a device that would take a pen, and physically move it over a piece of paper to produce a diagram. While print
+ers are clearly a better way to print images now, there's still joy in watching a robot scratch out perfect lines on a blank sheet of paper. When I happened across a vintage pen plotter from the mid-80s, I had gr
+eat fun making all sorts of art and pretty pictures. But I wondered - could I do more with this? How can we stretch this medium into something new and surprising? Using it as a output device for playing games see
+med too good an idea to resist.
+
+Wesley likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
+
+### Will Hammond
+
+<span class="talk-title">Noise !?? WHAT NOISE !!!?? </span>
+
+It's often taken for granted that information can be sent near losslessly. We don't expect songs on Spotify to sound drastically different compared to C.D., we don't expect text to arrive in our web browser jumbled and we don't expect our friends voice to sound like Darth Vader over the phone. However there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper A Mathematical Theory of Communication noise was considered the norm.In this paper Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
+
+**Will** loves reading about noise while talking as little as possible. 
