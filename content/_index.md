@@ -16,12 +16,8 @@ Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 
 ## Who's speaking?
 
-Good question -- we have two amazing keynote speakers ([isis agora
-lovecruft](/speakers/#isis-agora-lovecruft)
-and [Erin Rose Glass](/speakers/#erin-rose-glass)), and if you submitted to
-our call for proposals, it could be you, too!  Our call for proposals is now
-closed, and we're all very excitedly reviewing them now; keep your eyes
-peeled for updates on our speakers in the near future!
+Our call for talk proposals is closed. Thanks for all your wonderful talk proposal submissions!
+Learn more about our amazing [speakers](speakers)!
 
 ## How do I get updates?
 

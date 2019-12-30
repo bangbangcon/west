@@ -167,7 +167,6 @@ I got curious and went digging, and to _really_ answer this we need to go back t
 
 **Jeremy** is easily nerd-snipable. He works on Electron in San Francisco, and makes video games sometimes.
 
-
 ### Jessica Garson
 
 <span class="talk-title">How I solved my NYC parking problem with Python</span>
@@ -209,7 +208,7 @@ a restaurant? What are heuristics we can use to estimate when a table will be fr
 relevant stakeholders -- customers, managers, host staff, servers -- equally benefit
 from the same allocation strategies?
 
-Jordan is a systems software engineer who loves... Tex-Mex. You also might find her running
+**Jordan** is a systems software engineer who loves... Tex-Mex. You also might find her running
 (preferably close to large bodies of water), writing, or cooking elaborate meals with way
 too many ingredients to be reasonable.
 
@@ -355,7 +354,7 @@ During this talk I will be creating a fresh podcast from scratch, with only a fe
 
 At the end of the talk, all you’ll need to worry about is which story you want to tell on your own podcast.
 
-Michelle is a Senior Backend Engineer, with 9+ years experience, from engineering support to manager. She runs a tech interview podcast called From the Source, blogs at dev.to and works to promote DE&I in tech by organizing events, board membership, mentoring and conference speaking. A Philadelphia native, she is an art school graduate and a self-taught Python developer.
+**Michelle** is a Senior Backend Engineer, with 9+ years experience, from engineering support to manager. She runs a tech interview podcast called From the Source, blogs at dev.to and works to promote DE&I in tech by organizing events, board membership, mentoring and conference speaking. A Philadelphia native, she is an art school graduate and a self-taught Python developer.
 
 ### Naomi Saphra
 
@@ -403,7 +402,7 @@ Video games can be cool, right? You know what's cooler? A hex editor!
 
 …no? Well, maybe if you attend this talk you would think so! For a while I've made a hobby of figuring out how games store their data, and converting it to and from other formats. I'm far from the only one to do that, but I want to share what I have learned so that you don't have to start from scratch. Things like how a hex editor works, what floating point looks like, file structures and layout, and more general reversing strategies.
 
-***Spencer**'s a programmer who likes graphics, reverse engineering, games, and the color purple.
+**Spencer**'s a programmer who likes graphics, reverse engineering, games, and the color purple.
 
 ### Tiffany Tseng
 
@@ -413,10 +412,9 @@ Ever received a beautiful geometric gift box (from a Japanese pastry shop, for e
 
 In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-tracer.glitch.me/)  to translate photos of packaging diagrams to digital SVGs that can be directly sent to any Computer Numeric Controlled (CNC) desktop cutter.  I’ll introduce some useful Javascript SVG libraries and show some pretty boxes that I created with the tool!  By the end of the talk, you’ll learn about how SVGs are an awesome medium for bridging art, programming, and fabrication.
 
-Tiff is a designer who creates tools for making. She loves all things at the intersection of art, engineering, and digital fabrication.
+**Tiff** is a designer who creates tools for making. She loves all things at the intersection of art, engineering, and digital fabrication.
 
 ### Tom Verbeure
-
 
 After spending his daytime hours working on fun electronics projects, **Tom** goes home for dinner, and then retreats to his garage for some more hours of working on fun electronics projects.
 
@@ -429,7 +427,7 @@ of programs known as specialisers, and what you can do with them! I will also
 discuss the Futamura projections, which are mind-bending applications of this
 idea that have recently become practically useful!
 
-Vaibhav (@vbhvsgr) used to write web applications for a living. He still does, but he used to, too. When he’s not doing that he yells about package managers on Twitter and re-racks bumper plates after using them.
+**Vaibhav** (@vbhvsgr) used to write web applications for a living. He still does, but he used to, too. When he’s not doing that he yells about package managers on Twitter and re-racks bumper plates after using them.
 
 ### Wesley Aptekar-Cassels
 
@@ -440,7 +438,7 @@ ers are clearly a better way to print images now, there's still joy in watching 
 eat fun making all sorts of art and pretty pictures. But I wondered - could I do more with this? How can we stretch this medium into something new and surprising? Using it as a output device for playing games see
 med too good an idea to resist.
 
-Wesley likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
+**Wesley** likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
 
 ### Will Hammond
 
