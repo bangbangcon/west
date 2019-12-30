@@ -23,6 +23,8 @@ hard-to-misuse cryptographic libraries in Rust, walking through woods with
 their wolfhound familiar, and casting curses on evildoers in tech to turn
 them into umbrellas.
 
+---
+
 ### Erin Rose Glass
 
 <img class='speaker-img' src="../images/speakers/erin_rose_glass.jpeg" alt="Profile Photo of Erin Rose Glass" />
@@ -58,6 +60,8 @@ Under The Sun?!"
 **Aaron** is a mathematician turned programmer that loves soap operas and shiro wot.
 He is overly excitable about all of those things -- it's a slew of personal problems.
 
+---
+
 ### Breanne Boland
 
 <span class="talk-title">You can put WHAT in DNS TXT records?!?!</span>
@@ -78,6 +82,8 @@ censorship!).
 loves travel, cats, and making stuff (though the order of importance changes,
 depending on the day).
 
+---
+
 ### don-E Merson
 
 <span class="talk-title">Sonification: You Can See Your Complex Data with Sound!!</span>
@@ -90,6 +96,8 @@ new ideas about using sound in concert with sight to envision data in a new way.
 **don-E Merson** is a Ph.D. student at the University of Arizona in Information.
 He has over 27 years of experience in the software industry. He is currently a
 programmer working on a web repository for biological surveys of vegetation.
+
+---
 
 ### Heather Nolis
 
@@ -112,6 +120,8 @@ Sometimes, having more data isn't the best (and sometimes it is okay to give up)
 **Heather Nolis** is a machine learning engineer at T-Mobile leading the AI team but
 began her career in neuroscience! She spends her free time doing goofy NLP projects
 and designing toddler toys with her data scientist wife Jacqueline.
+
+---
 
 ### Jacqueline Nolis
 
@@ -136,6 +146,8 @@ She has over a decade of experience using data to help companies including DSW, 
 Microsoft, and Airbnb. For fun she and her wife Heather like to use machine learning for
 humor including training neural networks on pet names and offensive license plates.
 
+---
+
 ### Jason Orendorff
 
 <span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
@@ -154,6 +166,8 @@ explore their unique charms, and reflect on whether it's possible to step into t
 
 **Jason Orendorff** works on the JavaScript engine that's in Firefox. He's the coauthor of *Programming Rust*.
 
+---
+
 ### Jeremy Apthorp
 
 <span class="talk-title">Curses!!</span>
@@ -166,6 +180,8 @@ I got curious and went digging, and to _really_ answer this we need to go back t
 1835 and the first application of electrical engineering.
 
 **Jeremy** is easily nerd-snipable. He works on Electron in San Francisco, and makes video games sometimes.
+
+---
 
 ### Jessica Garson
 
@@ -185,6 +201,8 @@ to move my car.
 **Jessica Garson** is a Python programmer, educator, and artist. She currently works
 at Twitter as a Developer Advocate. In her spare time, she is on a never-ending quest
 for the perfect vegan snack.
+
+---
 
 ### Jordan Hendricks
 
@@ -212,6 +230,8 @@ from the same allocation strategies?
 (preferably close to large bodies of water), writing, or cooking elaborate meals with way
 too many ingredients to be reasonable.
 
+---
+
 ### Kathleen Tuite
 
 <span class="talk-title">The surprising hacks behind my 3D reconstructed wedding cake topper!</span>
@@ -228,6 +248,8 @@ decode a proprietary 3D model format, and befriend my local makerspace to get it
 **Kathleen** enjoys making things that let other people make things. She wants more art,
 outdoors, and time to be creative in her life.
 
+---
+
 ### Katie Broida
 
 <span class="talk-title">You can weave software into hardware! And then fly to the moon!!</span>
@@ -242,6 +264,8 @@ software was made, who created it and how it got humankind to the moon!
 **Katie Broida** is a writer of software and a maker of handicrafts, especially
 textile ones. She loves the intersection of art, jokes and programming and collaborating
 with people on all of those topics.
+
+---
 
 ### Lee Butterman
 
@@ -266,6 +290,7 @@ he built Latin language models to power a reading environment for Latin poetry
 , and he has been exploring statistically-powered visualizations and art at
 leebutterman.com . He lives in Oakland, California.
 
+---
 
 ### Lennon Day-Reynolds
 
@@ -293,6 +318,8 @@ worth homesteading on the rough-and-tumble frontier of alternative network tech.
 in Portland, OR. He's worked on the software that powers modern social networks,
 payment infrastructure, and even _truly_ essential services like digital comic book distribution.
 
+---
+
 ### Lito Nicolai
 
 <span class="talk-title">About Gameboys!</span>
@@ -304,6 +331,8 @@ trademark law, a microscope, nitric acid, and a very dedicated materials science
 
 **Lito** teaches programming and likes writing about computers. He has two hundred and six
 bones, at last count.
+
+---
 
 ### Maria Mishurenko
 
@@ -325,6 +354,8 @@ an artist turns into a curator and has to make tough decisions...
 and game designer from Brooklyn, New York. She is also a co-founder of the XR
 design studio Synesthetic Echo.
 
+---
+
 ### Matías Lang
 
 <span class="talk-title">Delete all code! 100% testing coverage, the lazy way!</span>
@@ -344,6 +375,8 @@ of leaving leaving his terminal and switching to graphical user interfaces.
 Don't recommend him to use any piece of propiertary software, otherwise he will
 complain a lot about it.
 
+---
+
 ### Michelle Brenner
 
 <span class="talk-title">How To Host A Podcast For 25 Cents A Month?</span>
@@ -356,6 +389,8 @@ At the end of the talk, all you’ll need to worry about is which story you want
 
 **Michelle** is a Senior Backend Engineer, with 9+ years experience, from engineering support to manager. She runs a tech interview podcast called From the Source, blogs at dev.to and works to promote DE&I in tech by organizing events, board membership, mentoring and conference speaking. A Philadelphia native, she is an art school graduate and a self-taught Python developer.
 
+---
+
 ### Naomi Saphra
 
 <span class="talk-title">Get Hooked On Neural Net Inspection! That was a pun!</span>
@@ -363,6 +398,8 @@ At the end of the talk, all you’ll need to worry about is which story you want
 Sometimes you want to find out some information about a neural net in pytorch while it runs. Like what if you wanted to do some math of your own on the math that happens inside the network? You can do that with hooks! Hooks can go on each module of a neural network to spy on the blackbox and whisper its secrets to you. No neural net will keep its secrets hidden from your perceptive functions.
 
 **Naomi** is a PhD student in natural language processing and machine learning in SCOTLAND. They do roller derby under the name Gaussian Retribution and they dictate all their code because typing really stinks for them.
+
+---
 
 ### Nick Fitzgerald
 
@@ -374,6 +411,7 @@ Yep, it's time to synthesize. But this ain't Moog, this is *program synthesis*. 
 
 **Nick**'s dream job is working in the Bon Appetit test kitchen, but he does computer-y stuff in the meantime. When he isn't computing, you can find him on his bike, lacto-fermenting chilies, or making art with his pen plotter.
 
+---
 
 ### Phil Warren
 
@@ -383,6 +421,8 @@ Imagine a rainbow- why are there so many talks about rainbows?  And what’s on 
 Frustratingly, infrared photographers find that they can never photograph the invisible extra stripes beyond red in a rainbow.  Instead, they’ll only see a single monochromatic band!  We will explore why, and dive into the boolean solution to make a three channel model that reveals a full color unseen world!  Then, we’ll look at pictures of a world entirely in a spectrum we can’t see!
 
 **Phil Warren** works in R&D in image technology, and enjoys adventures, eating things, and meeting people.  He wants to explore and see everything, and discover new ways to do so.
+
+---
 
 ### Sarah Nyugen
 
@@ -394,6 +434,8 @@ LinkRot is a dance that serves to emulate the physical euphoria that internet co
 
 **Sarah Nguyen** is a a dancer and a librarian-archivist in training. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Offline, she can be found riding a Cannondale mtb or eating plants.
 
+---
+
 ### Spencer Alves
 
 <span class="talk-title">Reverse engineering game formats for fun and profit! (well, mostly just fun)</span>
@@ -403,6 +445,8 @@ Video games can be cool, right? You know what's cooler? A hex editor!
 …no? Well, maybe if you attend this talk you would think so! For a while I've made a hobby of figuring out how games store their data, and converting it to and from other formats. I'm far from the only one to do that, but I want to share what I have learned so that you don't have to start from scratch. Things like how a hex editor works, what floating point looks like, file structures and layout, and more general reversing strategies.
 
 **Spencer**'s a programmer who likes graphics, reverse engineering, games, and the color purple.
+
+---
 
 ### Tiffany Tseng
 
@@ -414,9 +458,13 @@ In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-
 
 **Tiff** is a designer who creates tools for making. She loves all things at the intersection of art, engineering, and digital fabrication.
 
+---
+
 ### Tom Verbeure
 
 After spending his daytime hours working on fun electronics projects, **Tom** goes home for dinner, and then retreats to his garage for some more hours of working on fun electronics projects.
+
+---
 
 ### Vaibhav Sagar
 
@@ -429,6 +477,8 @@ idea that have recently become practically useful!
 
 **Vaibhav** (@vbhvsgr) used to write web applications for a living. He still does, but he used to, too. When he’s not doing that he yells about package managers on Twitter and re-racks bumper plates after using them.
 
+---
+
 ### Wesley Aptekar-Cassels
 
 <span class="talk-title">Plotty Bird - Making Modern Games on Retro Pen Plotters!</span>
@@ -440,6 +490,8 @@ med too good an idea to resist.
 
 **Wesley** likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
 
+---
+
 ### Will Hammond
 
 <span class="talk-title">Noise !?? WHAT NOISE !!!?? </span>
@@ -447,3 +499,7 @@ med too good an idea to resist.
 It's often taken for granted that information can be sent near losslessly. We don't expect songs on Spotify to sound drastically different compared to C.D., we don't expect text to arrive in our web browser jumbled and we don't expect our friends voice to sound like Darth Vader over the phone. However there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper A Mathematical Theory of Communication noise was considered the norm.In this paper Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
 
 **Will** loves reading about noise while talking as little as possible. 
+
+---
+
+Perhaps you would be interested in our [2019](../2019/content/speakers) speakers as well?
