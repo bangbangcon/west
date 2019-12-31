@@ -44,20 +44,20 @@ surveillance and control.
 
 ### Aaron Wood
 
-<span class="talk-title">The Ancient Greeks And Their Restless Cattle: A 2300 Year-Old Soap Opera About Big Integers! </span>
+<span class="talk-title">The Ancient Greeks and Their Restless Cattle: A 2300-Year-Old Soap Opera About Big Integers! </span>
 
-"Previously on The Ancient And The Restless:  Archimedes' new BigNumeral class
+Previously on The Ancient and the Restless:  Archimedes' new BigNumeral class
 is the talk of the town, but his biggest rival is out to destroy and replace it.
 Not to be outdone, Archimedes poses a cattle-counting problem to cement his
 place at the top.  As planned, the challenge proves insurmountable and interest
 in the problem eventually dies. 
 
-....Or does it??  In true soap opera fashion, the long forgotten problem has
+....Or does it??  In true soap opera fashion, the long-forgotten problem has
 reappeared with a vengeance.  Will two millennia of maths and the advent of
 computers be enough to answer Archimedes' challenge to find the number of Cattle 
-Under The Sun?!"
+Under The Sun?!
 
-**Aaron** is a mathematician turned programmer that loves soap operas and shiro wot.
+**Aaron** is a mathematician turned programmer who loves soap operas and shiro wot.
 He is overly excitable about all of those things -- it's a slew of personal problems.
 
 ---
@@ -68,14 +68,14 @@ He is overly excitable about all of those things -- it's a slew of personal prob
 
 DNS TXT resource records have several more common uses: SPF records, contact
 information, randomized strings put in place so hosting services can verify
-that someone does indeed control a domain. But the spec for it in RFC 1035 is
+that someone does indeed control a domain. But the spec for them in RFC 1035 is
 pretty short: “TXT RRs are used to hold descriptive text. The semantics of the
 text depends on the domain where it is found.” And Corey Quinn calls Route 53,
 the AWS DNS service, his favorite database, because it has a 100% SLA. There’s
 room for a LOT of mischief in between those two descriptions. This talk will
 give a brief explanation of DNS and its record types, discuss the officially
 endorsed uses of TXT records… and then look into what kind of fun someone can
-have with the more off-brands uses (like thwarting attempts at internet
+have with the more off-brand uses (like thwarting attempts at internet
 censorship!).
 
 **Breanne** is an SRE, a product security engineer, and a writer. She
@@ -89,7 +89,7 @@ depending on the day).
 <span class="talk-title">Sonification: You Can See Your Complex Data with Sound!!</span>
 
 Sonification is using sound to map data. While visualization techniques are
-limited to a few dimensions, the use of sound and sight at the same allows the
+limited to a few dimensions, the use of sound and sight at the same time allows the
 user to comprehend more dimensions simultaneously. This talk will explain some
 new ideas about using sound in concert with sight to envision data in a new way.
 
@@ -103,12 +103,12 @@ programmer working on a web repository for biological surveys of vegetation.
 
 <span class="talk-title">this data was supposed to show how much I love my son but instead I got depression: a breastfeeding story!!!</span>
 
-Sent to my bed with a newborn baby, I was told to make sure he's eating
-**enough** which the worksheet helpfully defined as **0.7 oz every 1.5 hours.**
-I immediately downloaded the app and began collecting data. I recorded every
-single time he breastfed, the duration, the side, and the ammount (if applicable).
+Sent to my bed with a newborn baby, I was told to make sure he was eating
+"enough", which a worksheet helpfully defined as 0.7 oz every 1.5 hours.
+I immediately downloaded an app and began collecting data. I recorded every
+single time he breastfed, the duration, the side, and the amount (if applicable).
 Knowing how much milk my baby needs, when he needs it, how much milk he is drinking,
-and how much milk I have produced should be a data girl's dream! Instead, I became
+and how much milk I have produced should be a data enthusiast's dream! Instead, I became
 a walking, talking, high-alert forecasting and anomaly detection system, unable to
 detach from the rigor of my data collection exercise which surely would prove to my
 son that I love him when he's older... right?
@@ -127,24 +127,24 @@ and designing toddler toys with her data scientist wife Jacqueline.
 
 <span class="talk-title">Tweet Mashup! How my pet project went tragically viral!!</span>
 
-I’m a data scientist who likes to do software development for fun and I had
-always hoped that one of my side-projects would get me famous. One project of
+I’m a data scientist who likes to do software development for fun, and I had
+always hoped that one of my side projects would get me famous. One project of
 mine was Tweet Mashup, a small website I made in an obscure programming language
-that lets you combine twitter accounts for funny results. After finally launching
-it was shocked when it suddenly had 3000 concurrent viewers. At that point I
+that lets you combine Twitter accounts for funny results. After finally launching
+it, I was shocked when it suddenly had 3000 concurrent viewers. At that point I
 realized I had no idea what I was doing. I soon discovered just how badly my site
 was designed to scale, and I took days off work trying to apply patches. Tweet Mashup
 was being mentioned on news sites and on Twitter accounts with millions of followers,
-and yet more than anything I felt panic. Eventually I was able to stabilize the site
-but at that point the internet had passed me. This talk is about that week-long journey
-I had with internet fame and the emotional toll of it. I’ll talk about what components
-of the site ended up being important (and which ones didn’t) plus some of the surprising
+and yet more than anything, I felt panic. Eventually I was able to stabilize the site,
+but at that point the internet had moved on. This talk is about the week-long journey
+I had with internet fame and the emotional toll it took. I’ll talk about what components
+of the site ended up being important (and which ones didn’t), plus some of the surprising
 hacks I had to make to keep up.
 
 **Dr. Jacqueline Nolis** is a co-founder of Nolis, LLC, a data science consulting firm.
 She has over a decade of experience using data to help companies including DSW, Union Bank,
 Microsoft, and Airbnb. For fun she and her wife Heather like to use machine learning for
-humor including training neural networks on pet names and offensive license plates.
+humor, including training neural networks on pet names and offensive license plates.
 
 ---
 
@@ -152,9 +152,9 @@ humor including training neural networks on pet names and offensive license plat
 
 <span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
 
-"Would you like to learn two new programming languages, both delightfully strange
-but for good reasons? What if the comparison sheds light on how different programming
-languages think about time and data?
+Consider two programming languages, both delightfully strange,
+but for good reasons. What if comparing them sheds light on how different programming
+languages enable thinking about time and data?
 
 Inform 7 is an unusual programming language that looks a bit like English prose. Alloy
 is a model specification language that looks kind of like advanced math. They are
@@ -162,7 +162,6 @@ languages from two different worlds, but both are about objects and their
 relationships. Both come with interesting visualization tools. And both have some
 issues dealing with change. In this talk, we'll implement an ancient puzzle in both languages,
 explore their unique charms, and reflect on whether it's possible to step into the same river twice.
-"
 
 **Jason Orendorff** works on the JavaScript engine that's in Firefox. He's the coauthor of *Programming Rust*.
 
@@ -185,15 +184,15 @@ I got curious and went digging, and to _really_ answer this we need to go back t
 
 ### Jessica Garson
 
-<span class="talk-title">How I solved my NYC parking problem with Python</span>
+<span class="talk-title">How I solved my NYC parking problem with Python!</span>
 
-Since I have a car in New York City, my car is subject to the city’s alternate
-side of the street parking regulations. This means most nights I need to move my
+Since I have a car in New York City, my car is subject to the city’s alternate-side-of-the-street
+parking regulations. This means most nights I need to move my
 car before the early morning street cleaning that happens in my neighborhood. I
 had developed a nightly routine around moving my car before I go to bed. I am
-sometimes a bit too good at this and I often move my car on days I don’t need to.
-Since alternate side of the street parking is often canceled on days where there
-are holidays, or bad weather, there is a Twitter handle @NYCASP, which posts daily
+sometimes a bit too good at this, and I often move my car on days I don’t need to.
+Since alternate-side-of-the-street parking is often canceled on holidays or days where there
+is bad weather, there is a Twitter account, @NYCASP, which posts daily
 and whenever there is an emergency situation. I used Python, Twilio and the Twitter
 API to solve this problem for myself so I get a text message whenever I don’t need
 to move my car.
@@ -254,12 +253,12 @@ outdoors, and time to be creative in her life.
 
 <span class="talk-title">You can weave software into hardware! And then fly to the moon!!</span>
 
-In the 1960s when astronauts flew to the moon, they used cutting edge technology:
+In the 1960s when astronauts flew to the moon, they used cutting-edge technology:
 read-only memory that highly trained women wove together from hair-thin wires and
 iron cores. These hardcoded programs, called core rope memory, sat at the intersection
-of hardware and software, digital and analog. It was so resilient it survived when Apollo
+of hardware and software, digital and analog. It was so resilient, it survived when Apollo
 12 was struck mid-air by lightning and rebooted flawlessly. Come learn about how this hard
-software was made, who created it and how it got humankind to the moon!
+software was made, who created it, and how it got humankind to the moon!
 
 **Katie Broida** is a writer of software and a maker of handicrafts, especially
 textile ones. She loves the intersection of art, jokes and programming and collaborating
@@ -277,18 +276,18 @@ pre-trained models on 70k faces from Flickr! These 9000 dimensions represent
 everything from facial pose to hair styles to background to skin tone and more.
 We can try to find encodings of several drag queens, in drag and out of drag,
 and use those differences to interpolate our own faces. This is available
-online as well, with your webcam, at https://<primary-author>.com/drag-makeover
+online as well, with your webcam, at <https://<primary-author>.com/drag-makeover>.
 
 Modeling drag queen faces was much more computationally expensive than modeling
 passport photos, though it worked, and there are many points of exerting leverage
 on AI as a whole to make it more queer friendly. A collaborative repository of
-leverage points is available at https://<primary-author>.com/queering-ai
+leverage points is available at <https://<primary-author>.com/queering-ai>.
 
 **Lee Butterman** enjoys compute-intensive projects in the arts and humanities.
 He built the first text-to-speech engine for Latin poetry at poetaexmachina.net,
-he built Latin language models to power a reading environment for Latin poetry
-, and he has been exploring statistically-powered visualizations and art at
-leebutterman.com . He lives in Oakland, California.
+he built Latin language models to power a reading environment for Latin poetry,
+and he has been exploring statistically-powered visualizations and art at
+leebutterman.com. He lives in Oakland, California.
 
 ---
 
@@ -296,22 +295,21 @@ leebutterman.com . He lives in Oakland, California.
 
 <span class="talk-title">Logs, Keys, and Gossip, Oh My! Tiny networks, hypercores, sneakernet, and how to stay online after the apocalypse.</span>
 
-It's easy to take pervasive broadband for granted. Sometimes, even in our
-bandwidth-saturated modern times. Even today, we may end up in a strange foreign
+It's easy to take pervasive broadband for granted. Even in our
+bandwidth-saturated modern times, we may end up in a strange foreign
 land (or that weird corner of the apartment with no WiFi or 4G signal) and have
 to find ways to share information without luxuries like DNS, TCP, or any trusted
 central authentication and identity providers.
 
-In any real infrastructure collapse this would graduate from temporary annoyance to fact of life.
-
-Thankfully, intrepid experimenters from already deploying serbices in places like the New Zealand
-outback, ""smart farms"", and outer space have got you covered.
+In any real infrastructure collapse, this would graduate from temporary annoyance to fact of life.
+Thankfully, intrepid experimenters already deploying services in places like the New Zealand
+outback, "smart farms", and outer space have got you covered.
 
 Some of these tools look like social networks, some create weird little (or big!) wide-area mesh
-networks, and a few are familiar yet strangely-useful in the nightmare scenario of having no
-commercially-supported, authoritative ""network"" to connect to.
+networks, and a few are familiar yet strangely useful in the nightmare scenario of having no
+commercially-supported, authoritative "network" to connect to.
 
-Let's poke at some of the work going on, talk about reals gaps that exist, and see if it's
+Let's poke at some of the work going on, talk about real gaps that exist, and see if it's
 worth homesteading on the rough-and-tumble frontier of alternative network tech.
 
 **Lennon** is a software developer, entrepreneur, and domestic busybody living
@@ -322,9 +320,9 @@ payment infrastructure, and even _truly_ essential services like digital comic b
 
 ### Lito Nicolai
 
-<span class="talk-title">About Gameboys!</span>
+<span class="talk-title">*ba-ding!*</span>
 
-This is a talk about what happens when you turn on a Nintendo GameBoy, see the
+This is a talk about what happens when you turn on a Nintendo Game Boy, see the
 logo scroll down the screen, and hear the *ba-ding!* sound. It's about why it
 happens, and how we know what happens. It involves a clever and litigious company,
 trademark law, a microscope, nitric acid, and a very dedicated materials science student.
@@ -336,7 +334,7 @@ bones, at last count.
 
 ### Maria Mishurenko
 
-<span class="talk-title">It’s alive, but not for long!! I generated thousand of 3D characters for my game only to retire most of them.</span>
+<span class="talk-title">It’s alive, but not for long!! I generated thousands of 3D characters for my game, only to retire most of them.</span>
 
 My virtual reality hair-cutting game Bizarre Barber started as a graduate thesis,
 so I couldn’t afford to hire professional 3D modelers and riggers to help out with
@@ -347,7 +345,7 @@ With the help of Houdini, Vex and Python, we set up a generator to make a variet
 cute birds and mutants with bold hairstyles and automatically export them to the game
 engine for further processing.
 
-Sounds awesome? Well, little did I know about human biases that started to emerge when
+Sound awesome? Well, little did I know about human biases that would start to emerge when
 an artist turns into a curator and has to make tough decisions...
 
 **Maria Mishurenko** likes to deal with unexplored. She is a virtual reality developer
@@ -360,15 +358,15 @@ design studio Synesthetic Echo.
 
 <span class="talk-title">Delete all code! 100% testing coverage, the lazy way!</span>
 
-What would you do when your year-end bonus is directly related to the testing
+What do you do when your year-end bonus is directly related to the testing
 coverage of your project? Writing more tests, although expected, sounded pretty
 boring. Instead of that, I focused on writing a (totally useless) tool that
 deletes all untested branches on your code, therefore giving 100% coverage
 to your project, and not affecting its (tested) functionality!
 
 In this talk, we'll learn how to write code that uses AST manipulation to modify
-other pieces of code, and the problems of implementing this in Python. Also
-, we'll discuss how an initially useless side project turned out to be not so useless.
+other pieces of code, and the problems of implementing this in Python. Also,
+we'll discuss how an initially useless side project turned out to be not so useless.
 
 **Matías** is an argentinian Python developer and bug bounty hunter. He is afraid
 of leaving leaving his terminal and switching to graphical user interfaces.
@@ -381,9 +379,9 @@ complain a lot about it.
 
 <span class="talk-title">How To Host A Podcast For 25 Cents A Month?</span>
 
-Want to host a podcast, but didn’t know where to start? I have answers!! Last year I launched From The Source, where I interview unsung people in tech with amazing stories. Hosting involves 3 major components; an XML file with episode details, mp3 storage, and metrics on your listeners. In this talk, I’ll go over all the AWS tools and Python scripts I used so I could own my data and not incur hefty hosting fees. 
+Want to host a podcast, but don't know where to start? I have answers!! Last year I launched From The Source, where I interview unsung people in tech with amazing stories. Hosting involves three major components: an XML file with episode details, mp3 storage, and metrics on your listeners. In this talk, I’ll go over all the AWS tools and Python scripts I used so I could own my data and not incur hefty hosting fees. 
 
-During this talk I will be creating a fresh podcast from scratch, with only a few pre-prepared items like any good cooking show. Together we’ll upload the MP3 file to S3 and then create an XML file and upload that as well. You can then pull the feed onto your phone using any podcast app and download the episode. After we download the episode, we can parse the S3 logs using Athena to see who has been listening. And finally, I’ll show you a bonus script that helps with the worst part of hosting a podcast, editing.
+During this talk, I will be creating a fresh podcast from scratch, with only a few pre-prepared items like any good cooking show. Together we’ll upload the MP3 file to S3 and then create an XML file and upload that as well. You can then pull the feed onto your phone using any podcast app and download the episode. After we download the episode, we can parse the S3 logs using Athena to see who has been listening. And finally, I’ll show you a bonus script that helps with the worst part of hosting a podcast: editing.
 
 At the end of the talk, all you’ll need to worry about is which story you want to tell on your own podcast.
 
@@ -395,7 +393,7 @@ At the end of the talk, all you’ll need to worry about is which story you want
 
 <span class="talk-title">Get Hooked On Neural Net Inspection! That was a pun!</span>
 
-Sometimes you want to find out some information about a neural net in pytorch while it runs. Like what if you wanted to do some math of your own on the math that happens inside the network? You can do that with hooks! Hooks can go on each module of a neural network to spy on the blackbox and whisper its secrets to you. No neural net will keep its secrets hidden from your perceptive functions.
+Sometimes you want to find out some information about a neural net in PyTorch while it runs. Like what if you wanted to do some math of your own on the math that happens inside the network? You can do that with hooks! Hooks can go on each module of a neural network to spy on the black box and whisper its secrets to you. No neural net will keep its secrets hidden from your perceptive functions.
 
 **Naomi** is a PhD student in natural language processing and machine learning in SCOTLAND. They do roller derby under the name Gaussian Retribution and they dictate all their code because typing really stinks for them.
 
@@ -405,7 +403,7 @@ Sometimes you want to find out some information about a neural net in pytorch wh
 
 <span class="talk-title">Writing Programs! That Write Other Programs!!</span>
 
-Why write programs when you can write a program to write programs for you? And that program writes programs that are faster than the program you'd write by hand. And that program's programs are actually, you know, correct. Wow!
+Why write programs when you can write a program to write programs for you? And that program writes programs that are faster than the programs you'd write by hand. And that program's programs are actually, you know, correct. Wow!
 
 Yep, it's time to synthesize. But this ain't Moog, this is *program synthesis*. What is that, and how can it upgrade our optimizers into *super*-optimizers? We'll find out!!
 
@@ -415,10 +413,11 @@ Yep, it's time to synthesize. But this ain't Moog, this is *program synthesis*. 
 
 ### Phil Warren
 
-<span class="talk-title">Beyond the Black Rainbow:  Why You Can’t Photo Infrared Rainbows, and Using Booleans to Do It Anyway!</span>
+<span class="talk-title">Beyond the Black Rainbow:  Why You Can’t Photograph Infrared Rainbows, and Using Booleans to Do It Anyway!</span>
 
-Imagine a rainbow- why are there so many talks about rainbows?  And what’s on the other side? Rainbows are visions, BUT NOT ILLUSIONS, AND RAINBOWS HAVE SOMETHING TO HIDE!
-Frustratingly, infrared photographers find that they can never photograph the invisible extra stripes beyond red in a rainbow.  Instead, they’ll only see a single monochromatic band!  We will explore why, and dive into the boolean solution to make a three channel model that reveals a full color unseen world!  Then, we’ll look at pictures of a world entirely in a spectrum we can’t see!
+Why are there so many talks about rainbows?  And what’s on the other side? Rainbows are visions, but *not* illusions, and rainbows have something to hide!
+
+Frustratingly, infrared photographers find that they can never photograph the invisible extra stripes beyond red in a rainbow.  Instead, they’ll only see a single monochromatic band!  We will explore why, and dive into the boolean solution to make a three-channel model that reveals a full -olor unseen world!  Then, we’ll look at pictures of a world entirely in a spectrum we can’t see!
 
 **Phil Warren** works in R&D in image technology, and enjoys adventures, eating things, and meeting people.  He wants to explore and see everything, and discover new ways to do so.
 
@@ -430,7 +429,7 @@ Frustratingly, infrared photographers find that they can never photograph the in
 
 This is a dance inspired by broadcast audio through RSS, technology obsolescence, Git version controls, and 3-2-1 backups. Sounds recorded from earlier talks will be regenerated to create auditory memories of early digital networking and are made tangible through isolated limbed branches that build to a feeling of potential completion. It soon breaks down as segments are gradually destroyed due to algorithmically-controlled centralized over-saturation. This is an exploration of existing digital archiving techniques that are missing components to recreate the full computational environment. 
 
-LinkRot is a dance that serves to emulate the physical euphoria that internet content creation permits to the digital decay that comes with loss (or is there even a feeling of loss?).
+linkRot is a dance that serves to emulate the physical euphoria that internet content creation permits to the digital decay that comes with loss (or is there even a feeling of loss?).
 
 **Sarah Nguyen** is a a dancer and a librarian-archivist in training. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Offline, she can be found riding a Cannondale mtb or eating plants.
 
@@ -442,7 +441,7 @@ LinkRot is a dance that serves to emulate the physical euphoria that internet co
 
 Video games can be cool, right? You know what's cooler? A hex editor!
 
-…no? Well, maybe if you attend this talk you would think so! For a while I've made a hobby of figuring out how games store their data, and converting it to and from other formats. I'm far from the only one to do that, but I want to share what I have learned so that you don't have to start from scratch. Things like how a hex editor works, what floating point looks like, file structures and layout, and more general reversing strategies.
+For a while I've made a hobby of figuring out how games store their data, and converting it to and from other formats. I'm far from the only one to do that, but I want to share what I have learned so that you don't have to start from scratch: things like how a hex editor works, what floating point looks like, file structures and layout, and more general reversing strategies.
 
 **Spencer**'s a programmer who likes graphics, reverse engineering, games, and the color purple.
 
@@ -450,17 +449,21 @@ Video games can be cool, right? You know what's cooler? A hex editor!
 
 ### Tiffany Tseng
 
-<span class="talk-title"> Packages, but in 3D! </span>
+<span class="talk-title">Packages, but in 3D!</span>
 
 Ever received a beautiful geometric gift box (from a Japanese pastry shop, for example) and wondered how it was made?  It turns out there’s a whole world of packaging design techniques and patterns!  Unfortunately, many of these patterns exist only in print via packaging design books.  These diagrams need to be translated to digital formats before they can be easily cut on a machine and assembled by hand!
 
-In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-tracer.glitch.me/)  to translate photos of packaging diagrams to digital SVGs that can be directly sent to any Computer Numeric Controlled (CNC) desktop cutter.  I’ll introduce some useful Javascript SVG libraries and show some pretty boxes that I created with the tool!  By the end of the talk, you’ll learn about how SVGs are an awesome medium for bridging art, programming, and fabrication.
+In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-tracer.glitch.me/)  to translate photos of packaging diagrams to digital SVGs that can be directly sent to any Computer Numeric Controlled (CNC) desktop cutter.  I’ll introduce some useful JavaScript SVG libraries and show some pretty boxes that I created with the tool!  By the end of the talk, you’ll learn about how SVGs are an awesome medium for bridging art, programming, and fabrication.
 
 **Tiff** is a designer who creates tools for making. She loves all things at the intersection of art, engineering, and digital fabrication.
 
 ---
 
 ### Tom Verbeure
+
+<span class="talk-title">Cisco Purses Cubed!</span>
+
+Twelve discounted purses, obsolete Cisco hardware found on eBay, one cube. This talk shows how old stuff, destined to end up in the dump, can be upcycled into something entirely new: a story of reverse engineering unknown modems, dismantling hideous purses, LED driving protocols, designing PCBs on the cheap, some mechanical work, and reprogramming it all into a striking showpiece.
 
 After spending his daytime hours working on fun electronics projects, **Tom** goes home for dinner, and then retreats to his garage for some more hours of working on fun electronics projects.
 
@@ -481,12 +484,9 @@ idea that have recently become practically useful!
 
 ### Wesley Aptekar-Cassels
 
-<span class="talk-title">Plotty Bird - Making Modern Games on Retro Pen Plotters!</span>
+<span class="talk-title">Plotty Bird: Making Modern Games on Retro Pen Plotters!</span>
 
-If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter was the way to do it - a device that would take a pen, and physically move it over a piece of paper to produce a diagram. While print
-ers are clearly a better way to print images now, there's still joy in watching a robot scratch out perfect lines on a blank sheet of paper. When I happened across a vintage pen plotter from the mid-80s, I had gr
-eat fun making all sorts of art and pretty pictures. But I wondered - could I do more with this? How can we stretch this medium into something new and surprising? Using it as a output device for playing games see
-med too good an idea to resist.
+If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter was the way to do it -- a device that would take a pen and physically move it over a piece of paper to produce a diagram. While printers are clearly a better way to print images now, there's still joy in watching a robot scratch out perfect lines on a blank sheet of paper. When I happened across a vintage pen plotter from the mid-80s, I had great fun making all sorts of art and pretty pictures. But I wondered -- could I do more with this? How can we stretch this medium into something new and surprising? Using it as an output device for playing games seemed too good an idea to resist.
 
 **Wesley** likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
 
@@ -494,9 +494,9 @@ med too good an idea to resist.
 
 ### Will Hammond
 
-<span class="talk-title">Noise !?? WHAT NOISE !!!?? </span>
+<span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
 
-It's often taken for granted that information can be sent near losslessly. We don't expect songs on Spotify to sound drastically different compared to C.D., we don't expect text to arrive in our web browser jumbled and we don't expect our friends voice to sound like Darth Vader over the phone. However there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper A Mathematical Theory of Communication noise was considered the norm.In this paper Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
+It's often taken for granted that information can be sent near-losslessly. We don't expect songs on Spotify to sound drastically different compared to CD, we don't expect text to arrive in our web browser jumbled, and we don't expect our friend's voice to sound like Darth Vader over the phone. However, there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper "A Mathematical Theory of Communication", noise was considered the norm.  In this paper, Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
 
 **Will** loves reading about noise while talking as little as possible. 
 
