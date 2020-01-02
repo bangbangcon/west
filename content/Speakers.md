@@ -127,24 +127,27 @@ and designing toddler toys with her data scientist wife Jacqueline.
 
 <span class="talk-title">Tweet Mashup! How my pet project went tragically viral!!</span>
 
-I’m a data scientist who likes to do software development for fun, and I had
-always hoped that one of my side projects would get me famous. One project of
-mine was Tweet Mashup, a small website I made in an obscure programming language
-that lets you combine Twitter accounts for funny results. After finally launching
-it, I was shocked when it suddenly had 3000 concurrent viewers. At that point I
-realized I had no idea what I was doing. I soon discovered just how badly my site
-was designed to scale, and I took days off work trying to apply patches. Tweet Mashup
-was being mentioned on news sites and on Twitter accounts with millions of followers,
-and yet more than anything, I felt panic. Eventually I was able to stabilize the site,
-but at that point the internet had moved on. This talk is about the week-long journey
-I had with internet fame and the emotional toll it took. I’ll talk about what components
-of the site ended up being important (and which ones didn’t), plus some of the surprising
-hacks I had to make to keep up.
+I’m a data scientist who likes to do software development for fun, and
+I had always hoped that a side project would get me famous. One
+project of mine was Tweet Mashup, a small website I made in an obscure
+programming language that lets you combine Twitter accounts for funny
+results. After finally launching it, I was soon shocked when it had
+3000 concurrent viewers—at that point I realized I had no idea what I
+was doing.
 
-**Dr. Jacqueline Nolis** is a co-founder of Nolis, LLC, a data science consulting firm.
-She has over a decade of experience using data to help companies including DSW, Union Bank,
-Microsoft, and Airbnb. For fun she and her wife Heather like to use machine learning for
-humor, including training neural networks on pet names and offensive license plates.
+I quickly discovered how badly my site was designed to scale, and I
+took days off work trying to apply patches and fix it. Tweet Mashup
+was being mentioned on news sites and on Twitter accounts with
+millions of followers but all I felt was panic. Eventually I
+stabilized the site, but by then the internet had moved on. This talk
+is about the journey I had with internet fame and then emotional tool
+of struggling to keep the project working.
+
+**Dr. Jacqueline Nolis** is an author of the book Build a Career in
+Data Science and is a co-founder of Nolis, LLC, a data science
+consulting firm. For fun she and her wife Heather like to use machine
+learning for humor, including training neural networks to make
+offensive license plates.
 
 ---
 
