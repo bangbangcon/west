@@ -1,7 +1,6 @@
 ---
 title: "Getting Here"
 date: 2019-10-16T10:52:57-08:00
-draft: true
 menu:
   main:
     title: "Getting Here"
@@ -16,7 +15,7 @@ to March 1. Santa Cruz is a joy of coastal California redwoods, about an
 hour's drive from the bustle of Silicon Valley. We will hold **!!Con
 West** in the [Jack Baskin
 Auditorium](https://www.google.com/maps/place/Jack+Baskin+Auditorium+101/@36.9997031,-122.0630586,17.32z/data=!4m5!3m4!1s0x808e4175229558fb:0x8d521799d868891c!8m2!3d37.000183!4d-122.0623527),
-with registration and continental breakfast starting at 9am each day, and talks ending around 5pm.
+with registration starting at 9am each day, and talks ending around 5pm.
 
 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500"
 id="gmap_canvas"
@@ -78,7 +77,7 @@ know](mailto:west-2020@exclamation.foundation)!)
 
 ---
 
-## Getting from Santa Cruz city to Jack Baskin Auditorium
+## Getting from Santa Cruz to Jack Baskin Auditorium
 
 We are considering having shuttles between Santa Cruz downtown and the
 Jack Baskin Auditorium. Please keep an eye on this page!
