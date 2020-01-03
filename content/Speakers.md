@@ -422,7 +422,7 @@ Why are there so many talks about rainbows?  And what’s on the other side? Rai
 
 Frustratingly, infrared photographers find that they can never photograph the invisible extra stripes beyond red in a rainbow.  Instead, they’ll only see a single monochromatic band!  We will explore why, and dive into the boolean solution to make a three-channel model that reveals a full -olor unseen world!  Then, we’ll look at pictures of a world entirely in a spectrum we can’t see!
 
-**Phil Warren** works in R&D in image technology, and enjoys adventures, eating things, and meeting people.  He wants to explore and see everything, and discover new ways to do so.
+**Phil Warren** works in R&D in image technology, and enjoys adventures, eating things, and meeting people.  He wants to explore and see everything, and discover new ways to do so. His skillset does not include competently wrestling alligators or catching rattlesnakes, but he's tried it anyway, and hopes to try many more esoteric pastimes!
 
 ---
 
