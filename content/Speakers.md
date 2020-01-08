@@ -43,7 +43,7 @@ surveillance and control.
 
 
 ### Aaron Wood
-<img class='speaker-img' src="../images/logo.png" alt="Profile Photo of Aaron Wood" />
+<img class='speaker-img' src="../images/speakers/logo.png" alt="Profile Photo of Aaron Wood" />
 
 
 <span class="talk-title">The Ancient Greeks and Their Restless Cattle: A 2300-Year-Old Soap Opera About Big Integers! </span>
@@ -164,7 +164,7 @@ offensive license plates.
 
 ### Jason Orendorff
 
-<img class='speaker-img' src="../images/logo.png" alt="Profile Photo of Jason Orendorff" />
+<img class='speaker-img' src="../images/speakers/logo.png" alt="Profile Photo of Jason Orendorff" />
 
 <span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
 
@@ -275,7 +275,7 @@ outdoors, and time to be creative in her life.
 
 ### Katie Broida
 
-<img class='speaker-img' src="../images/speakers/katie_broda.jpeg" alt="Profile Photo of Katie Broda" />
+<img class='speaker-img' src="../images/speakers/katie_broida.jpeg" alt="Profile Photo of Katie Broida" />
 
 <span class="talk-title">You can weave software into hardware! And then fly to the moon!!</span>
 
@@ -510,7 +510,7 @@ If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter w
 ---
 
 ### Will Hammond
-<img class='speaker-img' src="../images/logo.png" alt="Profile Photo of Will Hammond"/>
+<img class='speaker-img' src="../images/speakers/logo.png" alt="Profile Photo of Will Hammond"/>
 
 <span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
 
