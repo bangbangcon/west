@@ -43,6 +43,8 @@ surveillance and control.
 
 
 ### Aaron Wood
+<img class='speaker-img' src="../images/logo.png" alt="Profile Photo of Aaron Wood" />
+
 
 <span class="talk-title">The Ancient Greeks and Their Restless Cattle: A 2300-Year-Old Soap Opera About Big Integers! </span>
 
@@ -63,6 +65,8 @@ He is overly excitable about all of those things -- it's a slew of personal prob
 ---
 
 ### Breanne Boland
+<img class='speaker-img' src="../images/speakers/breanne_boland.jpeg" alt="Profile Photo of Breanne Boland" />
+
 
 <span class="talk-title">You can put WHAT in DNS TXT records?!?!</span>
 
@@ -86,6 +90,9 @@ depending on the day).
 
 ### don-E Merson
 
+<img class='speaker-img' src="../images/speakers/don-e_merson.jpeg" alt="Profile Photo of Don-E Merson" />
+
+
 <span class="talk-title">Sonification: You Can See Your Complex Data with Sound!!</span>
 
 Sonification is using sound to map data. While visualization techniques are
@@ -100,6 +107,8 @@ programmer working on a web repository for biological surveys of vegetation.
 ---
 
 ### Heather Nolis
+
+<img class='speaker-img' src="../images/speakers/heather_nolis.jpeg" alt="Profile Photo of Heather Nolis" />
 
 <span class="talk-title">this data was supposed to show how much I love my son but instead I got depression: a breastfeeding story!!!</span>
 
@@ -124,6 +133,8 @@ and designing toddler toys with her data scientist wife Jacqueline.
 ---
 
 ### Jacqueline Nolis
+
+<img class='speaker-img' src="../images/speakers/jacqueline_nolis.jpeg" alt="Profile Photo of Jacqueline Nolis" />
 
 <span class="talk-title">Tweet Mashup! How my pet project went tragically viral!!</span>
 
@@ -153,6 +164,8 @@ offensive license plates.
 
 ### Jason Orendorff
 
+<img class='speaker-img' src="../images/logo.png" alt="Profile Photo of Jason Orendorff" />
+
 <span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
 
 Consider two programming languages, both delightfully strange,
@@ -172,6 +185,8 @@ explore their unique charms, and reflect on whether it's possible to step into t
 
 ### Jeremy Apthorp
 
+<img class='speaker-img' src="../images/speakers/jeremy_apthorp.jpeg" alt="Profile Photo of Jeremy Apthorp" />
+
 <span class="talk-title">Curses!!</span>
 
 Okay, so you've probably called print() and seen some text appear in a terminal.
@@ -186,6 +201,8 @@ I got curious and went digging, and to _really_ answer this we need to go back t
 ---
 
 ### Jessica Garson
+
+<img class='speaker-img' src="../images/speakers/jessica_garson.jpeg" alt="Profile Photo of Jessica Garson" />
 
 <span class="talk-title">How I solved my NYC parking problem with Python!</span>
 
@@ -207,6 +224,8 @@ for the perfect vegan snack.
 ---
 
 ### Jordan Hendricks
+
+<img class='speaker-img' src="../images/speakers/jordan_hendricks.jpeg" alt="Profile Photo of Jordan Hendricks" />
 
 <span class="talk-title">Tex-Mex and malloc(3C): The Problems That Restaurant Hosts and Memory Allocators Have in Common!</span>
 
@@ -236,6 +255,8 @@ too many ingredients to be reasonable.
 
 ### Kathleen Tuite
 
+<img class='speaker-img' src="../images/speakers/kathleen_tuite.jpeg" alt="Profile Photo of Kathleen Tuite" />
+
 <span class="talk-title">The surprising hacks behind my 3D reconstructed wedding cake topper!</span>
 
 There is cool technology for capturing your likeness with a depth camera like a
@@ -254,6 +275,8 @@ outdoors, and time to be creative in her life.
 
 ### Katie Broida
 
+<img class='speaker-img' src="../images/speakers/katie_broda.jpeg" alt="Profile Photo of Katie Broda" />
+
 <span class="talk-title">You can weave software into hardware! And then fly to the moon!!</span>
 
 In the 1960s when astronauts flew to the moon, they used cutting-edge technology:
@@ -270,6 +293,8 @@ with people on all of those topics.
 ---
 
 ### Lee Butterman
+
+<img class='speaker-img' src="../images/speakers/lee_butterman.jpeg" alt="Profile Photo of Lee Butterman" />
 
 <span class="talk-title">Drag Makeovers, via AI!</span>
 
@@ -294,34 +319,9 @@ leebutterman.com. He lives in Oakland, California.
 
 ---
 
-### Lennon Day-Reynolds
-
-<span class="talk-title">Logs, Keys, and Gossip, Oh My! Tiny networks, hypercores, sneakernet, and how to stay online after the apocalypse.</span>
-
-It's easy to take pervasive broadband for granted. Even in our
-bandwidth-saturated modern times, we may end up in a strange foreign
-land (or that weird corner of the apartment with no WiFi or 4G signal) and have
-to find ways to share information without luxuries like DNS, TCP, or any trusted
-central authentication and identity providers.
-
-In any real infrastructure collapse, this would graduate from temporary annoyance to fact of life.
-Thankfully, intrepid experimenters already deploying services in places like the New Zealand
-outback, "smart farms", and outer space have got you covered.
-
-Some of these tools look like social networks, some create weird little (or big!) wide-area mesh
-networks, and a few are familiar yet strangely useful in the nightmare scenario of having no
-commercially-supported, authoritative "network" to connect to.
-
-Let's poke at some of the work going on, talk about real gaps that exist, and see if it's
-worth homesteading on the rough-and-tumble frontier of alternative network tech.
-
-**Lennon** is a software developer, entrepreneur, and domestic busybody living
-in Portland, OR. He's worked on the software that powers modern social networks,
-payment infrastructure, and even _truly_ essential services like digital comic book distribution.
-
----
-
 ### Lito Nicolai
+
+<img class='speaker-img' src="../images/speakers/lito_nicolai.jpeg" alt="Profile Photo of Lito Nicolai" />
 
 <span class="talk-title">*ba-ding!*</span>
 
@@ -336,6 +336,9 @@ bones, at last count.
 ---
 
 ### Maria Mishurenko
+
+<img class='speaker-img' src="../images/speakers/maria_mishurenko.jpeg" alt="Profile Photo of Maria Mishurenko" />
+
 
 <span class="talk-title">It’s alive, but not for long!! I generated thousands of 3D characters for my game, only to retire most of them.</span>
 
@@ -358,6 +361,7 @@ design studio Synesthetic Echo.
 ---
 
 ### Matías Lang
+<img class='speaker-img' src="../images/speakers/matias_lang.jpeg" alt="Profile Photo of Matias Lang" />
 
 <span class="talk-title">Delete all code! 100% testing coverage, the lazy way!</span>
 
@@ -379,6 +383,7 @@ complain a lot about it.
 ---
 
 ### Michelle Brenner
+<img class='speaker-img' src="../images/speakers/michelle_brenner.jpeg" alt="Profile Photo of Michelle Brenner" />
 
 <span class="talk-title">How To Host A Podcast For 25 Cents A Month?</span>
 
@@ -393,6 +398,7 @@ At the end of the talk, all you’ll need to worry about is which story you want
 ---
 
 ### Naomi Saphra
+<img class='speaker-img' src="../images/speakers/naomi_saphra.jpeg" alt="Profile Photo of Naomi Saphra" />
 
 <span class="talk-title">Get Hooked On Neural Net Inspection! That was a pun!</span>
 
@@ -403,6 +409,7 @@ Sometimes you want to find out some information about a neural net in PyTorch wh
 ---
 
 ### Nick Fitzgerald
+<img class='speaker-img' src="../images/speakers/nick_fitzgerald.jpeg" alt="Profile Photo of Nick Fitzgerald" />
 
 <span class="talk-title">Writing Programs! That Write Other Programs!!</span>
 
@@ -415,6 +422,7 @@ Yep, it's time to synthesize. But this ain't Moog, this is *program synthesis*. 
 ---
 
 ### Phil Warren
+<img class='speaker-img' src="../images/speakers/phil_warren.jpeg" alt="Profile Photo of Phil Warren" />
 
 <span class="talk-title">Beyond the Black Rainbow:  Why You Can’t Photograph Infrared Rainbows, and Using Booleans to Do It Anyway!</span>
 
@@ -427,6 +435,7 @@ Frustratingly, infrared photographers find that they can never photograph the in
 ---
 
 ### Sarah Nyugen
+<img class='speaker-img' src="../images/speakers/sarah_nyugen.jpeg" alt="Profile Photo of Sarah Nyugen" />
 
 <span class="talk-title">linkRot!! Dancing the patterns of digital decay</span>
 
@@ -439,6 +448,7 @@ linkRot is a dance that serves to emulate the physical euphoria that internet co
 ---
 
 ### Spencer Alves
+<img class='speaker-img' src="../images/speakers/spencer_alves.jpeg" alt="Profile Photo of Spencer Alves" />
 
 <span class="talk-title">Reverse engineering game formats for fun and profit! (well, mostly just fun)</span>
 
@@ -451,6 +461,7 @@ For a while I've made a hobby of figuring out how games store their data, and co
 ---
 
 ### Tiffany Tseng
+<img class='speaker-img' src="../images/speakers/tiffany_tseng.jpeg" alt="Profile Photo of Tiffany Tseng" />
 
 <span class="talk-title">Packages, but in 3D!</span>
 
@@ -463,6 +474,7 @@ In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-
 ---
 
 ### Tom Verbeure
+<img class='speaker-img' src="../images/speakers/tom_verbeure.jpeg" alt="Profile Photo of Tom Verbeure" />
 
 <span class="talk-title">Cisco Purses Cubed!</span>
 
@@ -473,6 +485,7 @@ After spending his daytime hours working on fun electronics projects, **Tom** go
 ---
 
 ### Vaibhav Sagar
+<img class='speaker-img' src="../images/speakers/vaibhav_sagar.jpeg" alt="Profile Photo of Vaibhav Sagar" />
 
 <span class="talk-title">Compilers for nothing, executables for free!</span>
 
@@ -486,6 +499,7 @@ idea that have recently become practically useful!
 ---
 
 ### Wesley Aptekar-Cassels
+<img class='speaker-img' src="../images/speakers/wesley_a_c.jpeg" alt="Profile Photo of Wesley Aptekar-Cassels" />
 
 <span class="talk-title">Plotty Bird: Making Modern Games on Retro Pen Plotters!</span>
 
@@ -496,6 +510,7 @@ If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter w
 ---
 
 ### Will Hammond
+<img class='speaker-img' src="../images/logo.png" alt="Profile Photo of Will Hammond"/>
 
 <span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
 
