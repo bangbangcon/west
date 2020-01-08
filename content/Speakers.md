@@ -43,7 +43,7 @@ surveillance and control.
 
 
 ### Aaron Wood
-<img class='speaker-img' src="../images/speakers/logo.png" alt="Profile Photo of Aaron Wood" />
+<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Aaron Wood" />
 
 
 <span class="talk-title">The Ancient Greeks and Their Restless Cattle: A 2300-Year-Old Soap Opera About Big Integers! </span>
@@ -52,11 +52,11 @@ Previously on The Ancient and the Restless:  Archimedes' new BigNumeral class
 is the talk of the town, but his biggest rival is out to destroy and replace it.
 Not to be outdone, Archimedes poses a cattle-counting problem to cement his
 place at the top.  As planned, the challenge proves insurmountable and interest
-in the problem eventually dies. 
+in the problem eventually dies.
 
 ....Or does it??  In true soap opera fashion, the long-forgotten problem has
 reappeared with a vengeance.  Will two millennia of maths and the advent of
-computers be enough to answer Archimedes' challenge to find the number of Cattle 
+computers be enough to answer Archimedes' challenge to find the number of Cattle
 Under The Sun?!
 
 **Aaron** is a mathematician turned programmer who loves soap operas and shiro wot.
@@ -123,7 +123,7 @@ detach from the rigor of my data collection exercise which surely would prove to
 son that I love him when he's older... right?
 
 During this presentation I will use the data I collected and the analysis surrounding it
-to tell one true story of breastfeeding, data collection, and postpartum mood disorders. 
+to tell one true story of breastfeeding, data collection, and postpartum mood disorders.
 Sometimes, having more data isn't the best (and sometimes it is okay to give up).
 
 **Heather Nolis** is a machine learning engineer at T-Mobile leading the AI team but
@@ -164,7 +164,7 @@ offensive license plates.
 
 ### Jason Orendorff
 
-<img class='speaker-img' src="../images/speakers/logo.png" alt="Profile Photo of Jason Orendorff" />
+<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Jason Orendorff" />
 
 <span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
 
@@ -174,7 +174,7 @@ languages enable thinking about time and data?
 
 Inform 7 is an unusual programming language that looks a bit like English prose. Alloy
 is a model specification language that looks kind of like advanced math. They are
-languages from two different worlds, but both are about objects and their 
+languages from two different worlds, but both are about objects and their
 relationships. Both come with interesting visualization tools. And both have some
 issues dealing with change. In this talk, we'll implement an ancient puzzle in both languages,
 explore their unique charms, and reflect on whether it's possible to step into the same river twice.
@@ -387,7 +387,7 @@ complain a lot about it.
 
 <span class="talk-title">How To Host A Podcast For 25 Cents A Month?</span>
 
-Want to host a podcast, but don't know where to start? I have answers!! Last year I launched From The Source, where I interview unsung people in tech with amazing stories. Hosting involves three major components: an XML file with episode details, mp3 storage, and metrics on your listeners. In this talk, I’ll go over all the AWS tools and Python scripts I used so I could own my data and not incur hefty hosting fees. 
+Want to host a podcast, but don't know where to start? I have answers!! Last year I launched From The Source, where I interview unsung people in tech with amazing stories. Hosting involves three major components: an XML file with episode details, mp3 storage, and metrics on your listeners. In this talk, I’ll go over all the AWS tools and Python scripts I used so I could own my data and not incur hefty hosting fees.
 
 During this talk, I will be creating a fresh podcast from scratch, with only a few pre-prepared items like any good cooking show. Together we’ll upload the MP3 file to S3 and then create an XML file and upload that as well. You can then pull the feed onto your phone using any podcast app and download the episode. After we download the episode, we can parse the S3 logs using Athena to see who has been listening. And finally, I’ll show you a bonus script that helps with the worst part of hosting a podcast: editing.
 
@@ -439,7 +439,7 @@ Frustratingly, infrared photographers find that they can never photograph the in
 
 <span class="talk-title">linkRot!! Dancing the patterns of digital decay</span>
 
-This is a dance inspired by broadcast audio through RSS, technology obsolescence, Git version controls, and 3-2-1 backups. Sounds recorded from earlier talks will be regenerated to create auditory memories of early digital networking and are made tangible through isolated limbed branches that build to a feeling of potential completion. It soon breaks down as segments are gradually destroyed due to algorithmically-controlled centralized over-saturation. This is an exploration of existing digital archiving techniques that are missing components to recreate the full computational environment. 
+This is a dance inspired by broadcast audio through RSS, technology obsolescence, Git version controls, and 3-2-1 backups. Sounds recorded from earlier talks will be regenerated to create auditory memories of early digital networking and are made tangible through isolated limbed branches that build to a feeling of potential completion. It soon breaks down as segments are gradually destroyed due to algorithmically-controlled centralized over-saturation. This is an exploration of existing digital archiving techniques that are missing components to recreate the full computational environment.
 
 linkRot is a dance that serves to emulate the physical euphoria that internet content creation permits to the digital decay that comes with loss (or is there even a feeling of loss?).
 
@@ -510,13 +510,13 @@ If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter w
 ---
 
 ### Will Hammond
-<img class='speaker-img' src="../images/speakers/logo.png" alt="Profile Photo of Will Hammond"/>
+<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Will Hammond"/>
 
 <span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
 
 It's often taken for granted that information can be sent near-losslessly. We don't expect songs on Spotify to sound drastically different compared to CD, we don't expect text to arrive in our web browser jumbled, and we don't expect our friend's voice to sound like Darth Vader over the phone. However, there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper "A Mathematical Theory of Communication", noise was considered the norm.  In this paper, Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
 
-**Will** loves reading about noise while talking as little as possible. 
+**Will** loves reading about noise while talking as little as possible.
 
 ---
 
