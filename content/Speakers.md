@@ -434,7 +434,7 @@ Frustratingly, infrared photographers find that they can never photograph the in
 
 ---
 
-### Sarah Nyugen
+### Sarah Nguyen
 <img class='speaker-img' src="../images/speakers/sarah_nyugen.jpeg" alt="Profile Photo of Sarah Nyugen" />
 
 <span class="talk-title">linkRot!! Dancing the patterns of digital decay</span>
