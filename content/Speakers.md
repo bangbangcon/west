@@ -88,7 +88,7 @@ too many ingredients to be reasonable.
 
 ### Jason Orendorff
 
-<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Jason Orendorff" />
+<img class='speaker-img' src="../images/speakers/jason_orendorff.jpeg" alt="Profile Photo of Jason Orendorff" />
 
 <span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
 
@@ -500,7 +500,7 @@ At the end of the talk, all you’ll need to worry about is which story you want
 ---
 
 ### Aaron Wood
-<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Aaron Wood" />
+<img class='speaker-img' src="../images/speakers/aaron_wood.jpeg" alt="Profile Photo of Aaron Wood" />
 
 
 <span class="talk-title">The Ancient Greeks and Their Restless Cattle: A 2300-Year-Old Soap Opera About Big Integers! </span>
