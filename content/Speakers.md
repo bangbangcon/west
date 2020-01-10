@@ -41,26 +41,127 @@ surveillance and control.
 
 ## Lightning Talks
 
+(Speakers are sorted by `sha256sum` of their name, of course!)
 
-### Aaron Wood
-<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Aaron Wood" />
+### Phil Warren
+<img class='speaker-img' src="../images/speakers/phil_warren.jpeg" alt="Profile Photo of Phil Warren" />
 
+<span class="talk-title">Beyond the Black Rainbow:  Why You Can’t Photograph Infrared Rainbows, and Using Booleans to Do It Anyway!</span>
 
-<span class="talk-title">The Ancient Greeks and Their Restless Cattle: A 2300-Year-Old Soap Opera About Big Integers! </span>
+Why are there so many talks about rainbows?  And what’s on the other side? Rainbows are visions, but *not* illusions, and rainbows have something to hide!
 
-Previously on The Ancient and the Restless:  Archimedes' new BigNumeral class
-is the talk of the town, but his biggest rival is out to destroy and replace it.
-Not to be outdone, Archimedes poses a cattle-counting problem to cement his
-place at the top.  As planned, the challenge proves insurmountable and interest
-in the problem eventually dies.
+Frustratingly, infrared photographers find that they can never photograph the invisible extra stripes beyond red in a rainbow.  Instead, they’ll only see a single monochromatic band!  We will explore why, and dive into the boolean solution to make a three-channel model that reveals a full -olor unseen world!  Then, we’ll look at pictures of a world entirely in a spectrum we can’t see!
 
-....Or does it??  In true soap opera fashion, the long-forgotten problem has
-reappeared with a vengeance.  Will two millennia of maths and the advent of
-computers be enough to answer Archimedes' challenge to find the number of Cattle
-Under The Sun?!
+**Phil Warren** works in R&D in image technology, and enjoys adventures, eating things, and meeting people.  He wants to explore and see everything, and discover new ways to do so. His skillset does not include competently wrestling alligators or catching rattlesnakes, but he's tried it anyway, and hopes to try many more esoteric pastimes!
 
-**Aaron** is a mathematician turned programmer who loves soap operas and shiro wot.
-He is overly excitable about all of those things -- it's a slew of personal problems.
+---
+
+### Jordan Hendricks
+
+<img class='speaker-img' src="../images/speakers/jordan_hendricks.jpeg" alt="Profile Photo of Jordan Hendricks" />
+
+<span class="talk-title">Tex-Mex and malloc(3C): The Problems That Restaurant Hosts and Memory Allocators Have in Common!</span>
+
+Before my life as a systems engineer, I worked for years as a hostess at an
+extremely popular Oklahoman Tex-Mex restaurant, whose wait list would routinely
+top 20-40 parties in length and 1-2 hour wait times. The host staff had a challenging
+task: seat waiting parties efficiently as other customers left, while keeping hangry
+customers happy and efficiency-obsessed managers off of our backs.  Adding to our worries,
+the restaurant management would never turn a party away based on size, creating puzzles
+for the hosts: Where does one seat large parties -- for instance, a group of 10 -- when
+the largest table in the restaurant only holds 4 people? A clue: This problem looks a lot
+like the problems that memory allocators like malloc(3C) solve!
+
+In this talk, I will explore some parallels between my job as a hostess, where I decided
+how to seat people given a set of restaurant tables and a wait list, and implementing
+a memory allocator, which chooses how to give out pieces of a larger region of memory to
+requesting programs. We will explore questions like: What does fragmentation look like in
+a restaurant? What are heuristics we can use to estimate when a table will be free? Do all
+relevant stakeholders -- customers, managers, host staff, servers -- equally benefit
+from the same allocation strategies?
+
+**Jordan** is a systems software engineer who loves... Tex-Mex. You also might find her running
+(preferably close to large bodies of water), writing, or cooking elaborate meals with way
+too many ingredients to be reasonable.
+
+---
+
+### Jason Orendorff
+
+<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Jason Orendorff" />
+
+<span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
+
+Consider two programming languages, both delightfully strange,
+but for good reasons. What if comparing them sheds light on how different programming
+languages enable thinking about time and data?
+
+Inform 7 is an unusual programming language that looks a bit like English prose. Alloy
+is a model specification language that looks kind of like advanced math. They are
+languages from two different worlds, but both are about objects and their
+relationships. Both come with interesting visualization tools. And both have some
+issues dealing with change. In this talk, we'll implement an ancient puzzle in both languages,
+explore their unique charms, and reflect on whether it's possible to step into the same river twice.
+
+**Jason Orendorff** works on the JavaScript engine that's in Firefox. He's the coauthor of *Programming Rust*.
+
+---
+
+### Sarah Nguyen
+<img class='speaker-img' src="../images/speakers/sarah_nyugen.jpeg" alt="Profile Photo of Sarah Nyugen" />
+
+<span class="talk-title">linkRot!! Dancing the patterns of digital decay</span>
+
+This is a dance inspired by broadcast audio through RSS, technology obsolescence, Git version controls, and 3-2-1 backups. Sounds recorded from earlier talks will be regenerated to create auditory memories of early digital networking and are made tangible through isolated limbed branches that build to a feeling of potential completion. It soon breaks down as segments are gradually destroyed due to algorithmically-controlled centralized over-saturation. This is an exploration of existing digital archiving techniques that are missing components to recreate the full computational environment.
+
+linkRot is a dance that serves to emulate the physical euphoria that internet content creation permits to the digital decay that comes with loss (or is there even a feeling of loss?).
+
+**Sarah Nguyen** is a a dancer and a librarian-archivist in training. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Offline, she can be found riding a Cannondale mtb or eating plants.
+
+---
+
+### Tiffany Tseng
+<img class='speaker-img' src="../images/speakers/tiffany_tseng.jpeg" alt="Profile Photo of Tiffany Tseng" />
+
+<span class="talk-title">Packages, but in 3D!</span>
+
+Ever received a beautiful geometric gift box (from a Japanese pastry shop, for example) and wondered how it was made?  It turns out there’s a whole world of packaging design techniques and patterns!  Unfortunately, many of these patterns exist only in print via packaging design books.  These diagrams need to be translated to digital formats before they can be easily cut on a machine and assembled by hand!
+
+In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-tracer.glitch.me/)  to translate photos of packaging diagrams to digital SVGs that can be directly sent to any Computer Numeric Controlled (CNC) desktop cutter.  I’ll introduce some useful JavaScript SVG libraries and show some pretty boxes that I created with the tool!  By the end of the talk, you’ll learn about how SVGs are an awesome medium for bridging art, programming, and fabrication.
+
+**Tiff** is a designer who creates tools for making. She loves all things at the intersection of art, engineering, and digital fabrication.
+
+---
+
+### Katie Broida
+
+<img class='speaker-img' src="../images/speakers/katie_broida.jpeg" alt="Profile Photo of Katie Broida" />
+
+<span class="talk-title">You can weave software into hardware! And then fly to the moon!!</span>
+
+In the 1960s when astronauts flew to the moon, they used cutting-edge technology:
+read-only memory that highly trained women wove together from hair-thin wires and
+iron cores. These hardcoded programs, called core rope memory, sat at the intersection
+of hardware and software, digital and analog. It was so resilient, it survived when Apollo
+12 was struck mid-air by lightning and rebooted flawlessly. Come learn about how this hard
+software was made, who created it, and how it got humankind to the moon!
+
+**Katie Broida** is a writer of software and a maker of handicrafts, especially
+textile ones. She loves the intersection of art, jokes and programming and collaborating
+with people on all of those topics.
+
+---
+
+### Nick Fitzgerald
+<img class='speaker-img' src="../images/speakers/nick_fitzgerald.jpeg" alt="Profile Photo of Nick Fitzgerald" />
+
+<span class="talk-title">Writing Programs! That Write Other Programs!!</span>
+
+Why write programs when you can write a program to write programs for you? And that program writes programs that are faster than the programs you'd write by hand. And that program's programs are actually, you know, correct. Wow!
+
+Yep, it's time to synthesize. But this ain't Moog, this is *program synthesis*. What is that, and how can it upgrade our optimizers into *super*-optimizers? We'll find out!!
+
+**Nick**'s dream job is working in the Bon Appetit test kitchen, but he does computer-y stuff in the meantime. When he isn't computing, you can find him on his bike, lacto-fermenting chilies, or making art with his pen plotter.
 
 ---
 
@@ -85,6 +186,36 @@ censorship!).
 **Breanne** is an SRE, a product security engineer, and a writer. She
 loves travel, cats, and making stuff (though the order of importance changes,
 depending on the day).
+
+---
+
+### Jacqueline Nolis
+
+<img class='speaker-img' src="../images/speakers/jacqueline_nolis.jpeg" alt="Profile Photo of Jacqueline Nolis" />
+
+<span class="talk-title">Tweet Mashup! How my pet project went tragically viral!!</span>
+
+I’m a data scientist who likes to do software development for fun, and
+I had always hoped that a side project would get me famous. One
+project of mine was Tweet Mashup, a small website I made in an obscure
+programming language that lets you combine Twitter accounts for funny
+results. After finally launching it, I was soon shocked when it had
+3000 concurrent viewers—at that point I realized I had no idea what I
+was doing.
+
+I quickly discovered how badly my site was designed to scale, and I
+took days off work trying to apply patches and fix it. Tweet Mashup
+was being mentioned on news sites and on Twitter accounts with
+millions of followers but all I felt was panic. Eventually I
+stabilized the site, but by then the internet had moved on. This talk
+is about the journey I had with internet fame and then emotional tool
+of struggling to keep the project working.
+
+**Dr. Jacqueline Nolis** is an author of the book Build a Career in
+Data Science and is a co-founder of Nolis, LLC, a data science
+consulting firm. For fun she and her wife Heather like to use machine
+learning for humor, including training neural networks to make
+offensive license plates.
 
 ---
 
@@ -132,71 +263,79 @@ and designing toddler toys with her data scientist wife Jacqueline.
 
 ---
 
-### Jacqueline Nolis
+### Will Hammond
+<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Will Hammond"/>
 
-<img class='speaker-img' src="../images/speakers/jacqueline_nolis.jpeg" alt="Profile Photo of Jacqueline Nolis" />
+<span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
 
-<span class="talk-title">Tweet Mashup! How my pet project went tragically viral!!</span>
+It's often taken for granted that information can be sent near-losslessly. We don't expect songs on Spotify to sound drastically different compared to CD, we don't expect text to arrive in our web browser jumbled, and we don't expect our friend's voice to sound like Darth Vader over the phone. However, there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper "A Mathematical Theory of Communication", noise was considered the norm.  In this paper, Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
 
-I’m a data scientist who likes to do software development for fun, and
-I had always hoped that a side project would get me famous. One
-project of mine was Tweet Mashup, a small website I made in an obscure
-programming language that lets you combine Twitter accounts for funny
-results. After finally launching it, I was soon shocked when it had
-3000 concurrent viewers—at that point I realized I had no idea what I
-was doing.
-
-I quickly discovered how badly my site was designed to scale, and I
-took days off work trying to apply patches and fix it. Tweet Mashup
-was being mentioned on news sites and on Twitter accounts with
-millions of followers but all I felt was panic. Eventually I
-stabilized the site, but by then the internet had moved on. This talk
-is about the journey I had with internet fame and then emotional tool
-of struggling to keep the project working.
-
-**Dr. Jacqueline Nolis** is an author of the book Build a Career in
-Data Science and is a co-founder of Nolis, LLC, a data science
-consulting firm. For fun she and her wife Heather like to use machine
-learning for humor, including training neural networks to make
-offensive license plates.
+**Will** loves reading about noise while talking as little as possible.
 
 ---
 
-### Jason Orendorff
+### Maria Mishurenko
 
-<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Jason Orendorff" />
+<img class='speaker-img' src="../images/speakers/maria_mishurenko.jpeg" alt="Profile Photo of Maria Mishurenko" />
 
-<span class="talk-title">Wolf, Goat, and Cabbage In Two Styles!!</span>
 
-Consider two programming languages, both delightfully strange,
-but for good reasons. What if comparing them sheds light on how different programming
-languages enable thinking about time and data?
+<span class="talk-title">It’s alive, but not for long!! I generated thousands of 3D characters for my game, only to retire most of them.</span>
 
-Inform 7 is an unusual programming language that looks a bit like English prose. Alloy
-is a model specification language that looks kind of like advanced math. They are
-languages from two different worlds, but both are about objects and their
-relationships. Both come with interesting visualization tools. And both have some
-issues dealing with change. In this talk, we'll implement an ancient puzzle in both languages,
-explore their unique charms, and reflect on whether it's possible to step into the same river twice.
+My virtual reality hair-cutting game Bizarre Barber started as a graduate thesis,
+so I couldn’t afford to hire professional 3D modelers and riggers to help out with
+character designs. My team decided to employ a procedural pipeline and write a tool
+that would allow us to generate thousands of characters.
 
-**Jason Orendorff** works on the JavaScript engine that's in Firefox. He's the coauthor of *Programming Rust*.
+With the help of Houdini, Vex and Python, we set up a generator to make a variety of
+cute birds and mutants with bold hairstyles and automatically export them to the game
+engine for further processing.
+
+Sound awesome? Well, little did I know about human biases that would start to emerge when
+an artist turns into a curator and has to make tough decisions...
+
+**Maria Mishurenko** likes to deal with unexplored. She is a virtual reality developer
+and game designer from Brooklyn, New York. She is also a co-founder of the XR
+design studio Synesthetic Echo.
 
 ---
 
-### Jeremy Apthorp
+### Spencer Alves
+<img class='speaker-img' src="../images/speakers/spencer_alves.jpeg" alt="Profile Photo of Spencer Alves" />
 
-<img class='speaker-img' src="../images/speakers/jeremy_apthorp.jpeg" alt="Profile Photo of Jeremy Apthorp" />
+<span class="talk-title">Reverse engineering game formats for fun and profit! (well, mostly just fun)</span>
 
-<span class="talk-title">Curses!!</span>
+Video games can be cool, right? You know what's cooler? A hex editor!
 
-Okay, so you've probably called print() and seen some text appear in a terminal.
-Cool cool cool. But some programs print COLORS??? And move the cursor around and
-stuff? How in the heck does all that work?
+For a while I've made a hobby of figuring out how games store their data, and converting it to and from other formats. I'm far from the only one to do that, but I want to share what I have learned so that you don't have to start from scratch: things like how a hex editor works, what floating point looks like, file structures and layout, and more general reversing strategies.
 
-I got curious and went digging, and to _really_ answer this we need to go back to
-1835 and the first application of electrical engineering.
+**Spencer**'s a programmer who likes graphics, reverse engineering, games, and the color purple.
 
-**Jeremy** is easily nerd-snipable. He works on Electron in San Francisco, and makes video games sometimes.
+---
+
+### Wesley Aptekar-Cassels
+<img class='speaker-img' src="../images/speakers/wesley_a_c.jpeg" alt="Profile Photo of Wesley Aptekar-Cassels" />
+
+<span class="talk-title">Plotty Bird: Making Modern Games on Retro Pen Plotters!</span>
+
+If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter was the way to do it -- a device that would take a pen and physically move it over a piece of paper to produce a diagram. While printers are clearly a better way to print images now, there's still joy in watching a robot scratch out perfect lines on a blank sheet of paper. When I happened across a vintage pen plotter from the mid-80s, I had great fun making all sorts of art and pretty pictures. But I wondered -- could I do more with this? How can we stretch this medium into something new and surprising? Using it as an output device for playing games seemed too good an idea to resist.
+
+**Wesley** likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
+
+---
+
+### Lito Nicolai
+
+<img class='speaker-img' src="../images/speakers/lito_nicolai.jpeg" alt="Profile Photo of Lito Nicolai" />
+
+<span class="talk-title">*ba-ding!*</span>
+
+This is a talk about what happens when you turn on a Nintendo Game Boy, see the
+logo scroll down the screen, and hear the *ba-ding!* sound. It's about why it
+happens, and how we know what happens. It involves a clever and litigious company,
+trademark law, a microscope, nitric acid, and a very dedicated materials science student.
+
+**Lito** teaches programming and likes writing about computers. He has two hundred and six
+bones, at last count.
 
 ---
 
@@ -223,33 +362,31 @@ for the perfect vegan snack.
 
 ---
 
-### Jordan Hendricks
+### Tom Verbeure
+<img class='speaker-img' src="../images/speakers/tom_verbeure.jpeg" alt="Profile Photo of Tom Verbeure" />
 
-<img class='speaker-img' src="../images/speakers/jordan_hendricks.jpeg" alt="Profile Photo of Jordan Hendricks" />
+<span class="talk-title">Cisco Purses Cubed!</span>
 
-<span class="talk-title">Tex-Mex and malloc(3C): The Problems That Restaurant Hosts and Memory Allocators Have in Common!</span>
+Twelve discounted purses, obsolete Cisco hardware found on eBay, one cube. This talk shows how old stuff, destined to end up in the dump, can be upcycled into something entirely new: a story of reverse engineering unknown modems, dismantling hideous purses, LED driving protocols, designing PCBs on the cheap, some mechanical work, and reprogramming it all into a striking showpiece.
 
-Before my life as a systems engineer, I worked for years as a hostess at an
-extremely popular Oklahoman Tex-Mex restaurant, whose wait list would routinely
-top 20-40 parties in length and 1-2 hour wait times. The host staff had a challenging
-task: seat waiting parties efficiently as other customers left, while keeping hangry
-customers happy and efficiency-obsessed managers off of our backs.  Adding to our worries,
-the restaurant management would never turn a party away based on size, creating puzzles
-for the hosts: Where does one seat large parties -- for instance, a group of 10 -- when
-the largest table in the restaurant only holds 4 people? A clue: This problem looks a lot
-like the problems that memory allocators like malloc(3C) solve!
+After spending his daytime hours working on fun electronics projects, **Tom** goes home for dinner, and then retreats to his garage for some more hours of working on fun electronics projects.
 
-In this talk, I will explore some parallels between my job as a hostess, where I decided
-how to seat people given a set of restaurant tables and a wait list, and implementing
-a memory allocator, which chooses how to give out pieces of a larger region of memory to
-requesting programs. We will explore questions like: What does fragmentation look like in
-a restaurant? What are heuristics we can use to estimate when a table will be free? Do all
-relevant stakeholders -- customers, managers, host staff, servers -- equally benefit
-from the same allocation strategies?
+---
 
-**Jordan** is a systems software engineer who loves... Tex-Mex. You also might find her running
-(preferably close to large bodies of water), writing, or cooking elaborate meals with way
-too many ingredients to be reasonable.
+### Jeremy Apthorp
+
+<img class='speaker-img' src="../images/speakers/jeremy_apthorp.jpeg" alt="Profile Photo of Jeremy Apthorp" />
+
+<span class="talk-title">Curses!!</span>
+
+Okay, so you've probably called print() and seen some text appear in a terminal.
+Cool cool cool. But some programs print COLORS??? And move the cursor around and
+stuff? How in the heck does all that work?
+
+I got curious and went digging, and to _really_ answer this we need to go back to
+1835 and the first application of electrical engineering.
+
+**Jeremy** is easily nerd-snipable. He works on Electron in San Francisco, and makes video games sometimes.
 
 ---
 
@@ -273,22 +410,50 @@ outdoors, and time to be creative in her life.
 
 ---
 
-### Katie Broida
+### Naomi Saphra
+<img class='speaker-img' src="../images/speakers/naomi_saphra.jpeg" alt="Profile Photo of Naomi Saphra" />
 
-<img class='speaker-img' src="../images/speakers/katie_broida.jpeg" alt="Profile Photo of Katie Broida" />
+<span class="talk-title">Get Hooked On Neural Net Inspection! That was a pun!</span>
 
-<span class="talk-title">You can weave software into hardware! And then fly to the moon!!</span>
+Sometimes you want to find out some information about a neural net in PyTorch while it runs. Like what if you wanted to do some math of your own on the math that happens inside the network? You can do that with hooks! Hooks can go on each module of a neural network to spy on the black box and whisper its secrets to you. No neural net will keep its secrets hidden from your perceptive functions.
 
-In the 1960s when astronauts flew to the moon, they used cutting-edge technology:
-read-only memory that highly trained women wove together from hair-thin wires and
-iron cores. These hardcoded programs, called core rope memory, sat at the intersection
-of hardware and software, digital and analog. It was so resilient, it survived when Apollo
-12 was struck mid-air by lightning and rebooted flawlessly. Come learn about how this hard
-software was made, who created it, and how it got humankind to the moon!
+**Naomi** is a PhD student in natural language processing and machine learning in SCOTLAND. They do roller derby under the name Gaussian Retribution and they dictate all their code because typing really stinks for them.
 
-**Katie Broida** is a writer of software and a maker of handicrafts, especially
-textile ones. She loves the intersection of art, jokes and programming and collaborating
-with people on all of those topics.
+---
+
+### Vaibhav Sagar
+<img class='speaker-img' src="../images/speakers/vaibhav_sagar.jpeg" alt="Profile Photo of Vaibhav Sagar" />
+
+<span class="talk-title">Compilers for nothing, executables for free!</span>
+
+I'm going to talk about a less commonly known, but surprisingly useful, class
+of programs known as specialisers, and what you can do with them! I will also
+discuss the Futamura projections, which are mind-bending applications of this
+idea that have recently become practically useful!
+
+**Vaibhav** (@vbhvsgr) used to write web applications for a living. He still does, but he used to, too. When he’s not doing that he yells about package managers on Twitter and re-racks bumper plates after using them.
+
+---
+
+### Matías Lang
+<img class='speaker-img' src="../images/speakers/matias_lang.jpeg" alt="Profile Photo of Matias Lang" />
+
+<span class="talk-title">Delete all code! 100% testing coverage, the lazy way!</span>
+
+What do you do when your year-end bonus is directly related to the testing
+coverage of your project? Writing more tests, although expected, sounded pretty
+boring. Instead of that, I focused on writing a (totally useless) tool that
+deletes all untested branches on your code, therefore giving 100% coverage
+to your project, and not affecting its (tested) functionality!
+
+In this talk, we'll learn how to write code that uses AST manipulation to modify
+other pieces of code, and the problems of implementing this in Python. Also,
+we'll discuss how an initially useless side project turned out to be not so useless.
+
+**Matías** is an argentinian Python developer and bug bounty hunter. He is afraid
+of leaving leaving his terminal and switching to graphical user interfaces.
+Don't recommend him to use any piece of proprietary software, otherwise he will
+complain a lot about it.
 
 ---
 
@@ -319,69 +484,6 @@ leebutterman.com. He lives in Oakland, California.
 
 ---
 
-### Lito Nicolai
-
-<img class='speaker-img' src="../images/speakers/lito_nicolai.jpeg" alt="Profile Photo of Lito Nicolai" />
-
-<span class="talk-title">*ba-ding!*</span>
-
-This is a talk about what happens when you turn on a Nintendo Game Boy, see the
-logo scroll down the screen, and hear the *ba-ding!* sound. It's about why it
-happens, and how we know what happens. It involves a clever and litigious company,
-trademark law, a microscope, nitric acid, and a very dedicated materials science student.
-
-**Lito** teaches programming and likes writing about computers. He has two hundred and six
-bones, at last count.
-
----
-
-### Maria Mishurenko
-
-<img class='speaker-img' src="../images/speakers/maria_mishurenko.jpeg" alt="Profile Photo of Maria Mishurenko" />
-
-
-<span class="talk-title">It’s alive, but not for long!! I generated thousands of 3D characters for my game, only to retire most of them.</span>
-
-My virtual reality hair-cutting game Bizarre Barber started as a graduate thesis,
-so I couldn’t afford to hire professional 3D modelers and riggers to help out with
-character designs. My team decided to employ a procedural pipeline and write a tool
-that would allow us to generate thousands of characters.
-
-With the help of Houdini, Vex and Python, we set up a generator to make a variety of
-cute birds and mutants with bold hairstyles and automatically export them to the game
-engine for further processing.
-
-Sound awesome? Well, little did I know about human biases that would start to emerge when
-an artist turns into a curator and has to make tough decisions...
-
-**Maria Mishurenko** likes to deal with unexplored. She is a virtual reality developer
-and game designer from Brooklyn, New York. She is also a co-founder of the XR
-design studio Synesthetic Echo.
-
----
-
-### Matías Lang
-<img class='speaker-img' src="../images/speakers/matias_lang.jpeg" alt="Profile Photo of Matias Lang" />
-
-<span class="talk-title">Delete all code! 100% testing coverage, the lazy way!</span>
-
-What do you do when your year-end bonus is directly related to the testing
-coverage of your project? Writing more tests, although expected, sounded pretty
-boring. Instead of that, I focused on writing a (totally useless) tool that
-deletes all untested branches on your code, therefore giving 100% coverage
-to your project, and not affecting its (tested) functionality!
-
-In this talk, we'll learn how to write code that uses AST manipulation to modify
-other pieces of code, and the problems of implementing this in Python. Also,
-we'll discuss how an initially useless side project turned out to be not so useless.
-
-**Matías** is an argentinian Python developer and bug bounty hunter. He is afraid
-of leaving leaving his terminal and switching to graphical user interfaces.
-Don't recommend him to use any piece of propiertary software, otherwise he will
-complain a lot about it.
-
----
-
 ### Michelle Brenner
 <img class='speaker-img' src="../images/speakers/michelle_brenner.jpeg" alt="Profile Photo of Michelle Brenner" />
 
@@ -397,126 +499,25 @@ At the end of the talk, all you’ll need to worry about is which story you want
 
 ---
 
-### Naomi Saphra
-<img class='speaker-img' src="../images/speakers/naomi_saphra.jpeg" alt="Profile Photo of Naomi Saphra" />
+### Aaron Wood
+<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Aaron Wood" />
 
-<span class="talk-title">Get Hooked On Neural Net Inspection! That was a pun!</span>
 
-Sometimes you want to find out some information about a neural net in PyTorch while it runs. Like what if you wanted to do some math of your own on the math that happens inside the network? You can do that with hooks! Hooks can go on each module of a neural network to spy on the black box and whisper its secrets to you. No neural net will keep its secrets hidden from your perceptive functions.
+<span class="talk-title">The Ancient Greeks and Their Restless Cattle: A 2300-Year-Old Soap Opera About Big Integers! </span>
 
-**Naomi** is a PhD student in natural language processing and machine learning in SCOTLAND. They do roller derby under the name Gaussian Retribution and they dictate all their code because typing really stinks for them.
+Previously on The Ancient and the Restless:  Archimedes' new BigNumeral class
+is the talk of the town, but his biggest rival is out to destroy and replace it.
+Not to be outdone, Archimedes poses a cattle-counting problem to cement his
+place at the top.  As planned, the challenge proves insurmountable and interest
+in the problem eventually dies.
 
----
+....Or does it??  In true soap opera fashion, the long-forgotten problem has
+reappeared with a vengeance.  Will two millennia of maths and the advent of
+computers be enough to answer Archimedes' challenge to find the number of Cattle
+Under The Sun?!
 
-### Nick Fitzgerald
-<img class='speaker-img' src="../images/speakers/nick_fitzgerald.jpeg" alt="Profile Photo of Nick Fitzgerald" />
-
-<span class="talk-title">Writing Programs! That Write Other Programs!!</span>
-
-Why write programs when you can write a program to write programs for you? And that program writes programs that are faster than the programs you'd write by hand. And that program's programs are actually, you know, correct. Wow!
-
-Yep, it's time to synthesize. But this ain't Moog, this is *program synthesis*. What is that, and how can it upgrade our optimizers into *super*-optimizers? We'll find out!!
-
-**Nick**'s dream job is working in the Bon Appetit test kitchen, but he does computer-y stuff in the meantime. When he isn't computing, you can find him on his bike, lacto-fermenting chilies, or making art with his pen plotter.
-
----
-
-### Phil Warren
-<img class='speaker-img' src="../images/speakers/phil_warren.jpeg" alt="Profile Photo of Phil Warren" />
-
-<span class="talk-title">Beyond the Black Rainbow:  Why You Can’t Photograph Infrared Rainbows, and Using Booleans to Do It Anyway!</span>
-
-Why are there so many talks about rainbows?  And what’s on the other side? Rainbows are visions, but *not* illusions, and rainbows have something to hide!
-
-Frustratingly, infrared photographers find that they can never photograph the invisible extra stripes beyond red in a rainbow.  Instead, they’ll only see a single monochromatic band!  We will explore why, and dive into the boolean solution to make a three-channel model that reveals a full -olor unseen world!  Then, we’ll look at pictures of a world entirely in a spectrum we can’t see!
-
-**Phil Warren** works in R&D in image technology, and enjoys adventures, eating things, and meeting people.  He wants to explore and see everything, and discover new ways to do so. His skillset does not include competently wrestling alligators or catching rattlesnakes, but he's tried it anyway, and hopes to try many more esoteric pastimes!
-
----
-
-### Sarah Nguyen
-<img class='speaker-img' src="../images/speakers/sarah_nyugen.jpeg" alt="Profile Photo of Sarah Nyugen" />
-
-<span class="talk-title">linkRot!! Dancing the patterns of digital decay</span>
-
-This is a dance inspired by broadcast audio through RSS, technology obsolescence, Git version controls, and 3-2-1 backups. Sounds recorded from earlier talks will be regenerated to create auditory memories of early digital networking and are made tangible through isolated limbed branches that build to a feeling of potential completion. It soon breaks down as segments are gradually destroyed due to algorithmically-controlled centralized over-saturation. This is an exploration of existing digital archiving techniques that are missing components to recreate the full computational environment.
-
-linkRot is a dance that serves to emulate the physical euphoria that internet content creation permits to the digital decay that comes with loss (or is there even a feeling of loss?).
-
-**Sarah Nguyen** is a a dancer and a librarian-archivist in training. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Offline, she can be found riding a Cannondale mtb or eating plants.
-
----
-
-### Spencer Alves
-<img class='speaker-img' src="../images/speakers/spencer_alves.jpeg" alt="Profile Photo of Spencer Alves" />
-
-<span class="talk-title">Reverse engineering game formats for fun and profit! (well, mostly just fun)</span>
-
-Video games can be cool, right? You know what's cooler? A hex editor!
-
-For a while I've made a hobby of figuring out how games store their data, and converting it to and from other formats. I'm far from the only one to do that, but I want to share what I have learned so that you don't have to start from scratch: things like how a hex editor works, what floating point looks like, file structures and layout, and more general reversing strategies.
-
-**Spencer**'s a programmer who likes graphics, reverse engineering, games, and the color purple.
-
----
-
-### Tiffany Tseng
-<img class='speaker-img' src="../images/speakers/tiffany_tseng.jpeg" alt="Profile Photo of Tiffany Tseng" />
-
-<span class="talk-title">Packages, but in 3D!</span>
-
-Ever received a beautiful geometric gift box (from a Japanese pastry shop, for example) and wondered how it was made?  It turns out there’s a whole world of packaging design techniques and patterns!  Unfortunately, many of these patterns exist only in print via packaging design books.  These diagrams need to be translated to digital formats before they can be easily cut on a machine and assembled by hand!
-
-In this talk, I’ll share how I built a web app called SVG Tracer (https://svg-tracer.glitch.me/)  to translate photos of packaging diagrams to digital SVGs that can be directly sent to any Computer Numeric Controlled (CNC) desktop cutter.  I’ll introduce some useful JavaScript SVG libraries and show some pretty boxes that I created with the tool!  By the end of the talk, you’ll learn about how SVGs are an awesome medium for bridging art, programming, and fabrication.
-
-**Tiff** is a designer who creates tools for making. She loves all things at the intersection of art, engineering, and digital fabrication.
-
----
-
-### Tom Verbeure
-<img class='speaker-img' src="../images/speakers/tom_verbeure.jpeg" alt="Profile Photo of Tom Verbeure" />
-
-<span class="talk-title">Cisco Purses Cubed!</span>
-
-Twelve discounted purses, obsolete Cisco hardware found on eBay, one cube. This talk shows how old stuff, destined to end up in the dump, can be upcycled into something entirely new: a story of reverse engineering unknown modems, dismantling hideous purses, LED driving protocols, designing PCBs on the cheap, some mechanical work, and reprogramming it all into a striking showpiece.
-
-After spending his daytime hours working on fun electronics projects, **Tom** goes home for dinner, and then retreats to his garage for some more hours of working on fun electronics projects.
-
----
-
-### Vaibhav Sagar
-<img class='speaker-img' src="../images/speakers/vaibhav_sagar.jpeg" alt="Profile Photo of Vaibhav Sagar" />
-
-<span class="talk-title">Compilers for nothing, executables for free!</span>
-
-I'm going to talk about a less commonly known, but surprisingly useful, class
-of programs known as specialisers, and what you can do with them! I will also
-discuss the Futamura projections, which are mind-bending applications of this
-idea that have recently become practically useful!
-
-**Vaibhav** (@vbhvsgr) used to write web applications for a living. He still does, but he used to, too. When he’s not doing that he yells about package managers on Twitter and re-racks bumper plates after using them.
-
----
-
-### Wesley Aptekar-Cassels
-<img class='speaker-img' src="../images/speakers/wesley_a_c.jpeg" alt="Profile Photo of Wesley Aptekar-Cassels" />
-
-<span class="talk-title">Plotty Bird: Making Modern Games on Retro Pen Plotters!</span>
-
-If you wanted to print a diagram on a piece of paper in the 60s, a pen plotter was the way to do it -- a device that would take a pen and physically move it over a piece of paper to produce a diagram. While printers are clearly a better way to print images now, there's still joy in watching a robot scratch out perfect lines on a blank sheet of paper. When I happened across a vintage pen plotter from the mid-80s, I had great fun making all sorts of art and pretty pictures. But I wondered -- could I do more with this? How can we stretch this medium into something new and surprising? Using it as an output device for playing games seemed too good an idea to resist.
-
-**Wesley** likes asking surprising questions, ranting about computers, and attempting to think about systems far too large to fit in their brain.
-
----
-
-### Will Hammond
-<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Will Hammond"/>
-
-<span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
-
-It's often taken for granted that information can be sent near-losslessly. We don't expect songs on Spotify to sound drastically different compared to CD, we don't expect text to arrive in our web browser jumbled, and we don't expect our friend's voice to sound like Darth Vader over the phone. However, there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper "A Mathematical Theory of Communication", noise was considered the norm.  In this paper, Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
-
-**Will** loves reading about noise while talking as little as possible.
+**Aaron** is a mathematician turned programmer who loves soap operas and shiro wot.
+He is overly excitable about all of those things -- it's a slew of personal problems.
 
 ---
 

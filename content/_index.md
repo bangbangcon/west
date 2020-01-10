@@ -12,12 +12,17 @@ ten-minute talks about the joy, excitement, and surprise of computing, and the
 west-coast successor to [!!Con](http://bangbangcon.com/)!  We're looking
 forward to seeing you in Santa
 Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
-**February 29th and March 1st, 2020!**
+**February 29th and March 1st, 2020!**  More information on registration and
+ticket availability is coming soon -- make sure you're [subscribed to our
+mailing list](#how-do-i-get-updates) to be the first to know!
 
 ## Who's speaking?
 
-Our call for talk proposals is closed. Thanks for all your wonderful talk proposal submissions!
-Learn more about our amazing [speakers](speakers)!
+We have [28 incredible speakers this year](speakers), including our two
+amazing keynote speakers, [isis agora
+lovecruft](speakers#isis-agora-lovecruft) and [Erin Rose
+Glass](speakers#erin-rose-glass)!  We **can't wait** to hear all of them,
+and we hope that you'll be just as excited as we are.
 
 ## How do I get updates?
 
