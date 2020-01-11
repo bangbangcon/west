@@ -12,9 +12,32 @@ ten-minute talks about the joy, excitement, and surprise of computing, and the
 west-coast successor to [!!Con](http://bangbangcon.com/)!  We're looking
 forward to seeing you in Santa
 Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
-**February 29th and March 1st, 2020!**  More information on registration and
-ticket availability is coming soon -- make sure you're [subscribed to our
-mailing list](#how-do-i-get-updates) to be the first to know!
+**February 29th and March 1st, 2020!**
+
+## How do I get tickets?
+
+!!Con West tickets will be released in **two batches** this year:
+
+- The first batch will be released on **Saturday, January 18th, at noon
+  Pacific**.
+- The second batch will be released on **Thursday, January 23rd, at 10am
+  Pacific**.
+
+!!Con West was a **completely sold out** conference last year, so buy your
+tickets quickly!  This year, we're also adding a group of tickets reserved
+for first-time !!Con attendees (on the honor system, of course); we'd love to
+expand the !!Con crowd, so if you know someone who's been to a !!Con before
+and want to check it out for yourself, these tickets are for you!
+
+You can buy your tickets [on our Eventbrite
+page](https://www.eventbrite.com/e/con-west-2020-tickets-89355796593).  Our
+tickets are pay-what-you-want; our recommendation for a ticket price, to pay
+for yourself, is $128, but if your employer will be reimbursing your
+attendance (or if you'd like to support our sliding-scale ticket efforts by
+paying for yourself and someone else!), we'd request a ticket price of $256. 
+And, of course, if cost is a barrier to you attending !!Con West, feel free
+to purchase a half-price ticket at $64 -- or set any other price that you'd
+like to pay for a ticket!
 
 ## Who's speaking?
 
