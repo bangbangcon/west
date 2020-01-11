@@ -116,7 +116,7 @@ This is a dance inspired by broadcast audio through RSS, technology obsolescence
 
 linkRot is a dance that serves to emulate the physical euphoria that internet content creation permits to the digital decay that comes with loss (or is there even a feeling of loss?).
 
-**Sarah Nguyen** is a a dancer and a librarian-archivist in training. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Offline, she can be found riding a Cannondale mtb or eating plants.
+**Sarah Nguyen** is a dancer and a librarian-archivist in training. Her research focuses on preserving RSS feeds for podcasts, Git as a scholarly artifact, and using open source programs to document dance. Offline, she can be found riding a Cannondale mtb or eating plants.
 
 ---
 
