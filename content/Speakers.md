@@ -469,12 +469,12 @@ pre-trained models on 70k faces from Flickr! These 9000 dimensions represent
 everything from facial pose to hair styles to background to skin tone and more.
 We can try to find encodings of several drag queens, in drag and out of drag,
 and use those differences to interpolate our own faces. This is available
-online as well, with your webcam, at <https://<primary-author>.com/drag-makeover>.
+online as well, with your webcam, at <https://leebutterman.com/drag-makeover>.
 
 Modeling drag queen faces was much more computationally expensive than modeling
 passport photos, though it worked, and there are many points of exerting leverage
 on AI as a whole to make it more queer friendly. A collaborative repository of
-leverage points is available at <https://<primary-author>.com/queering-ai>.
+leverage points is available at <https://leebutterman.com/queering-ai>.
 
 **Lee Butterman** enjoys compute-intensive projects in the arts and humanities.
 He built the first text-to-speech engine for Latin poetry at poetaexmachina.net,
@@ -487,7 +487,7 @@ leebutterman.com. He lives in Oakland, California.
 ### Michelle Brenner
 <img class='speaker-img' src="../images/speakers/michelle_brenner.jpeg" alt="Profile Photo of Michelle Brenner" />
 
-<span class="talk-title">How To Host A Podcast For 25 Cents A Month?</span>
+<span class="talk-title">How To Host A Podcast For 25 Cents A Month!</span>
 
 Want to host a podcast, but don't know where to start? I have answers!! Last year I launched From The Source, where I interview unsung people in tech with amazing stories. Hosting involves three major components: an XML file with episode details, mp3 storage, and metrics on your listeners. In this talk, I’ll go over all the AWS tools and Python scripts I used so I could own my data and not incur hefty hosting fees.
 
