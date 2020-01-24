@@ -264,7 +264,7 @@ and designing toddler toys with her data scientist wife Jacqueline.
 ---
 
 ### Will Hammond
-<img class='speaker-img' src="../images/speakers/square_logo.png" alt="Profile Photo of Will Hammond"/>
+<img class='speaker-img' src="../images/speakers/will_hammond.jpg" alt="Profile Photo of Will Hammond"/>
 
 <span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
 

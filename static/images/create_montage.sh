@@ -2,6 +2,8 @@
 # Script modified from https://raw.githubusercontent.com/bangbangcon/bangbangcon.github.io/master/images/create_montage.sh
 # A script to generate the montage background image used in our 2018
 # website.  Depends on ImageMagick and coreutils (gshuf).
+set -e
+set -x
 
 # Create temporary directory for images
 mkdir -p /tmp/bangbangcon_images/resized
@@ -12,9 +14,23 @@ mkdir /tmp/bangbangcon_images/final
 # ones
 cp speakers/* /tmp/bangbangcon_images/
 
+SHUF=""
+if [ "$(command -v shuf)" ]; then
+    SHUF="shuf"
+elif [ "$(command -v gshuf)" ]; then
+    SHUF="gshuf"
+else
+    echo "coreutils missing, either shuf or gshuf is needed."
+    exit
+fi
+
 # Convert images to 50x50px
 i=1
-for image in `ls /tmp/bangbangcon_images/*.{jpg,png}`; do
+for image in `ls /tmp/bangbangcon_images/*.{jpg,jpeg,png}`; do
+    # don't include any !!Con logos in the montage
+    if [[ $image == *"logo"* ]]; then
+        continue
+    fi
     convert $image -resize 50x50^ -gravity center -crop 50x50+0+0 /tmp/bangbangcon_images/resized/$i.png
     let "i++";
 done
@@ -22,14 +38,14 @@ done
 # Numbers determined by experimentation -- this is what looked good!
 # If the number of source images changes, these will likely have to
 # change too.
-COPIES=3
+COPIES=5
 GRID_HEIGHT=12
-LEFTOVER_SLOTS=3 # number of spaces left over in grid
+LEFTOVER_SLOTS=4 # number of spaces left over in grid
 
 # Make copies and order images randomly
 j=1
 for ((i=1; i<=$COPIES; i++)); do
-    for image in `ls /tmp/bangbangcon_images/resized/*.png | gshuf`; do
+    for image in `ls /tmp/bangbangcon_images/resized/*.png | $SHUF`; do
         cp $image /tmp/bangbangcon_images/final/$j.png;
         let "j++";
     done
@@ -37,7 +53,7 @@ done
 
 # Pick a random 6 images to fill in the gap at the end
 k=1
-for image in `ls /tmp/bangbangcon_images/final/*.png | gshuf | head -n $LEFTOVER_SLOTS`; do
+for image in `ls /tmp/bangbangcon_images/final/*.png | $SHUF | head -n $LEFTOVER_SLOTS`; do
     #echo $image;
     cp $image /tmp/bangbangcon_images/final/extra_$k.png;
     let "k++";
