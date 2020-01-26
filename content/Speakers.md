@@ -108,7 +108,7 @@ explore their unique charms, and reflect on whether it's possible to step into t
 ---
 
 ### Sarah Nguyen
-<img class='speaker-img' src="../images/speakers/sarah_nyugen.jpeg" alt="Profile Photo of Sarah Nyugen" />
+<img class='speaker-img' src="../images/speakers/sarah_nguyen.jpeg" alt="Profile Photo of Sarah Nyugen" />
 
 <span class="talk-title">linkRot!! Dancing the patterns of digital decay</span>
 
