@@ -87,7 +87,41 @@ Interested in sponsoring !!Con West?  Please have a look at our [sponsorship pro
 in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 
 <div class="sponsor-list">
-<!-- TODO: Get sponsors and add them here! -->
+
+<!-- otherwise hugo gets confused -->
+<div></div>
+
+### PHENOMENAL!!! Sponsors
+
+<div class="sponsor big-sponsor">
+	<a href="https://www.soe.ucsc.edu" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img src="images/sponsors/baskin-logo-banner-new.jpg" alt="UC Santa Cruz, Baskin Engineering"/>
+		</div>
+	</a>
+</div>
+
+---
+
+<!--
+
+### EXCELLENT!! Sponsors
+
+---
+-->
+
+### AWESOME! Sponsors
+
+<div class="sponsor">
+	<a href="https://www.recurse.com" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="140" alt="Recurse Center" src="images/sponsors/recurse.svg"/>
+		</div>
+	</a>
+</div>
+
 </div>
 
 ## Who's organizing all this?
