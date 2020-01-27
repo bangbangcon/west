@@ -102,6 +102,15 @@ in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 	</a>
 </div>
 
+<div class="sponsor big-sponsor">
+	<a href="https://www.lightstep.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img width=575 src="images/sponsors/lightstep-logo.svg" alt="Lightstep"/>
+		</div>
+	</a>
+</div>
+
 ---
 
 <!--
