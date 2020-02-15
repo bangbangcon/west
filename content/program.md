@@ -25,7 +25,7 @@ Time             | Event
 -----------------|-------------------------------------------------------------------------
 9:00am          | Space opens (please don't arrive before nine!)
 9:00-10:30am    | Registration; continental breakfast; mingling
-10:30-11:30am   | &bull; Opening remarks <br /> &bull; Keynote talk: [Isis](/speakers#isis-agora-lovecruft)
+10:30-11:30am   | &bull; Opening remarks <br /> &bull; Keynote talk: [isis lovecruft](/speakers#isis-agora-lovecruft)
 11:30-11:45am   | Break!
 11:45am-12:20pm | **First Session!** <br/> &bull; *You can weave software into hardware! And then fly to the moon!!* ([Katie Broida](/speakers#katie-broida))<br /> &bull; *You can put WHAT in DNS TXT records?!?!* ([Breanne Boland](/speakers#breanne-boland))<br /> &bull; *Wolf, Goat, and Cabbage In Two Styles!!* ([Jason Orendorff](/speakers#jason-orendorff))
 12:20-1:30pm    | Lunch is served!
