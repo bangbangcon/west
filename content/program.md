@@ -17,7 +17,7 @@ Jump directly to the [Saturday](#saturday) or [Sunday](#sunday) program!
 
 ### Saturday, 29 February 2020
 
-<div class="scheduletable">
+<div style="font-size: 100%;" class="scheduletable">
 
 <div></div>
 
@@ -41,7 +41,7 @@ Time             | Event
 
 ### Sunday, 1 March 2020
 
-<div class="scheduletable">
+<div style="font-size:100%;"  class="scheduletable">
 
 <div></div>
 
