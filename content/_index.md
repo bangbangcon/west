@@ -16,7 +16,7 @@ Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 
 ## How do I get tickets?
 
-!Con West is a pay-what-you-want conference, but tickets are now sold out. If you missed the registration, don't fret: we still encourage you to [get on the ticket waitlist!](https://www.eventbrite.com/e/con-west-2020-tickets-89355796593)
+!!Con West is a pay-what-you-want conference, but tickets are now sold out. If you missed the registration, don't fret: we still encourage you to [get on the ticket waitlist!](https://www.eventbrite.com/e/con-west-2020-tickets-89355796593)
 
 ## Who's speaking?
 
