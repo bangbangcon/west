@@ -110,6 +110,19 @@ in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 	</a>
 </div>
 
+<div class="sponsor">
+	<a href="https://accelerated.tech" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="140" alt="Accelerated Tech" src="images/sponsors/accelerated-tech.png"/>
+		</div>
+	</a>
+</div>
+
+
+
+
+
 </div>
 
 ## Who's organizing all this?
