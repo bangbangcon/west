@@ -6,10 +6,21 @@
     <description>Recent content in !!Con West on !!Con West : Joy, Surprise, and Excitement of Computing!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 10:52:57 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://bangbangcon.com/west/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Program</title>
+      <link>http://bangbangcon.com/west/program/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://bangbangcon.com/west/program/</guid>
+      <description>Conference program Jump directly to the Saturday or Sunday program!
+
+Saturday, 29 February 2020     Time Event     9:00am Space opens (please don&amp;rsquo;t arrive before nine!)   9:00-10:30am Registration; continental breakfast; mingling   10:30-11:30am &amp;bull; Opening remarks &amp;bull; Keynote talk: isis lovecruft   11:30-11:45am Break!   11:45am-12:20pm First Session!  &amp;bull; You can weave software into hardware! And then fly to the moon!</description>
+    </item>
     
     <item>
       <title>Getting Here</title>
