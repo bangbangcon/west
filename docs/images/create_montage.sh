@@ -2,8 +2,22 @@
 # Script modified from https://raw.githubusercontent.com/bangbangcon/bangbangcon.github.io/master/images/create_montage.sh
 # A script to generate the montage background image used in our 2018
 # website.  Depends on ImageMagick and coreutils (gshuf).
+
+SIZE=50x50
+OUT=montage.jpg
+COPIES=4
+
+while [ $# -gt 0 ]; do
+	case "$1" in
+	--size) SIZE="$2"; shift 2 ;;
+	--out) OUT="$2"; shift 2 ;;
+	--copies) COPIES="$2"; shift 2 ;;
+	*) echo "unknown option $1" >&2; exit 1 ;;
+	esac
+done
+
 set -e
-set -x
+#set -x
 
 # Create temporary directory for images
 mkdir -p /tmp/bangbangcon_images/resized
@@ -31,36 +45,40 @@ for image in `ls /tmp/bangbangcon_images/*.{jpg,jpeg,png}`; do
     if [[ $image == *"logo"* ]]; then
         continue
     fi
-    convert $image -resize 50x50^ -gravity center -crop 50x50+0+0 /tmp/bangbangcon_images/resized/$i.png
+    convert $image -resize $SIZE^ -gravity center -crop $SIZE+0+0 /tmp/bangbangcon_images/resized/$i.png
     let "i++";
 done
 
 # Numbers determined by experimentation -- this is what looked good!
 # If the number of source images changes, these will likely have to
 # change too.
-COPIES=5
-GRID_HEIGHT=12
-LEFTOVER_SLOTS=11 # number of spaces left over in grid
+NIMAGES=$(($(ls /tmp/bangbangcon_images/resized/*.png | wc -l) * $COPIES))
+WIDTH=$(dc -e "$NIMAGES vp") # square root and floor
+GRID_HEIGHT=$(($NIMAGES / $WIDTH))
+GRID_HEIGHT=$(($GRID_HEIGHT + (($WIDTH * $GRID_HEIGHT) < $NIMAGES))) # ceil
+LEFTOVER_SLOTS=$(($WIDTH * $GRID_HEIGHT - $NIMAGES)) # number of spaces left over in grid
+
+echo "Trying to tile $NIMAGES images into $WIDTH x $GRID_HEIGHT (total $(($WIDTH * $GRID_HEIGHT)), adding $LEFTOVER_SLOTS)" >&2
 
 # Make copies and order images randomly
 j=1
 for ((i=1; i<=$COPIES; i++)); do
     for image in `ls /tmp/bangbangcon_images/resized/*.png | $SHUF`; do
-        cp $image /tmp/bangbangcon_images/final/$j.png;
+        IMGS="$IMGS $image"
         let "j++";
     done
 done
 
 # Pick a random 6 images to fill in the gap at the end
 k=1
-for image in `ls /tmp/bangbangcon_images/final/*.png | $SHUF | head -n $LEFTOVER_SLOTS`; do
+for image in `ls /tmp/bangbangcon_images/resized/*.png | $SHUF | head -n $LEFTOVER_SLOTS`; do
     #echo $image;
-    cp $image /tmp/bangbangcon_images/final/extra_$k.png;
+    IMGS="$IMGS $image"
     let "k++";
 done
 
 # Arrange in a grid
-montage /tmp/bangbangcon_images/final/*.png -tile x$GRID_HEIGHT -geometry +0+0 -quality 90 montage.jpg
+montage $IMGS -tile x$GRID_HEIGHT -geometry +0+0 -quality 90 $OUT
 
 # Get rid of temp files
 rm -r /tmp/bangbangcon_images/
