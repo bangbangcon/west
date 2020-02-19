@@ -12,7 +12,7 @@ mkdir /tmp/bangbangcon_images/final
 # Copy speaker images to temp dir, in an order such that if a given
 # speaker occurs more than once, newer images will overwrite older
 # ones
-cp speakers/* /tmp/bangbangcon_images/
+cp speakers/* ../2019/images/speakers/*.jpg /tmp/bangbangcon_images/
 
 SHUF=""
 if [ "$(command -v shuf)" ]; then
@@ -40,7 +40,7 @@ done
 # change too.
 COPIES=5
 GRID_HEIGHT=12
-LEFTOVER_SLOTS=4 # number of spaces left over in grid
+LEFTOVER_SLOTS=11 # number of spaces left over in grid
 
 # Make copies and order images randomly
 j=1
