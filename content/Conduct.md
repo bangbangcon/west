@@ -139,7 +139,7 @@ please feel free to reach out to any of the conference organizers.
 
 If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, [please contact a member of conference
-staff](west-2020@exclamation.foundation). <!-- TODO:  You can use the
+staff](mailto:west-2020@exclamation.foundation). <!-- TODO:  You can use the
 below form to contact us, with or without your name. -->
 
 Conference staff will be happy to do whatever we can to help those experiencing
