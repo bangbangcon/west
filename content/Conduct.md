@@ -139,8 +139,8 @@ please feel free to reach out to any of the conference organizers.
 
 If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, [please contact a member of conference
-staff](mailto:west-2020@exclamation.foundation). <!-- TODO:  You can use the
-below form to contact us, with or without your name. -->
+staff](mailto:west-2020@exclamation.foundation). You can use [this form](https://forms.gle/voRRAKdmA2LcrLHz5) 
+to contact us, with or without your name. -->
 
 Conference staff will be happy to do whatever we can to help those experiencing
 harassment to feel safe for the duration of the conference. We value your
@@ -152,7 +152,8 @@ attendance.
 report](/2019/conduct-transparency) for reported incidents in 2019.
 
 ## Report a violation (with or without your name)
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7BelUe86RIdd6uI4s3duNvRRimQhod-UZ3bzVoHlZhCeXMw/viewform?embedded=true" width="640" height="801" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+You can report a violation [here](https://forms.gle/voRRAKdmA2LcrLHz5).
 
 ## License
 
