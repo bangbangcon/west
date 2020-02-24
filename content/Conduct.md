@@ -140,7 +140,7 @@ please feel free to reach out to any of the conference organizers.
 If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, [please contact a member of conference
 staff](mailto:west-2020@exclamation.foundation). You can use [this form](https://forms.gle/voRRAKdmA2LcrLHz5) 
-to contact us, with or without your name. -->
+to contact us, with or without your name.
 
 Conference staff will be happy to do whatever we can to help those experiencing
 harassment to feel safe for the duration of the conference. We value your
