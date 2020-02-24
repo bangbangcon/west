@@ -92,6 +92,18 @@ contributed seed funding to help launch our inaugural !!Con West in 2019,
 and a
 couple members of the organizing team have a UCSC affiliation.
 
+## While the UCSC graduate student strike is going on, does attending the conference count as crossing the picket line?
+
+We talked to some of the organizers of the graduate student strike -- they
+have told us that "the strike organizing committee doesn't consider !!Con
+West over the weekend to be crossing the picket line".  All the same, we
+hope that you'll educate yourself about why the graduate students are
+striking, and if you can, [donate to their strike
+fund](https://www.gofundme.com/f/support-fund-for-striking-workers-at-ucsc/donate). 
+We have a [Twitter thread with more on
+this](https://twitter.com/bangbangconwest/status/1230891386574004224), and
+we'll have even more about it at the conference!!
+
 ## I have a question that isn't covered in this FAQ.  Who can I ask?
 
 Contact the organizing team by [email](mailto:west-2020@exclamation.foundation) or
