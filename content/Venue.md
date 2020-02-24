@@ -26,6 +26,11 @@ marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;wi
 
 ## Getting to Santa Cruz
 
+For registered attendees, we have sent you information about a Slack in
+which you can discuss carpooling with each other.  If you haven't received
+that invitation, please [let us
+know](mailto:west-2020@exclamation.foundation).
+
 ### By car from the Bay Area
 
 - The best way to get to Santa Cruz from most of the Peninsula is by way of
@@ -79,8 +84,38 @@ know](mailto:west-2020@exclamation.foundation)!)
 
 ## Getting from Santa Cruz to Jack Baskin Auditorium
 
-We are considering having shuttles between Santa Cruz downtown and the
-Jack Baskin Auditorium. Please keep an eye on this page!
+### By shuttle
+
+We're providing *free shuttle buses* to help !!Con attendees get between the conference, the [Hampton Inn Santa Cruz](https://goo.gl/maps/VSDYfQtWZEz), and [downtown Santa Cruz](https://goo.gl/maps/t1UhFcoyxWx)!  The shuttle schedule will be the
+same for both conference days. The times shown are the departure times from the
+pick-up location.
+
+Keep in mind that depending on road conditions, the shuttles might arrive 5-10 minutes late.
+
+Hampton Inn is graciously letting !!Con West use the hotel as a shuttle stop.
+They have a tiny lobby, and they asked us to wait out front. They have a large
+overhang, so you will stay dry!
+
+**Morning**
+
+[Hampton Inn](https://goo.gl/maps/VSDYfQtWZEz) → Baskin Auditorium
+
+* 8:45am
+* 9:30am
+
+[Southwest corner of Pacific Ave. and Cathcart St. (on Cathcart St. next to Old School Shoes)](https://goo.gl/maps/t1UhFcoyxWx) → Baskin Auditorium
+
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=208-246%20Cathcart%20St%2C%20Santa%20Cruz%2C%20CA%2095060&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+
+* 8:55am
+* 9:40am
+
+**Evening**
+
+Baskin Auditorium → Southwest corner of Pacific Ave. and Cathcart St. and Hampton Inn
+
+* Saturday: 5:10pm (arriving 5:25pm at Cathcart St., and 5:30pm at Hampton Inn)
+* Sunday: 4:40pm (arriving 4:55pm at Cathcart St., and 5:10pm at Hampton Inn)
 
 ### By car
 
