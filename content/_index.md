@@ -92,12 +92,18 @@ in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 
 ---
 
-<!--
-
 ### EXCELLENT!! Sponsors
 
+<div class="sponsor medium-sponsor">
+	<a href="https://www.twilio.com" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="160" alt="Twilio" src="images/sponsors/twilio-logo-red.png"/>
+		</div>
+	</a>
+</div>
+
 ---
--->
 
 ### AWESOME! Sponsors
 
@@ -119,8 +125,24 @@ in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 	</a>
 </div>
 
+<div style="display:table"></div> <!-- force a line break by overflowing. you learn new CSS tricks every day! -->
+<div class="sponsor">
+	<a href="https://www.mapbox.com/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="70" alt="Mapbox" src="images/sponsors/mapbox-logo-black.svg"/>
+		</div>
+	</a>
+</div>
 
-
+<div class="sponsor">
+	<a href="https://heap.io/" target="_blank">
+	<span class="magic">.</span>
+	<div class="logo">
+		<img height="70" alt="Heap" src="images/sponsors/heap.svg"/>
+		</div>
+	</a>
+</div>
 
 
 </div>
