@@ -39,6 +39,21 @@ surveillance and control.
 
 ---
 
+### Kate Compton
+
+<img class='speaker-img' src="../images/speakers/kate_compton.jpeg" alt="Profile Photo of Kate Compton" />
+
+<a href="http://www.galaxykate.com">**Dr Kate Compton** (**galaxykate**)</a> is a long-time generative artist, inventor, and
+programmer.  She wrote the first paper on procedural platformer levels,
+generated the planets for Spore, created the language Tracery, and invented
+an early phone-based AR system.  She currently works as an open-source
+researcher developing the next directions for Tracery and creative chatbots. 
+Her mission is to design artificial intelligence to augment human
+creativity, and to create tools that brings AI into the hands of poets,
+artists, kids, and weirdos.
+
+---
+
 ## Lightning Talks
 
 (Speakers are sorted by `sha256sum` of their name, of course!)
@@ -187,35 +202,6 @@ censorship!).
 loves travel, cats, and making stuff (though the order of importance changes,
 depending on the day).
 
----
-
-### Jacqueline Nolis
-
-<img class='speaker-img' src="../images/speakers/jacqueline_nolis.jpeg" alt="Profile Photo of Jacqueline Nolis" />
-
-<span class="talk-title">Tweet Mashup! How my pet project went tragically viral!!</span>
-
-I’m a data scientist who likes to do software development for fun, and
-I had always hoped that a side project would get me famous. One
-project of mine was Tweet Mashup, a small website I made in an obscure
-programming language that lets you combine Twitter accounts for funny
-results. After finally launching it, I was soon shocked when it had
-3000 concurrent viewers—at that point I realized I had no idea what I
-was doing.
-
-I quickly discovered how badly my site was designed to scale, and I
-took days off work trying to apply patches and fix it. Tweet Mashup
-was being mentioned on news sites and on Twitter accounts with
-millions of followers but all I felt was panic. Eventually I
-stabilized the site, but by then the internet had moved on. This talk
-is about the journey I had with internet fame and then emotional tool
-of struggling to keep the project working.
-
-**Dr. Jacqueline Nolis** is an author of the book Build a Career in
-Data Science and is a co-founder of Nolis, LLC, a data science
-consulting firm. For fun she and her wife Heather like to use machine
-learning for humor, including training neural networks to make
-offensive license plates.
 
 ---
 
@@ -234,43 +220,6 @@ new ideas about using sound in concert with sight to envision data in a new way.
 **don-E Merson** is a Ph.D. student at the University of Arizona in Information.
 He has over 27 years of experience in the software industry. He is currently a
 programmer working on a web repository for biological surveys of vegetation.
-
----
-
-### Heather Nolis
-
-<img class='speaker-img' src="../images/speakers/heather_nolis.jpeg" alt="Profile Photo of Heather Nolis" />
-
-<span class="talk-title">this data was supposed to show how much I love my son but instead I got depression: a breastfeeding story!!!</span>
-
-Sent to my bed with a newborn baby, I was told to make sure he was eating
-"enough", which a worksheet helpfully defined as 0.7 oz every 1.5 hours.
-I immediately downloaded an app and began collecting data. I recorded every
-single time he breastfed, the duration, the side, and the amount (if applicable).
-Knowing how much milk my baby needs, when he needs it, how much milk he is drinking,
-and how much milk I have produced should be a data enthusiast's dream! Instead, I became
-a walking, talking, high-alert forecasting and anomaly detection system, unable to
-detach from the rigor of my data collection exercise which surely would prove to my
-son that I love him when he's older... right?
-
-During this presentation I will use the data I collected and the analysis surrounding it
-to tell one true story of breastfeeding, data collection, and postpartum mood disorders.
-Sometimes, having more data isn't the best (and sometimes it is okay to give up).
-
-**Heather Nolis** is a machine learning engineer at T-Mobile leading the AI team but
-began her career in neuroscience! She spends her free time doing goofy NLP projects
-and designing toddler toys with her data scientist wife Jacqueline.
-
----
-
-### Will Hammond
-<img class='speaker-img' src="../images/speakers/will_hammond.jpg" alt="Profile Photo of Will Hammond"/>
-
-<span class="talk-title">Noise!?? WHAT NOISE!!!??</span>
-
-It's often taken for granted that information can be sent near-losslessly. We don't expect songs on Spotify to sound drastically different compared to CD, we don't expect text to arrive in our web browser jumbled, and we don't expect our friend's voice to sound like Darth Vader over the phone. However, there was a time when this was thought to be impossible. Prior to Claude Shannon's 1948 paper "A Mathematical Theory of Communication", noise was considered the norm.  In this paper, Shannon gives a mathematical language for representing and minimizing noise. This talk gives a visual and interactive overview of why this work continues to be relevant to this day.
-
-**Will** loves reading about noise while talking as little as possible.
 
 ---
 
