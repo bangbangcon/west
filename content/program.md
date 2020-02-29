@@ -33,9 +33,9 @@ Time             | Event
 2:20-2:40pm     | Break!
 2:40-3:15pm     | **Third Session!** <br/> &bull; *Plotty Bird - Making Modern Games on Retro Pen Plotters!* ([Wesley Aptekar-Cassels](/speakers#wesley-aptekar-cassels))<br /> &bull; *Reverse engineering game formats for fun and profit! (well, mostly just fun)* ([Spencer Alves](/speakers#spencer-alves))<br /> &bull; *ba-ding!* ([Lito Nicolai](/speakers#lito-nicolai))
 3:15-4:10pm     | Unconferencing!
-4:10-4:50pm     | **Fourth Session!** <br/> &bull; *Noise!?? WHAT NOISE !!!??* ([Will Hammond](/speakers#will-hammond))<br /> &bull; *Sonification: You Can See Your Complex Data with Sound!!* ([don-E Merson](/speakers#don-e-merson))<br /> &bull; *Beyond the Black Rainbow:  Why You Can’t Photo Infrared Rainbows, and Using Booleans to Do It Anyway!* ([Phil Warren](/speakers#phil-warren)) <br /> &bull; *Curses!!* ([Jeremy Apthorp](/speakers#jeremy-apthorp))
+4:10-4:50pm     | **Fourth Session!** <br /> &bull; *Sonification: You Can See Your Complex Data with Sound!!* ([don-E Merson](/speakers#don-e-merson))<br /> &bull; *Beyond the Black Rainbow:  Why You Can’t Photo Infrared Rainbows, and Using Booleans to Do It Anyway!* ([Phil Warren](/speakers#phil-warren)) <br /> &bull; *Curses!!* ([Jeremy Apthorp](/speakers#jeremy-apthorp))
 4:50-5:00pm     | &bull; Closing Remarks <br/> &bull; Wrap for the day (dinner, etc., on your own)
-5:10pm     | &bull; Shuttle departs! <br/> 
+5:10pm     | &bull; Shuttle departs! <br/>
 
 </div>
 
@@ -55,7 +55,7 @@ Time            | Event
 11:15-11:30am   | Break!
 11:30am-12:05pm    | **Fifth Session!** <br /> &bull; *The surprising hacks behind my 3D reconstructed wedding cake topper!* ([Kathleen Tuite](/speakers#kathleen-tuite)) <br /> &bull; *Delete all code! 100% testing coverage, the lazy way!* ([Matías Lang](/speakers#matías-lang))<br /> &bull; *Tex-Mex and malloc(3C): The Problems That Restaurant Hosts and Memory Allocators Have in Common!* ([Jordan Hendricks](/speakers#jordan-hendricks))
 12:05-1:10pm     | Lunch is served!
-1:10-1:35pm     | **Sixth Session!** <br /> &bull; Bonus extra keynote talk: *Of Muppets, Metaballs, and Ballroom Dance!* ([Kate Compton](/speakers/#kate-compton)
+1:10-1:35pm     | **Sixth Session!** <br /> &bull; Bonus extra keynote talk: *Of Muppets, Metaballs, and Ballroom Dance!* ([Kate Compton](/speakers/#kate-compton))
 1:35-2:25pm | Unconferencing!
 2:25-3:15pm | **Seventh Session!** <br /> &bull; *linkRot!! Dancing the patterns of digital decay* ([Sarah Nguyen](/speakers#sarah-nguyen)) <br /> &bull; *How I solved my NYC parking problem with Python!* ([Jessica Garson](/speakers#jessica-garson)) <br /> &bull; *Packages, but in 3D!* ([Tiffany Tseng](/speakers#tiffany-tseng))<br /> &bull; *Cisco Purses Cubed!* ([Tom Verbeure](/speakers#tom-verbeure))
 3:15-3:30pm     | Break!
