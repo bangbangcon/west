@@ -9,7 +9,7 @@ type: "homepage"
 
 <center>
 ## Watch !!Con West 2020 Live!
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MTQ0fv4a-u8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KMr6_PURpqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
@@ -26,8 +26,7 @@ Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 !!Con West is a pay-what-you-want conference; tickets this year are entirely
 sold out.  If you missed getting tickets, don't fret: thanks to our
 AWESOME! streaming sponsors, [Recurse Center](https://www.recurse.com) you can [watch !!Con West
-live](https://www.youtube.com/watch?v=MTQ0fv4a-u8) (that's the Saturday
-link; we'll update here for Sunday, of course!), and speaker permitting,
+live](https://www.youtube.com/watch?v=KMr6_PURpqc) (that's the Sunday link), and speaker permitting,
 we'll record it all for you -- and, for the first time, our live stream will
 have open captioning, sponsored by our PHENOMENAL!!! sponsors,
 [Lightstep](https://www.lightstep.com/)!
