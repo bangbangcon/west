@@ -7,13 +7,6 @@ menu:
 type: "homepage"
 ---
 
-<center>
-## Watch !!Con West 2020 Live!
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KMr6_PURpqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</center>
-
-
 **!!Con** (pronounced "bang bang con") **West** is a two-day conference of
 ten-minute talks about the joy, excitement, and surprise of computing, and the
 west-coast successor to [!!Con](http://bangbangcon.com/)!  We're looking
