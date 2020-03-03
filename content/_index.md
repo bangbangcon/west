@@ -7,32 +7,22 @@ menu:
 type: "homepage"
 ---
 
-**!!Con** (pronounced "bang bang con") **West** is a two-day conference of
+**!!Con** (pronounced "bang bang con") **West** was a two-day conference of
 ten-minute talks about the joy, excitement, and surprise of computing, and the
-west-coast successor to [!!Con](http://bangbangcon.com/)!  We're looking
-forward to seeing you in Santa
+west-coast successor to [!!Con](http://bangbangcon.com/)! It was held in Santa
 Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 **February 29th and March 1st, 2020!**
 
-## How do I get tickets?
+!!Con West was a pay-what-you-want conference, with tickets that were completely sold out!
 
-!!Con West is a pay-what-you-want conference; tickets this year are entirely
-sold out.  If you missed getting tickets, don't fret: thanks to our
-AWESOME! streaming sponsors, [Recurse Center](https://www.recurse.com) you can [watch !!Con West
-live](https://www.youtube.com/watch?v=KMr6_PURpqc) (that's the Sunday link), and speaker permitting,
-we'll record it all for you -- and, for the first time, our live stream will
-have open captioning, sponsored by our PHENOMENAL!!! sponsors,
-[Lightstep](https://www.lightstep.com/)!
+## Who spoke?
 
-## Who's speaking?
-
-We have [28 incredible speakers this year](speakers), including our two
+We had [28 incredible speakers this year](speakers), including our three
 amazing keynote speakers, [isis agora
-lovecruft](speakers#isis-agora-lovecruft) and [Erin Rose
-Glass](speakers#erin-rose-glass)!  We **can't wait** to hear all of them,
-and we hope that you'll be just as excited as we are.
+lovecruft](speakers#isis-agora-lovecruft), [Erin Rose
+Glass](speakers#erin-rose-glass), and [Kate Compton](speakers#kate-compton)!  We were incredinly excited by this year's talk line-up and we know that you will be too!
 
-## How do I get updates?
+## How do I get updates on future !!Con West?
 
 Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
 
@@ -66,10 +56,10 @@ and we'll never share your email address with anyone else.
 Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var
 $mcj = jQuery.noConflict(true);</script> <!--End mc_embed_signup-->
 
-## Who are our sponsors?
+## Who sponsored?
 
-Interested in sponsoring !!Con West?  Please have a look at our [sponsorship prospectus](sponsors), or [get
-in touch by e-mail](mailto:west-2020@exclamation.foundation)!
+We had a [sponsorship prospectus](sponsors), or sponsors could [get
+in touch](mailto:west-2020@exclamation.foundation)!
 
 <div class="sponsor-list">
 
@@ -153,9 +143,9 @@ in touch by e-mail](mailto:west-2020@exclamation.foundation)!
 
 </div>
 
-## Who's organizing all this?
+## Who's organized?
 
-The !!Con West 2020 organizing team consists of
+The !!Con West 2020 organizing team was
 [Dema Abu Adas](https://twitter.com/human_dema),
 [Dev Purandare](https://twitter.com/dev14e),
 [Gargi Sharma](https://twitter.com/gawwrgi),
