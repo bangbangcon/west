@@ -8,7 +8,7 @@ menu:
     weight: 20
 ---
 
-# Who's speaking at !!Con West?
+# Who spoke at !!Con West?
 
 ## Keynote Speakers
 

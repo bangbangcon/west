@@ -13,16 +13,19 @@ west-coast successor to [!!Con](http://bangbangcon.com/)! It was held in Santa
 Cruz, California, on the campus of [UC Santa Cruz](https://www.ucsc.edu/), on
 **February 29th and March 1st, 2020!**
 
-!!Con West was a pay-what-you-want conference, with tickets that were completely sold out!
+!!Con West was a pay-what-you-want conference; tickets that were completely sold
+out.
 
 ## Who spoke?
 
-We had [28 incredible speakers this year](speakers), including our three
+We had [26 incredible speakers this year](speakers), including our three
 amazing keynote speakers, [isis agora
 lovecruft](speakers#isis-agora-lovecruft), [Erin Rose
-Glass](speakers#erin-rose-glass), and [Kate Compton](speakers#kate-compton)!  We were incredinly excited by this year's talk line-up and we know that you will be too!
+Glass](speakers#erin-rose-glass), and [Kate Compton](speakers#kate-compton)!  We were
+incredibly excited by this year's talk line-up; video recordings will be
+available soon, sponsored by Recurse Center.
 
-## How do I get updates on future !!Con West?
+## How do I get updates on future !!Cons West?
 
 Follow us on Twitter at [@bangbangconwest](https://twitter.com/bangbangconwest)!
 
@@ -140,8 +143,14 @@ in touch](mailto:west-2020@exclamation.foundation)!
 	</a>
 </div>
 
-
 </div>
+
+---
+
+### Other sponsorship
+
+Recurse Center sponsored live video streaming and the recorded talks;
+LightStep sponsored our famous open captioning, and Saturday's delicious lunch!
 
 ## Who's organized?
 
