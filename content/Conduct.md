@@ -11,6 +11,9 @@ type: "single"
 
 # Code of conduct
 
+**!!Con West's Code of Conduct committee has compiled a [transparency
+report](/conduct-transparency) for reported incidents in 2020.**
+
 We value the participation of each member of the !!Con West community and want all
 attendees to have an enjoyable and fulfilling experience. Accordingly, all
 attendees are expected to show respect and courtesy to other attendees
@@ -148,8 +151,8 @@ attendance.
 
 ## Transparency reports
 
-!!Con West's Code of Conduct committee has compiled a [transparency
-report](/2019/conduct-transparency) for reported incidents in 2019.
+!!Con West's Code of Conduct committee has compiled transparency reports for
+[2019](/2019/conduct-transparency) and [2020](/conduct-transparency).
 
 ## Report a violation (with or without your name)
 
