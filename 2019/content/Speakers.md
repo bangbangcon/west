@@ -709,9 +709,9 @@ development, "how we got here", and the roads not taken.
 
 ---
 
-### Eric Fischer
+### Erica Fischer
 
-<img class='speaker-img' src="../images/speakers/eric-fischer.jpg" alt="Profile Photo of Eric Fischer"/>
+<img class='speaker-img' src="../images/speakers/erica-fischer.jpg" alt="Profile Photo of Erica Fischer"/>
 <span class="talk-title">`if` ... `then` ... `else` had to be
 invented!</span>
 
@@ -727,8 +727,8 @@ execution that existed before Algol, the alternatives that the language's
 creators considered, the final form they chose, and how it shaped our
 thoughts going forward.
 
-**Eric Fischer** is a software engineer and data artist at Mapbox, and was
+**Erica Fischer** is a software engineer and data artist at Mapbox, and was
 previously an artist in residence at the Exploratorium and on the Android
-team at Google. Eric's favorite library catalog classifications include
+team at Google. Erica's favorite library catalog classifications include
 Library of Congress HE, HF, HT, QA, TD, TE, TF, TG, and TK, and
 Dewey Decimal 352, 388, 711, 782, and 786.
