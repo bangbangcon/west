@@ -35,7 +35,7 @@ href="speakers">check it out</a>!
 <div><a href="./speakers#arshia-mufti"><img height="100" width="100" src="images/speakers/arshia-mufti.jpg" alt="Arshia Mufti" /></a></div>
 <div><a href="./speakers#breanne-boland"><img height="100" width="100" src="images/speakers/breanne-boland.jpg" alt="Breanne Boland" /></a></div>
 <div><a href="./speakers#daisy-tsang"><img height="100" width="100" src="images/speakers/daisy-tsang.jpg" alt="Daisy Tsang" /></a></div>
-<div><a href="./speakers#eric-fischer"><img height="100" width="100" src="images/speakers/eric-fischer.jpg" alt="Eric Fischer" /></a></div>
+<div><a href="./speakers#erica-fischer"><img height="100" width="100" src="images/speakers/erica-fischer.jpg" alt="Erica Fischer" /></a></div>
 <div><a href="./speakers#eric-weinstein"><img height="100" width="100" src="images/speakers/eric-weinstein.jpg" alt="Eric Weinstein" /></a></div>
 <div><a href="./speakers#jennifer-wang"><img height="100" width="100" src="images/speakers/jennifer-wang.jpg" alt="Jennifer Wang" /></a></div>
 <div><a href="./speakers#jeroen-jerry-van-leeuwen"><img height="100" width="100" src="images/speakers/jerry-van-leeuwen.jpg" alt="Jerry van Leeuwen" /></a></div>
