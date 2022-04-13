@@ -60,7 +60,7 @@ Time            | Event
 | 2:40 - 3:00pm | Break!
 | 3:00 - 3:50pm | **Seventh Session!**  <ul><li>*How to throw out 95% of pixels in virtual reality, without anyone noticing!!*&nbsp; ([Amrita Mazumdar](/speakers#amrita-mazumdar)) <li>*How to calculate the phase of the moon very, very badly!*&nbsp; ([André Arko](/speakers#andr-eacute-arko)) <li>*Value Your Types!*&nbsp; ([Eric Weinstein](/speakers#eric-weinstein)) <li>*The Conjuring: ransomware edition!!*&nbsp; ([Pranshu Bajpai](/speakers#pranshu-bajpai))</ul>
 | 3:50 - 4:10pm     | Break!
-| 4:10 - 4:45pm     | **Eighth Session!**  <ul><li>*Observability in the Kitchen: Improve Your Breadmaking Skills with Open-Source Monitoring!!*&nbsp; ([Daisy Tsang](/speakers#daisy-tsang)) <li>*Computers are fast! But how come they sometimes feel slow?*&nbsp; ([Mike Lazer-Walker](/speakers#mike-lazer-walker)) <li>*My, my, TTY!*&nbsp; ([Tabitha Sable](/speakers#tabitha-sable))</ul>
+| 4:10 - 4:45pm     | **Eighth Session!**  <ul><li>*Observability in the Kitchen: Improve Your Breadmaking Skills with Open-Source Monitoring!!*&nbsp; ([Daisy Tsang](/speakers#daisy-tsang)) <li>*Computers are fast! But how come they sometimes feel slow?*&nbsp; ([Emilia Lazer-Walker](/speakers#emilia-lazer-walker)) <li>*My, my, TTY!*&nbsp; ([Tabitha Sable](/speakers#tabitha-sable))</ul>
 | 4:45 - 5:00pm  | Thanks, closing remarks, and end of conference
 
 </div>

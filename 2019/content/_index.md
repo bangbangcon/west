@@ -35,6 +35,7 @@ href="speakers">check it out</a>!
 <div><a href="./speakers#arshia-mufti"><img height="100" width="100" src="images/speakers/arshia-mufti.jpg" alt="Arshia Mufti" /></a></div>
 <div><a href="./speakers#breanne-boland"><img height="100" width="100" src="images/speakers/breanne-boland.jpg" alt="Breanne Boland" /></a></div>
 <div><a href="./speakers#daisy-tsang"><img height="100" width="100" src="images/speakers/daisy-tsang.jpg" alt="Daisy Tsang" /></a></div>
+<div><a href="./speakers#emilia-lazer-walker"><img height="100" width="100" src="images/speakers/emilia-lazer-walker.png" alt="Emilia Lazer-Walker" /></a></div>
 <div><a href="./speakers#erica-fischer"><img height="100" width="100" src="images/speakers/erica-fischer.jpg" alt="Erica Fischer" /></a></div>
 <div><a href="./speakers#eric-weinstein"><img height="100" width="100" src="images/speakers/eric-weinstein.jpg" alt="Eric Weinstein" /></a></div>
 <div><a href="./speakers#jennifer-wang"><img height="100" width="100" src="images/speakers/jennifer-wang.jpg" alt="Jennifer Wang" /></a></div>
@@ -47,7 +48,6 @@ href="speakers">check it out</a>!
 <div><a href="./speakers#michael-arntzenius"><img height="100" width="100" src="images/speakers/michael-arntzenius.jpg" alt="Michael Arntzenius" /></a></div>
 <div><a href="./speakers#michael-knowles"><img height="100" width="100" src="images/speakers/michael-knowles.png" alt="Michael Knowles" /></a></div>
 <div><a href="./speakers#michael-malis"><img height="100" width="100" src="images/speakers/michael-malis.jpg" alt="Michael Malis" /></a></div>
-<div><a href="./speakers#mike-lazer-walker"><img height="100" width="100" src="images/speakers/mike-lazer-walker.png" alt="Mike Lazer-Walker" /></a></div>
 <div><a href="./speakers#misty-de-m-eacute-o"><img height="100" width="100" src="images/speakers/misty-de-meo.jpg" alt="Misty de Meo" /></a></div>
 <div><a href="./speakers#molly-lloyd"><img height="100" width="100" src="images/speakers/molly-lloyd.jpg" alt="Molly Lloyd" /></a></div>
 <div><a href="./speakers#nick-piesco"><img height="100" width="100" src="images/speakers/nick-piesco.jpg" alt="Nick Piesco" /></a></div>
