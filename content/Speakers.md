@@ -470,4 +470,4 @@ He is overly excitable about all of those things -- it's a slew of personal prob
 
 ---
 
-Perhaps you would be interested in our [2019](../2019/content/speakers) speakers as well?
+Perhaps you would be interested in our [2019](../2019/speakers) speakers as well?
