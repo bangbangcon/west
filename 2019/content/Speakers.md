@@ -217,7 +217,7 @@ Jerk parent.
 
 ### Em Lazer-Walker
 
-<img class='speaker-img' src="../images/speakers/em-lazer-walker.png" alt="Profile Photo of
+<img class='speaker-img' src="../images/speakers/em-lazer-walker.jpg" alt="Profile Photo of
 Em Lazer-Walker"/>
 <span class="talk-title">Computers are fast!  But how come they sometimes
 feel slow?</span>
